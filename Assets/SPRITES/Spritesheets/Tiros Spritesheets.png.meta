@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 51ef9f733c98ff84d9683336188d411b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1961722481756240418
+    second: Tiros Spritesheets_0
+  - first:
+      213: -2229370710789982948
+    second: Tiros Spritesheets_1
+  - first:
+      213: -3557760364482275705
+    second: Tiros Spritesheets_2
+  - first:
+      213: 4611894311876239312
+    second: Tiros Spritesheets_3
+  - first:
+      213: -6464106462097706188
+    second: Tiros Spritesheets_4
+  - first:
+      213: -3665485697804199804
+    second: Tiros Spritesheets_5
+  - first:
+      213: -8957972039155419866
+    second: Tiros Spritesheets_6
+  - first:
+      213: -8559572594937922316
+    second: Tiros Spritesheets_7
+  - first:
+      213: 5988493260788108023
+    second: Tiros Spritesheets_8
+  - first:
+      213: -717539592816253215
+    second: Tiros Spritesheets_9
+  - first:
+      213: 1990518311564267241
+    second: Tiros Spritesheets_10
+  - first:
+      213: 5803600316048509655
+    second: Tiros Spritesheets_11
+  - first:
+      213: -2300196599537994746
+    second: Tiros Spritesheets_12
+  - first:
+      213: 7312703221952804704
+    second: Tiros Spritesheets_13
+  - first:
+      213: -2144347086517571149
+    second: Tiros Spritesheets_14
+  - first:
+      213: -2067392308270502427
+    second: Tiros Spritesheets_15
+  - first:
+      213: -6078594922200285611
+    second: Tiros Spritesheets_16
+  - first:
+      213: 1412271123341684165
+    second: Tiros Spritesheets_17
+  - first:
+      213: 6142374939797206666
+    second: Tiros Spritesheets_0
+  - first:
+      213: 1756317149109833432
+    second: Tiros Spritesheets_1
+  - first:
+      213: 1644661460090170827
+    second: Tiros Spritesheets_2
+  - first:
+      213: 1572110424276761367
+    second: Tiros Spritesheets_3
+  - first:
+      213: 6575355736173406824
+    second: Tiros Spritesheets_4
+  - first:
+      213: 3981047430766789110
+    second: Tiros Spritesheets_5
+  - first:
+      213: 5579459309980382890
+    second: Tiros Spritesheets_6
+  - first:
+      213: 1823267345275021076
+    second: Tiros Spritesheets_7
+  - first:
+      213: 2970395363499444363
+    second: Tiros Spritesheets_8
+  - first:
+      213: 2240862711091217252
+    second: Tiros Spritesheets_9
+  - first:
+      213: 3757435388025545504
+    second: Tiros Spritesheets_10
+  - first:
+      213: -5332503944463974113
+    second: Tiros Spritesheets_11
+  - first:
+      213: 4165416847929151099
+    second: Tiros Spritesheets_12
+  - first:
+      213: 8435903425109275782
+    second: Tiros Spritesheets_13
+  - first:
+      213: 4418657929128134615
+    second: Tiros Spritesheets_14
+  - first:
+      213: 6752071817951489725
+    second: Tiros Spritesheets_15
+  - first:
+      213: 7664350779742659564
+    second: Tiros Spritesheets_16
+  - first:
+      213: 2889449921412647761
+    second: Tiros Spritesheets_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiros Spritesheets_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1045
+        width: 444
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86bfdbc6791e3550800000000000000
+      internalID: 6142374939797206666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1050
+        width: 468
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de4e994421bf5810800000000000000
+      internalID: 1756317149109833432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_2
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1060
+        width: 483
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd237852e203d610800000000000000
+      internalID: 1644661460090170827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_3
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1070
+        width: 502
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b74baf91241d510800000000000000
+      internalID: 1572110424276761367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_4
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1060
+        width: 483
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a617e443b504b50800000000000000
+      internalID: 6575355736173406824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_5
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 1050
+        width: 467
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f106d8bb858f3730800000000000000
+      internalID: 3981047430766789110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 558
+        width: 397
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa670226ea83e6d40800000000000000
+      internalID: 5579459309980382890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 570
+        width: 397
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417efad8dfb8d4910800000000000000
+      internalID: 1823267345275021076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_8
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 578
+        width: 398
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880ad368d6f83920800000000000000
+      internalID: 2970395363499444363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_9
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 588
+        width: 397
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c20d53c4291f10800000000000000
+      internalID: 2240862711091217252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_10
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 578
+        width: 397
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023aeb1e397152430800000000000000
+      internalID: 3757435388025545504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_11
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 571
+        width: 398
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f110bd25ae32ff5b0800000000000000
+      internalID: -5332503944463974113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 142
+        width: 304
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8e3acd888ec930800000000000000
+      internalID: 4165416847929151099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_13
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 129
+        width: 320
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b3254879521570800000000000000
+      internalID: 8435903425109275782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_14
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 149
+        width: 315
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d745a9b9f9325d30800000000000000
+      internalID: 4418657929128134615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_15
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 143
+        width: 311
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeacee5b8d24bd50800000000000000
+      internalID: 6752071817951489725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_16
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 142
+        width: 300
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ac8c3d6e3d5a60800000000000000
+      internalID: 7664350779742659564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiros Spritesheets_17
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 129
+        width: 318
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc4120563691820800000000000000
+      internalID: 2889449921412647761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

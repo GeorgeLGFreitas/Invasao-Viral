@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 14f553182d947b6419a2b929b7bdee0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7016289022845047605
+    second: Player Deixando Rastro_0
+  - first:
+      213: 2993396740354582237
+    second: Player Deixando Rastro_1
+  - first:
+      213: -615190212972427260
+    second: Player Deixando Rastro_2
+  - first:
+      213: -8078594163944556928
+    second: Player Deixando Rastro_3
+  - first:
+      213: 8895225404739189245
+    second: Player Deixando Rastro_4
+  - first:
+      213: 7375328370600088710
+    second: Player Deixando Rastro_5
+  - first:
+      213: -1909181729031441065
+    second: Player Deixando Rastro_6
+  - first:
+      213: -4622311232065765427
+    second: Player Deixando Rastro_7
+  - first:
+      213: -8586109306696310508
+    second: Player Deixando Rastro_8
+  - first:
+      213: -5616907989155268152
+    second: Player Deixando Rastro_9
+  - first:
+      213: -8546670724067104474
+    second: Player Deixando Rastro_10
+  - first:
+      213: 4763607742053246788
+    second: Player Deixando Rastro_11
+  - first:
+      213: 9217116762315295752
+    second: Player Deixando Rastro_12
+  - first:
+      213: 4653271869931029672
+    second: Player Deixando Rastro_13
+  - first:
+      213: -8572859352746969073
+    second: Player Deixando Rastro_14
+  - first:
+      213: -393240625627334151
+    second: Player Deixando Rastro_15
+  - first:
+      213: -8357824078795239737
+    second: Player Deixando Rastro_16
+  - first:
+      213: -4307878955441470681
+    second: Player Deixando Rastro_17
+  - first:
+      213: -3033827705054401197
+    second: Player Deixando Rastro_18
+  - first:
+      213: 6114123731253023771
+    second: Player Deixando Rastro_19
+  - first:
+      213: 6754660395683452472
+    second: Player Deixando Rastro_20
+  - first:
+      213: -7518351371802580434
+    second: Player Deixando Rastro_21
+  - first:
+      213: 6198958203035059957
+    second: Player Deixando Rastro_22
+  - first:
+      213: -8399575740813836227
+    second: Player Deixando Rastro_23
+  - first:
+      213: 6626882677385942057
+    second: Player Deixando Rastro_24
+  - first:
+      213: 3264748238481858102
+    second: Player Deixando Rastro_25
+  - first:
+      213: 7461285231785020150
+    second: Player Deixando Rastro_26
+  - first:
+      213: 3962116532193074840
+    second: Player Deixando Rastro_27
+  - first:
+      213: -6453818882178712722
+    second: Player Deixando Rastro_28
+  - first:
+      213: -754853677293176307
+    second: Player Deixando Rastro_29
+  - first:
+      213: -2595882802311203555
+    second: Player Deixando Rastro_30
+  - first:
+      213: -658720362985818770
+    second: Player Deixando Rastro_31
+  - first:
+      213: -8019180741635492678
+    second: Player Deixando Rastro_32
+  - first:
+      213: -9175813090319625058
+    second: Player Deixando Rastro_33
+  - first:
+      213: 5202039582445020750
+    second: Player Deixando Rastro_34
+  - first:
+      213: -2467249419761705247
+    second: Player Deixando Rastro_35
+  - first:
+      213: -2988601303969859792
+    second: Player Deixando Rastro_36
+  - first:
+      213: -9142848560576488026
+    second: Player Deixando Rastro_37
+  - first:
+      213: 7912703965140734480
+    second: Player Deixando Rastro_38
+  - first:
+      213: 8661422520468115962
+    second: Player Deixando Rastro_39
+  - first:
+      213: 6436803024232676678
+    second: Player Deixando Rastro_40
+  - first:
+      213: 8795985568976344903
+    second: Player Deixando Rastro_41
+  - first:
+      213: -4649291646520624656
+    second: Player Deixando Rastro_42
+  - first:
+      213: 6446883514589497217
+    second: Player Deixando Rastro_43
+  - first:
+      213: 7952535300822852503
+    second: Player Deixando Rastro_44
+  - first:
+      213: -5375234036026160124
+    second: Player Deixando Rastro_45
+  - first:
+      213: -5613204204811586133
+    second: Player Deixando Rastro_46
+  - first:
+      213: 1388441709720269798
+    second: Player Deixando Rastro_47
+  - first:
+      213: -5946886170936760622
+    second: Player Deixando Rastro_48
+  - first:
+      213: 3891001833778083658
+    second: Player Deixando Rastro_49
+  - first:
+      213: 1410860805346592736
+    second: Player Deixando Rastro_50
+  - first:
+      213: -5002456770686842164
+    second: Player Deixando Rastro_51
+  - first:
+      213: -7235195945506101061
+    second: Player Deixando Rastro_52
+  - first:
+      213: 563307104213618414
+    second: Player Deixando Rastro_53
+  - first:
+      213: -3964212140129718574
+    second: Player Deixando Rastro_54
+  - first:
+      213: -1723054845756921546
+    second: Player Deixando Rastro_55
+  - first:
+      213: 1656802095988765491
+    second: Player Deixando Rastro_56
+  - first:
+      213: 5856672629411440700
+    second: Player Deixando Rastro_57
+  - first:
+      213: -2528843648531988770
+    second: Player Deixando Rastro_58
+  - first:
+      213: 1433249274397672259
+    second: Player Deixando Rastro_59
+  - first:
+      213: 6683597987715617734
+    second: Player Deixando Rastro_60
+  - first:
+      213: 2638359677942209613
+    second: Player Deixando Rastro_61
+  - first:
+      213: -8623529358787413472
+    second: Player Deixando Rastro_62
+  - first:
+      213: 8284175025369748269
+    second: Player Deixando Rastro_63
+  - first:
+      213: 903993423956475450
+    second: Player Deixando Rastro_64
+  - first:
+      213: 6724298660167813438
+    second: Player Deixando Rastro_65
+  - first:
+      213: -6114925876741492228
+    second: Player Deixando Rastro_66
+  - first:
+      213: -5794867153061063998
+    second: Player Deixando Rastro_67
+  - first:
+      213: 6324671690970158431
+    second: Player Deixando Rastro_68
+  - first:
+      213: -6787893463634358285
+    second: Player Deixando Rastro_69
+  - first:
+      213: 4946631424738783423
+    second: Player Deixando Rastro_70
+  - first:
+      213: -1873838866151953730
+    second: Player Deixando Rastro_71
+  - first:
+      213: -2726895117033345050
+    second: Player Deixando Rastro_72
+  - first:
+      213: -105708088990829866
+    second: Player Deixando Rastro_73
+  - first:
+      213: -3176390610507909853
+    second: Player Deixando Rastro_74
+  - first:
+      213: -8829787069190692901
+    second: Player Deixando Rastro_75
+  - first:
+      213: -3198761452054258840
+    second: Player Deixando Rastro_76
+  - first:
+      213: -6903731608384376180
+    second: Player Deixando Rastro_77
+  - first:
+      213: 3839158788669280794
+    second: Player Deixando Rastro_78
+  - first:
+      213: 2030291829866650398
+    second: Player Deixando Rastro_79
+  - first:
+      213: 7293863923292611973
+    second: Player Deixando Rastro_80
+  - first:
+      213: 6335482338344419084
+    second: Player Deixando Rastro_81
+  - first:
+      213: 5966591196837171244
+    second: Player Deixando Rastro_82
+  - first:
+      213: 6743224182184187725
+    second: Player Deixando Rastro_83
+  - first:
+      213: 7547453987726407515
+    second: Player Deixando Rastro_84
+  - first:
+      213: 8806975648006052543
+    second: Player Deixando Rastro_85
+  - first:
+      213: -6257313789185492535
+    second: Player Deixando Rastro_86
+  - first:
+      213: -1789003288539495884
+    second: Player Deixando Rastro_87
+  - first:
+      213: 7167718423205136293
+    second: Player Deixando Rastro_88
+  - first:
+      213: -5571174952448996203
+    second: Player Deixando Rastro_89
+  - first:
+      213: -863828306685878174
+    second: Player Deixando Rastro_90
+  - first:
+      213: 1125789143885968638
+    second: Player Deixando Rastro_91
+  - first:
+      213: 2434919603562407044
+    second: Player Deixando Rastro_92
+  - first:
+      213: -5211715931890259158
+    second: Player Deixando Rastro_93
+  - first:
+      213: 5139926286647510836
+    second: Player Deixando Rastro_94
+  - first:
+      213: -6246250091914487455
+    second: Player Deixando Rastro_95
+  - first:
+      213: -6278135427801115766
+    second: Player Deixando Rastro_96
+  - first:
+      213: -5019086135815845271
+    second: Player Deixando Rastro_97
+  - first:
+      213: 5223106789354603681
+    second: Player Deixando Rastro_98
+  - first:
+      213: 1162971378694504539
+    second: Player Deixando Rastro_99
+  - first:
+      213: -7159077853451430556
+    second: Player Deixando Rastro_100
+  - first:
+      213: -4940074804399283744
+    second: Player Deixando Rastro_101
+  - first:
+      213: -2441521829174189275
+    second: Player Deixando Rastro_102
+  - first:
+      213: -6784871018775749117
+    second: Player Deixando Rastro_103
+  - first:
+      213: -2845065312357424434
+    second: Player Deixando Rastro_104
+  - first:
+      213: 4980436288682345090
+    second: Player Deixando Rastro_105
+  - first:
+      213: 6467922522934384782
+    second: Player Deixando Rastro_106
+  - first:
+      213: 5287481685115872820
+    second: Player Deixando Rastro_107
+  - first:
+      213: -6082550949197720221
+    second: Player Deixando Rastro_108
+  - first:
+      213: -2233704450170407174
+    second: Player Deixando Rastro_109
+  - first:
+      213: 8293732379486285463
+    second: Player Deixando Rastro_110
+  - first:
+      213: 5768657160541850904
+    second: Player Deixando Rastro_111
+  - first:
+      213: 3500892485473998151
+    second: Player Deixando Rastro_112
+  - first:
+      213: -2482584620866984133
+    second: Player Deixando Rastro_113
+  - first:
+      213: 8740100343487086845
+    second: Player Deixando Rastro_114
+  - first:
+      213: -2349943664588127493
+    second: Player Deixando Rastro_115
+  - first:
+      213: -3268370333924258177
+    second: Player Deixando Rastro_116
+  - first:
+      213: -1826480864142342979
+    second: Player Deixando Rastro_117
+  - first:
+      213: -8782353377531531607
+    second: Player Deixando Rastro_118
+  - first:
+      213: -5463904630968444364
+    second: Player Deixando Rastro_119
+  - first:
+      213: 6421690628513353823
+    second: Player Deixando Rastro_120
+  - first:
+      213: -8235051865134565592
+    second: Player Deixando Rastro_121
+  - first:
+      213: 5444912702327604817
+    second: Player Deixando Rastro_122
+  - first:
+      213: -1925683368534406384
+    second: Player Deixando Rastro_123
+  - first:
+      213: 6720040071097737954
+    second: Player Deixando Rastro_124
+  - first:
+      213: 5138848342979561000
+    second: Player Deixando Rastro_125
+  - first:
+      213: -1005271797336013642
+    second: Player Deixando Rastro_126
+  - first:
+      213: -5349297253164068804
+    second: Player Deixando Rastro_127
+  - first:
+      213: -2088837186349441004
+    second: Player Deixando Rastro_128
+  - first:
+      213: 4926046514868031436
+    second: Player Deixando Rastro_129
+  - first:
+      213: -7825624914558395142
+    second: Player Deixando Rastro_130
+  - first:
+      213: 4682673170026880892
+    second: Player Deixando Rastro_131
+  - first:
+      213: -5467708939664403456
+    second: Player Deixando Rastro_132
+  - first:
+      213: -5978570183666333898
+    second: Player Deixando Rastro_133
+  - first:
+      213: -7120250829036622814
+    second: Player Deixando Rastro_134
+  - first:
+      213: 5558435728965898048
+    second: Player Deixando Rastro_135
+  - first:
+      213: 3921459133731047403
+    second: Player Deixando Rastro_136
+  - first:
+      213: 5230793472562865622
+    second: Player Deixando Rastro_137
+  - first:
+      213: -7288817500637528290
+    second: Player Deixando Rastro_138
+  - first:
+      213: 2892343940035957825
+    second: Player Deixando Rastro_139
+  - first:
+      213: 5094871405584698892
+    second: Player Deixando Rastro_140
+  - first:
+      213: -3126283166723358974
+    second: Player Deixando Rastro_141
+  - first:
+      213: 4317747529916219294
+    second: Player Deixando Rastro_142
+  - first:
+      213: 3847967055813833089
+    second: Player Deixando Rastro_143
+  - first:
+      213: -4439474820897129856
+    second: Player Deixando Rastro_144
+  - first:
+      213: -8084073946314553982
+    second: Player Deixando Rastro_145
+  - first:
+      213: -8403194207280577630
+    second: Player Deixando Rastro_146
+  - first:
+      213: 9117591615219524831
+    second: Player Deixando Rastro_147
+  - first:
+      213: 5410653930522559230
+    second: Player Deixando Rastro_148
+  - first:
+      213: 2518272320676958066
+    second: Player Deixando Rastro_149
+  - first:
+      213: -2212112448607587745
+    second: Player Deixando Rastro_150
+  - first:
+      213: -4287199768365085323
+    second: Player Deixando Rastro_151
+  - first:
+      213: 5032538120441768404
+    second: Player Deixando Rastro_152
+  - first:
+      213: -5665428098520851910
+    second: Player Deixando Rastro_153
+  - first:
+      213: 3455875135412642906
+    second: Player Deixando Rastro_154
+  - first:
+      213: -2112434855254031682
+    second: Player Deixando Rastro_155
+  - first:
+      213: -868870818574097055
+    second: Player Deixando Rastro_156
+  - first:
+      213: -8444993248543111310
+    second: Player Deixando Rastro_0
+  - first:
+      213: -4631696426319202100
+    second: Player Deixando Rastro_1
+  - first:
+      213: -4461227688214205697
+    second: Player Deixando Rastro_2
+  - first:
+      213: -4455091378374121488
+    second: Player Deixando Rastro_3
+  - first:
+      213: 3107790745248413592
+    second: Player Deixando Rastro_4
+  - first:
+      213: -3650106004037741465
+    second: Player Deixando Rastro_5
+  - first:
+      213: 4596214547732736858
+    second: Player Deixando Rastro_6
+  - first:
+      213: 6529443615215863974
+    second: Player Deixando Rastro_7
+  - first:
+      213: 6346925422368324619
+    second: Player Deixando Rastro_8
+  - first:
+      213: 7953385881744574004
+    second: Player Deixando Rastro_9
+  - first:
+      213: -3455379514515208795
+    second: Player Deixando Rastro_10
+  - first:
+      213: 5900434168578123330
+    second: Player Deixando Rastro_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Deixando Rastro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277040a426b5dca80800000000000000
+      internalID: -8444993248543111310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83cc9d3a8e8bfb0800000000000000
+      internalID: -4631696426319202100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaeadddd098612c0800000000000000
+      internalID: -4461227688214205697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7ea16def55c22c0800000000000000
+      internalID: -4455091378374121488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89737ce8737112b20800000000000000
+      internalID: 3107790745248413592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7645fccade7385dc0800000000000000
+      internalID: -3650106004037741465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_6
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ba71587c809cf30800000000000000
+      internalID: 4596214547732736858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1035
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a842e1af5e3d9a50800000000000000
+      internalID: 6529443615215863974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf8205b0fc41850800000000000000
+      internalID: 6346925422368324619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 35
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4360ef2125a106e60800000000000000
+      internalID: 7953385881744574004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 35
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5c82193a60c00d0800000000000000
+      internalID: -3455379514515208795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Deixando Rastro_11
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 35
+        width: 1280
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2462dae4d9d82e150800000000000000
+      internalID: 5900434168578123330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

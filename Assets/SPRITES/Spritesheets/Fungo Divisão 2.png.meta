@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: d55d567940cbcc3479d1fdcc366ad443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2745573382374136466
+    second: "Fungo Divis\xE3o 2_0"
+  - first:
+      213: 4089795566273337564
+    second: "Fungo Divis\xE3o 2_1"
+  - first:
+      213: -8419701757489691208
+    second: "Fungo Divis\xE3o 2_2"
+  - first:
+      213: -86076374289711071
+    second: "Fungo Divis\xE3o 2_3"
+  - first:
+      213: 206750181880444720
+    second: "Fungo Divis\xE3o 2_4"
+  - first:
+      213: 6842081582182976537
+    second: "Fungo Divis\xE3o 2_5"
+  - first:
+      213: -3344355939997792492
+    second: "Fungo Divis\xE3o 2_6"
+  - first:
+      213: 4421364179804997107
+    second: "Fungo Divis\xE3o 2_7"
+  - first:
+      213: 6605102303277504175
+    second: "Fungo Divis\xE3o 2_8"
+  - first:
+      213: 3252751341241295686
+    second: "Fungo Divis\xE3o 2_9"
+  - first:
+      213: -555500596428967824
+    second: "Fungo Divis\xE3o 2_10"
+  - first:
+      213: 981071105112164621
+    second: "Fungo Divis\xE3o 2_11"
+  - first:
+      213: -1542283013080450902
+    second: "Fungo Divis\xE3o 2_12"
+  - first:
+      213: -8906192917181333569
+    second: "Fungo Divis\xE3o 2_13"
+  - first:
+      213: -4127321733314012242
+    second: "Fungo Divis\xE3o 2_14"
+  - first:
+      213: -24617929602892226
+    second: "Fungo Divis\xE3o 2_15"
+  - first:
+      213: -8596418877524814218
+    second: "Fungo Divis\xE3o 2_16"
+  - first:
+      213: -3910727865726627337
+    second: "Fungo Divis\xE3o 2_17"
+  - first:
+      213: -3739789214126778203
+    second: "Fungo Divis\xE3o 2_18"
+  - first:
+      213: -8822239134230511910
+    second: "Fungo Divis\xE3o 2_19"
+  - first:
+      213: 4858960248829107863
+    second: "Fungo Divis\xE3o 2_20"
+  - first:
+      213: 7777944167424609120
+    second: "Fungo Divis\xE3o 2_21"
+  - first:
+      213: 419553239826424446
+    second: "Fungo Divis\xE3o 2_22"
+  - first:
+      213: -5602084288082018676
+    second: "Fungo Divis\xE3o 2_23"
+  - first:
+      213: 574880555652841920
+    second: "Fungo Divis\xE3o 2_24"
+  - first:
+      213: 2347953757972890743
+    second: "Fungo Divis\xE3o 2_25"
+  - first:
+      213: -3848275260593092507
+    second: "Fungo Divis\xE3o 2_26"
+  - first:
+      213: 693926127196064787
+    second: "Fungo Divis\xE3o 2_27"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816.6665
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.4367026, y: 0.32617563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a9d21d17c3a1620800000000000000
+      internalID: 2745573382374136466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_1"
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2816.6665
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.40857038, y: 0.32617563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd890bb166fd1c830800000000000000
+      internalID: 4089795566273337564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_2"
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 2816.6665
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.39098772, y: 0.31595066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5481e6cd5372b80800000000000000
+      internalID: -8419701757489691208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_3"
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 2816.6665
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.359339, y: 0.32617563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12088ee5ef13ecef0800000000000000
+      internalID: -86076374289711071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408.6666
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.4296696, y: 0.4233127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0373b3ce1368ed200800000000000000
+      internalID: 206750181880444720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_5"
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1408.6666
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.4156033, y: 0.4233126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4246b2f4f3fe50800000000000000
+      internalID: 6842081582182976537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_6"
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1408.6666
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.38747114, y: 0.43353766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c6f1edf57691d0800000000000000
+      internalID: -3344355939997792492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_7"
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 1408.6666
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.36637214, y: 0.43353766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c9efcb47db5d30800000000000000
+      internalID: 4421364179804997107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.666626
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.44725218, y: 0.5460121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa658fbac890aab50800000000000000
+      internalID: 6605102303277504175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_9"
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 0.666626
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.41560343, y: 0.54089963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ec5d6c18142d20800000000000000
+      internalID: 3252751341241295686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_10"
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 0.666626
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.3945043, y: 0.53578717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070755596277a48f0800000000000000
+      internalID: -555500596428967824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fungo Divis\xE3o 2_11"
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 0.666626
+        width: 2047.5
+        height: 1408.3334
+      alignment: 9
+      pivot: {x: 0.37340507, y: 0.5306747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094c9fd8f67d9d00800000000000000
+      internalID: 981071105112164621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

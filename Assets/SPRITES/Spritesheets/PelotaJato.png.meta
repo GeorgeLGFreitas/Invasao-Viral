@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: ea8a048563aa2c84492e4c415965b7c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4086927170136049920
+    second: PelotaJato_0
+  - first:
+      213: 539830593879456688
+    second: PelotaJato_1
+  - first:
+      213: -4740799222949198703
+    second: PelotaJato_2
+  - first:
+      213: -8285168998809861643
+    second: PelotaJato_3
+  - first:
+      213: -3870828187590542671
+    second: PelotaJato_4
+  - first:
+      213: -3773689825083619438
+    second: PelotaJato_5
+  - first:
+      213: 3341969072400316748
+    second: PelotaJato_6
+  - first:
+      213: 1918989000223348372
+    second: PelotaJato_7
+  - first:
+      213: 8639162489447749650
+    second: PelotaJato_8
+  - first:
+      213: -4220407837454420979
+    second: PelotaJato_9
+  - first:
+      213: 2988808180258582359
+    second: PelotaJato_10
+  - first:
+      213: 7303210007928076070
+    second: PelotaJato_11
+  - first:
+      213: -1415539688955105892
+    second: PelotaJato_12
+  - first:
+      213: -4827553233549374241
+    second: PelotaJato_13
+  - first:
+      213: 5325587532270437291
+    second: PelotaJato_14
+  - first:
+      213: 2204331692962750266
+    second: PelotaJato_15
+  - first:
+      213: -1653288779120239153
+    second: PelotaJato_16
+  - first:
+      213: 7793799189109876130
+    second: PelotaJato_17
+  - first:
+      213: -2647769123474852268
+    second: PelotaJato_18
+  - first:
+      213: 6905311779874567980
+    second: PelotaJato_19
+  - first:
+      213: 2824607301193751085
+    second: PelotaJato_20
+  - first:
+      213: -7991138230468231421
+    second: PelotaJato_21
+  - first:
+      213: -2350554374556931792
+    second: PelotaJato_22
+  - first:
+      213: 2856386030759693172
+    second: PelotaJato_23
+  - first:
+      213: 1216786286350569139
+    second: PelotaJato_24
+  - first:
+      213: -9010901090477999047
+    second: PelotaJato_25
+  - first:
+      213: 3815227339555073265
+    second: PelotaJato_26
+  - first:
+      213: 2915128417583617380
+    second: PelotaJato_27
+  - first:
+      213: -143412342806552894
+    second: PelotaJato_28
+  - first:
+      213: 7452581897154927208
+    second: PelotaJato_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PelotaJato_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090ad69b9ea7b830800000000000000
+      internalID: 4086927170136049920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 700
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbb213a01ddd7700800000000000000
+      internalID: 539830593879456688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_2
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 700
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944aac793c453eb0800000000000000
+      internalID: -4740799222949198703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_3
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 700
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10cd931ba250d80800000000000000
+      internalID: -8285168998809861643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab81c954e084ac0800000000000000
+      internalID: -3870828187590542671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 360
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2978263191921abc0800000000000000
+      internalID: -3773689825083619438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 360
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4933c23a2f016e20800000000000000
+      internalID: 3341969072400316748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_7
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 360
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d136145e91aa10800000000000000
+      internalID: 1918989000223348372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218996c038874e770800000000000000
+      internalID: 8639162489447749650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 20
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d043149be691e65c0800000000000000
+      internalID: -4220407837454420979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_10
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 20
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f281e54316a7920800000000000000
+      internalID: 2988808180258582359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PelotaJato_11
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 20
+        width: 444
+        height: 340
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62771a2eec63a5560800000000000000
+      internalID: 7303210007928076070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

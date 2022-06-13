@@ -1,0 +1,5438 @@
+fileFormatVersion: 2
+guid: 4bf382b88a365524590764a1a030f0c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8944934747357086503
+    second: "Hem\xE1cias Spritesheets_0"
+  - first:
+      213: -3370736410428940798
+    second: "Hem\xE1cias Spritesheets_1"
+  - first:
+      213: 2530174132378299061
+    second: "Hem\xE1cias Spritesheets_2"
+  - first:
+      213: -6833148782789753856
+    second: "Hem\xE1cias Spritesheets_3"
+  - first:
+      213: 8244065733760871808
+    second: "Hem\xE1cias Spritesheets_4"
+  - first:
+      213: 6979613390356864135
+    second: "Hem\xE1cias Spritesheets_5"
+  - first:
+      213: 1557235752880433853
+    second: "Hem\xE1cias Spritesheets_6"
+  - first:
+      213: -7555032829714209505
+    second: "Hem\xE1cias Spritesheets_7"
+  - first:
+      213: 5401938514675533053
+    second: "Hem\xE1cias Spritesheets_8"
+  - first:
+      213: -3192334784147954563
+    second: "Hem\xE1cias Spritesheets_9"
+  - first:
+      213: -8726437232120767473
+    second: "Hem\xE1cias Spritesheets_10"
+  - first:
+      213: 9068781514071509518
+    second: "Hem\xE1cias Spritesheets_11"
+  - first:
+      213: 4048646934528371
+    second: "Hem\xE1cias Spritesheets_12"
+  - first:
+      213: -6968037797879121939
+    second: "Hem\xE1cias Spritesheets_0"
+  - first:
+      213: 647740147854375347
+    second: "Hem\xE1cias Spritesheets_1"
+  - first:
+      213: -1733468470890074508
+    second: "Hem\xE1cias Spritesheets_2"
+  - first:
+      213: -2987583083202010511
+    second: "Hem\xE1cias Spritesheets_3"
+  - first:
+      213: -3897290261827853695
+    second: "Hem\xE1cias Spritesheets_4"
+  - first:
+      213: -1093365838136926499
+    second: "Hem\xE1cias Spritesheets_5"
+  - first:
+      213: 225840668803459823
+    second: "Hem\xE1cias Spritesheets_6"
+  - first:
+      213: 2640164322555235005
+    second: "Hem\xE1cias Spritesheets_7"
+  - first:
+      213: 3643424034958013991
+    second: "Hem\xE1cias Spritesheets_8"
+  - first:
+      213: -5193057368939252333
+    second: "Hem\xE1cias Spritesheets_9"
+  - first:
+      213: 8331287320613098989
+    second: "Hem\xE1cias Spritesheets_10"
+  - first:
+      213: 8622399376630015569
+    second: "Hem\xE1cias Spritesheets_11"
+  - first:
+      213: -4301727925866370569
+    second: "Hem\xE1cias Spritesheets_12"
+  - first:
+      213: 7848158584760156602
+    second: "Hem\xE1cias Spritesheets_13"
+  - first:
+      213: -3073384492324004818
+    second: "Hem\xE1cias Spritesheets_14"
+  - first:
+      213: -5655975489025911526
+    second: "Hem\xE1cias Spritesheets_15"
+  - first:
+      213: -6558308924109736231
+    second: "Hem\xE1cias Spritesheets_16"
+  - first:
+      213: -3113377689213213528
+    second: "Hem\xE1cias Spritesheets_17"
+  - first:
+      213: -3288980162132462467
+    second: "Hem\xE1cias Spritesheets_18"
+  - first:
+      213: 7707446944448530346
+    second: "Hem\xE1cias Spritesheets_19"
+  - first:
+      213: 1458347042766997754
+    second: "Hem\xE1cias Spritesheets_20"
+  - first:
+      213: -6977137572248922565
+    second: "Hem\xE1cias Spritesheets_21"
+  - first:
+      213: -7109378240934703060
+    second: "Hem\xE1cias Spritesheets_22"
+  - first:
+      213: -1109454761863116210
+    second: "Hem\xE1cias Spritesheets_23"
+  - first:
+      213: -25065809410849063
+    second: "Hem\xE1cias Spritesheets_24"
+  - first:
+      213: 5864563318824394362
+    second: "Hem\xE1cias Spritesheets_25"
+  - first:
+      213: 7830869001701339950
+    second: "Hem\xE1cias Spritesheets_26"
+  - first:
+      213: -8493556174988083669
+    second: "Hem\xE1cias Spritesheets_27"
+  - first:
+      213: -8455743830716962208
+    second: "Hem\xE1cias Spritesheets_28"
+  - first:
+      213: -3994777935091613574
+    second: "Hem\xE1cias Spritesheets_29"
+  - first:
+      213: 5668334721934028069
+    second: "Hem\xE1cias Spritesheets_30"
+  - first:
+      213: 1041181488940491037
+    second: "Hem\xE1cias Spritesheets_31"
+  - first:
+      213: 3383536110416201479
+    second: "Hem\xE1cias Spritesheets_32"
+  - first:
+      213: 4922885408720496015
+    second: "Hem\xE1cias Spritesheets_33"
+  - first:
+      213: -8584883872490546971
+    second: "Hem\xE1cias Spritesheets_34"
+  - first:
+      213: 4407440481692038290
+    second: "Hem\xE1cias Spritesheets_35"
+  - first:
+      213: 685400280049107328
+    second: "Hem\xE1cias Spritesheets_36"
+  - first:
+      213: -3630543843254497356
+    second: "Hem\xE1cias Spritesheets_37"
+  - first:
+      213: -8906898903321095739
+    second: "Hem\xE1cias Spritesheets_38"
+  - first:
+      213: 4865645270553692854
+    second: "Hem\xE1cias Spritesheets_39"
+  - first:
+      213: 4693727675495565348
+    second: "Hem\xE1cias Spritesheets_40"
+  - first:
+      213: -2738761600851853444
+    second: "Hem\xE1cias Spritesheets_41"
+  - first:
+      213: 2323008722774939314
+    second: "Hem\xE1cias Spritesheets_42"
+  - first:
+      213: -8712580625837921629
+    second: "Hem\xE1cias Spritesheets_43"
+  - first:
+      213: 7219012149676568305
+    second: "Hem\xE1cias Spritesheets_44"
+  - first:
+      213: -4275446745679482694
+    second: "Hem\xE1cias Spritesheets_45"
+  - first:
+      213: -6970400337120093575
+    second: "Hem\xE1cias Spritesheets_46"
+  - first:
+      213: -5052091888221326105
+    second: "Hem\xE1cias Spritesheets_47"
+  - first:
+      213: -1517061673416563011
+    second: "Hem\xE1cias Spritesheets_48"
+  - first:
+      213: 8771557297286196918
+    second: "Hem\xE1cias Spritesheets_49"
+  - first:
+      213: 6640192441149967220
+    second: "Hem\xE1cias Spritesheets_50"
+  - first:
+      213: 121345638721921059
+    second: "Hem\xE1cias Spritesheets_51"
+  - first:
+      213: -214816257966770299
+    second: "Hem\xE1cias Spritesheets_52"
+  - first:
+      213: -1635071395353507275
+    second: "Hem\xE1cias Spritesheets_53"
+  - first:
+      213: 168545762162912017
+    second: "Hem\xE1cias Spritesheets_54"
+  - first:
+      213: -7883114680772000294
+    second: "Hem\xE1cias Spritesheets_55"
+  - first:
+      213: -6429373644244389413
+    second: "Hem\xE1cias Spritesheets_56"
+  - first:
+      213: 2597728604566022308
+    second: "Hem\xE1cias Spritesheets_57"
+  - first:
+      213: 2812396641181659628
+    second: "Hem\xE1cias Spritesheets_58"
+  - first:
+      213: 5314818611221655962
+    second: "Hem\xE1cias Spritesheets_59"
+  - first:
+      213: -4632755971222794568
+    second: "Hem\xE1cias Spritesheets_60"
+  - first:
+      213: 283476480137379755
+    second: "Hem\xE1cias Spritesheets_61"
+  - first:
+      213: -5181956611631176254
+    second: "Hem\xE1cias Spritesheets_62"
+  - first:
+      213: 3583683441616322795
+    second: "Hem\xE1cias Spritesheets_63"
+  - first:
+      213: 4840430058783013529
+    second: "Hem\xE1cias Spritesheets_64"
+  - first:
+      213: -8885074006759190909
+    second: "Hem\xE1cias Spritesheets_65"
+  - first:
+      213: -1566747256664534276
+    second: "Hem\xE1cias Spritesheets_66"
+  - first:
+      213: -2347795948262632578
+    second: "Hem\xE1cias Spritesheets_67"
+  - first:
+      213: 3640982394013398491
+    second: "Hem\xE1cias Spritesheets_68"
+  - first:
+      213: 86360980447390821
+    second: "Hem\xE1cias Spritesheets_69"
+  - first:
+      213: -483344463994258452
+    second: "Hem\xE1cias Spritesheets_70"
+  - first:
+      213: -1439249454341025226
+    second: "Hem\xE1cias Spritesheets_71"
+  - first:
+      213: 7322807945287979464
+    second: "Hem\xE1cias Spritesheets_72"
+  - first:
+      213: -6994589651297778240
+    second: "Hem\xE1cias Spritesheets_73"
+  - first:
+      213: 7617268992837391511
+    second: "Hem\xE1cias Spritesheets_74"
+  - first:
+      213: 186089230043061564
+    second: "Hem\xE1cias Spritesheets_75"
+  - first:
+      213: 4016791978959588160
+    second: "Hem\xE1cias Spritesheets_76"
+  - first:
+      213: -3852161310936920757
+    second: "Hem\xE1cias Spritesheets_77"
+  - first:
+      213: 4135733254334044451
+    second: "Hem\xE1cias Spritesheets_78"
+  - first:
+      213: 5390535797425780377
+    second: "Hem\xE1cias Spritesheets_79"
+  - first:
+      213: -496037680218005902
+    second: "Hem\xE1cias Spritesheets_80"
+  - first:
+      213: -1753429931269785989
+    second: "Hem\xE1cias Spritesheets_81"
+  - first:
+      213: -7821423029779028698
+    second: "Hem\xE1cias Spritesheets_82"
+  - first:
+      213: -943113719925443863
+    second: "Hem\xE1cias Spritesheets_83"
+  - first:
+      213: -9174335162690181012
+    second: "Hem\xE1cias Spritesheets_84"
+  - first:
+      213: 465404180902124412
+    second: "Hem\xE1cias Spritesheets_85"
+  - first:
+      213: -3679885450870814961
+    second: "Hem\xE1cias Spritesheets_86"
+  - first:
+      213: 5307486952816983413
+    second: "Hem\xE1cias Spritesheets_87"
+  - first:
+      213: 3182892553307218894
+    second: "Hem\xE1cias Spritesheets_88"
+  - first:
+      213: 3164090370278009055
+    second: "Hem\xE1cias Spritesheets_89"
+  - first:
+      213: -5172400070837007819
+    second: "Hem\xE1cias Spritesheets_90"
+  - first:
+      213: -968021342211979258
+    second: "Hem\xE1cias Spritesheets_91"
+  - first:
+      213: -4522489394859561247
+    second: "Hem\xE1cias Spritesheets_92"
+  - first:
+      213: 7405756146576580458
+    second: "Hem\xE1cias Spritesheets_93"
+  - first:
+      213: 6132459160320805250
+    second: "Hem\xE1cias Spritesheets_94"
+  - first:
+      213: -1184190315465241704
+    second: "Hem\xE1cias Spritesheets_95"
+  - first:
+      213: -1397604258858204158
+    second: "Hem\xE1cias Spritesheets_96"
+  - first:
+      213: -8846577445292377795
+    second: "Hem\xE1cias Spritesheets_97"
+  - first:
+      213: -1267950649018686900
+    second: "Hem\xE1cias Spritesheets_98"
+  - first:
+      213: 6347569827688680604
+    second: "Hem\xE1cias Spritesheets_99"
+  - first:
+      213: 2397254823555340183
+    second: "Hem\xE1cias Spritesheets_100"
+  - first:
+      213: -3767435524729412634
+    second: "Hem\xE1cias Spritesheets_101"
+  - first:
+      213: -9051624742969355475
+    second: "Hem\xE1cias Spritesheets_102"
+  - first:
+      213: 7277635579983640862
+    second: "Hem\xE1cias Spritesheets_103"
+  - first:
+      213: 8605332851725994438
+    second: "Hem\xE1cias Spritesheets_104"
+  - first:
+      213: 9176079560336310464
+    second: "Hem\xE1cias Spritesheets_105"
+  - first:
+      213: -5672056320118491443
+    second: "Hem\xE1cias Spritesheets_106"
+  - first:
+      213: -8105199949809323061
+    second: "Hem\xE1cias Spritesheets_107"
+  - first:
+      213: 7273191656871517183
+    second: "Hem\xE1cias Spritesheets_108"
+  - first:
+      213: 5097279827343636603
+    second: "Hem\xE1cias Spritesheets_109"
+  - first:
+      213: -4665615860815828659
+    second: "Hem\xE1cias Spritesheets_110"
+  - first:
+      213: 2247625790459105906
+    second: "Hem\xE1cias Spritesheets_111"
+  - first:
+      213: 2775601395075753291
+    second: "Hem\xE1cias Spritesheets_112"
+  - first:
+      213: -7507503302259842516
+    second: "Hem\xE1cias Spritesheets_113"
+  - first:
+      213: 1498259618393822249
+    second: "Hem\xE1cias Spritesheets_114"
+  - first:
+      213: 7094524140276237790
+    second: "Hem\xE1cias Spritesheets_115"
+  - first:
+      213: -3245417448366877592
+    second: "Hem\xE1cias Spritesheets_116"
+  - first:
+      213: -4107025395020643584
+    second: "Hem\xE1cias Spritesheets_117"
+  - first:
+      213: -5629746703581086711
+    second: "Hem\xE1cias Spritesheets_118"
+  - first:
+      213: 6332732689695547254
+    second: "Hem\xE1cias Spritesheets_119"
+  - first:
+      213: -6435871875815118220
+    second: "Hem\xE1cias Spritesheets_120"
+  - first:
+      213: 9082041041683478950
+    second: "Hem\xE1cias Spritesheets_121"
+  - first:
+      213: -6033407655858216468
+    second: "Hem\xE1cias Spritesheets_122"
+  - first:
+      213: 7343593964246462747
+    second: "Hem\xE1cias Spritesheets_123"
+  - first:
+      213: 6035139885485627004
+    second: "Hem\xE1cias Spritesheets_124"
+  - first:
+      213: 4170350355352809079
+    second: "Hem\xE1cias Spritesheets_125"
+  - first:
+      213: 8462750778601818683
+    second: "Hem\xE1cias Spritesheets_126"
+  - first:
+      213: -1849872946032307213
+    second: "Hem\xE1cias Spritesheets_127"
+  - first:
+      213: -5435815651665054865
+    second: "Hem\xE1cias Spritesheets_128"
+  - first:
+      213: -6886397302566164296
+    second: "Hem\xE1cias Spritesheets_129"
+  - first:
+      213: 6784678952632066358
+    second: "Hem\xE1cias Spritesheets_130"
+  - first:
+      213: -2792113854269582071
+    second: "Hem\xE1cias Spritesheets_131"
+  - first:
+      213: -882844762473925320
+    second: "Hem\xE1cias Spritesheets_132"
+  - first:
+      213: 5575053748979541760
+    second: "Hem\xE1cias Spritesheets_133"
+  - first:
+      213: -6982324642863226689
+    second: "Hem\xE1cias Spritesheets_134"
+  - first:
+      213: 5432765789757034670
+    second: "Hem\xE1cias Spritesheets_135"
+  - first:
+      213: 1474301144991661301
+    second: "Hem\xE1cias Spritesheets_136"
+  - first:
+      213: -8418162121035278336
+    second: "Hem\xE1cias Spritesheets_137"
+  - first:
+      213: 2182860247155377736
+    second: "Hem\xE1cias Spritesheets_138"
+  - first:
+      213: 2351778347047505529
+    second: "Hem\xE1cias Spritesheets_139"
+  - first:
+      213: -6580621086381648368
+    second: "Hem\xE1cias Spritesheets_140"
+  - first:
+      213: 6833224310876548638
+    second: "Hem\xE1cias Spritesheets_141"
+  - first:
+      213: 8479532788739574233
+    second: "Hem\xE1cias Spritesheets_142"
+  - first:
+      213: -2542520701039433356
+    second: "Hem\xE1cias Spritesheets_143"
+  - first:
+      213: -5563071997447629302
+    second: "Hem\xE1cias Spritesheets_144"
+  - first:
+      213: -4785315785180064826
+    second: "Hem\xE1cias Spritesheets_145"
+  - first:
+      213: 5214665685355888545
+    second: "Hem\xE1cias Spritesheets_146"
+  - first:
+      213: 1772086063144662217
+    second: "Hem\xE1cias Spritesheets_147"
+  - first:
+      213: 2777064609851900717
+    second: "Hem\xE1cias Spritesheets_148"
+  - first:
+      213: 5753727434013981164
+    second: "Hem\xE1cias Spritesheets_149"
+  - first:
+      213: 1120254405230768250
+    second: "Hem\xE1cias Spritesheets_150"
+  - first:
+      213: -204080439399071076
+    second: "Hem\xE1cias Spritesheets_151"
+  - first:
+      213: -8805695856099097144
+    second: "Hem\xE1cias Spritesheets_152"
+  - first:
+      213: -2146063405078135339
+    second: "Hem\xE1cias Spritesheets_153"
+  - first:
+      213: -6279640927926023053
+    second: "Hem\xE1cias Spritesheets_154"
+  - first:
+      213: -7984398107026009080
+    second: "Hem\xE1cias Spritesheets_155"
+  - first:
+      213: -5775890643126525740
+    second: "Hem\xE1cias Spritesheets_156"
+  - first:
+      213: -5847328758756103177
+    second: "Hem\xE1cias Spritesheets_157"
+  - first:
+      213: -3094177453036689291
+    second: "Hem\xE1cias Spritesheets_158"
+  - first:
+      213: 4581967662030734697
+    second: "Hem\xE1cias Spritesheets_159"
+  - first:
+      213: -1283173557552892772
+    second: "Hem\xE1cias Spritesheets_160"
+  - first:
+      213: -7685214104172737240
+    second: "Hem\xE1cias Spritesheets_161"
+  - first:
+      213: -1519735610117323792
+    second: "Hem\xE1cias Spritesheets_162"
+  - first:
+      213: 3989865930810609107
+    second: "Hem\xE1cias Spritesheets_163"
+  - first:
+      213: -1953969650385793778
+    second: "Hem\xE1cias Spritesheets_164"
+  - first:
+      213: 6940979540718329794
+    second: "Hem\xE1cias Spritesheets_165"
+  - first:
+      213: 4676116352170864968
+    second: "Hem\xE1cias Spritesheets_166"
+  - first:
+      213: -6975888405197986509
+    second: "Hem\xE1cias Spritesheets_167"
+  - first:
+      213: 2444593856037914418
+    second: "Hem\xE1cias Spritesheets_168"
+  - first:
+      213: 75847060981382692
+    second: "Hem\xE1cias Spritesheets_169"
+  - first:
+      213: 1822267164973656585
+    second: "Hem\xE1cias Spritesheets_170"
+  - first:
+      213: -8308921872811171166
+    second: "Hem\xE1cias Spritesheets_171"
+  - first:
+      213: 4198092525153872932
+    second: "Hem\xE1cias Spritesheets_172"
+  - first:
+      213: -1485591884971783418
+    second: "Hem\xE1cias Spritesheets_173"
+  - first:
+      213: -4906450565015178555
+    second: "Hem\xE1cias Spritesheets_174"
+  - first:
+      213: -2784987125290029483
+    second: "Hem\xE1cias Spritesheets_175"
+  - first:
+      213: -7501205561923671144
+    second: "Hem\xE1cias Spritesheets_176"
+  - first:
+      213: -6862661127841591113
+    second: "Hem\xE1cias Spritesheets_177"
+  - first:
+      213: -8579822669706250031
+    second: "Hem\xE1cias Spritesheets_178"
+  - first:
+      213: 7466958427386644381
+    second: "Hem\xE1cias Spritesheets_179"
+  - first:
+      213: -7328572824648989521
+    second: "Hem\xE1cias Spritesheets_180"
+  - first:
+      213: 967930286257406059
+    second: "Hem\xE1cias Spritesheets_181"
+  - first:
+      213: 357613219170090719
+    second: "Hem\xE1cias Spritesheets_182"
+  - first:
+      213: 1401587057766487662
+    second: "Hem\xE1cias Spritesheets_183"
+  - first:
+      213: 9076886198747182060
+    second: "Hem\xE1cias Spritesheets_184"
+  - first:
+      213: -8136984895338978014
+    second: "Hem\xE1cias Spritesheets_185"
+  - first:
+      213: 241577270760541726
+    second: "Hem\xE1cias Spritesheets_186"
+  - first:
+      213: -5534929938566575601
+    second: "Hem\xE1cias Spritesheets_187"
+  - first:
+      213: -2249133733200557091
+    second: "Hem\xE1cias Spritesheets_188"
+  - first:
+      213: 2410645976829371707
+    second: "Hem\xE1cias Spritesheets_189"
+  - first:
+      213: 5137348340381217124
+    second: "Hem\xE1cias Spritesheets_190"
+  - first:
+      213: -8048030442470386459
+    second: "Hem\xE1cias Spritesheets_191"
+  - first:
+      213: -2999548355444198125
+    second: "Hem\xE1cias Spritesheets_192"
+  - first:
+      213: 2014182409065414015
+    second: "Hem\xE1cias Spritesheets_193"
+  - first:
+      213: -7692730840357228245
+    second: "Hem\xE1cias Spritesheets_194"
+  - first:
+      213: 4688639994105576710
+    second: "Hem\xE1cias Spritesheets_195"
+  - first:
+      213: -1725988225287333820
+    second: "Hem\xE1cias Spritesheets_196"
+  - first:
+      213: 5433041334635092658
+    second: "Hem\xE1cias Spritesheets_197"
+  - first:
+      213: 8622063102274554005
+    second: "Hem\xE1cias Spritesheets_198"
+  - first:
+      213: -5296643506308707005
+    second: "Hem\xE1cias Spritesheets_199"
+  - first:
+      213: 8583968223142335778
+    second: "Hem\xE1cias Spritesheets_200"
+  - first:
+      213: 5522098252035632340
+    second: "Hem\xE1cias Spritesheets_201"
+  - first:
+      213: 181319630537535396
+    second: "Hem\xE1cias Spritesheets_202"
+  - first:
+      213: 7392599346961755923
+    second: "Hem\xE1cias Spritesheets_203"
+  - first:
+      213: -4745923196633479919
+    second: "Hem\xE1cias Spritesheets_204"
+  - first:
+      213: 4719214089510952887
+    second: "Hem\xE1cias Spritesheets_205"
+  - first:
+      213: -6620389808327626818
+    second: "Hem\xE1cias Spritesheets_206"
+  - first:
+      213: 7285623384442295652
+    second: "Hem\xE1cias Spritesheets_207"
+  - first:
+      213: -6917098380816873514
+    second: "Hem\xE1cias Spritesheets_208"
+  - first:
+      213: 621107907565568788
+    second: "Hem\xE1cias Spritesheets_209"
+  - first:
+      213: -1794605062655241449
+    second: "Hem\xE1cias Spritesheets_210"
+  - first:
+      213: -3827701919783620594
+    second: "Hem\xE1cias Spritesheets_211"
+  - first:
+      213: -4635056768983842724
+    second: "Hem\xE1cias Spritesheets_212"
+  - first:
+      213: 3977799426988102446
+    second: "Hem\xE1cias Spritesheets_213"
+  - first:
+      213: 6716028012555835629
+    second: "Hem\xE1cias Spritesheets_214"
+  - first:
+      213: 5873451547023487568
+    second: "Hem\xE1cias Spritesheets_215"
+  - first:
+      213: 700680101149336484
+    second: "Hem\xE1cias Spritesheets_216"
+  - first:
+      213: -3243383496192989867
+    second: "Hem\xE1cias Spritesheets_217"
+  - first:
+      213: -19147739560843848
+    second: "Hem\xE1cias Spritesheets_218"
+  - first:
+      213: -4899228011049564968
+    second: "Hem\xE1cias Spritesheets_219"
+  - first:
+      213: 8696055279883983084
+    second: "Hem\xE1cias Spritesheets_220"
+  - first:
+      213: -4138839509235967063
+    second: "Hem\xE1cias Spritesheets_221"
+  - first:
+      213: -843662511574353663
+    second: "Hem\xE1cias Spritesheets_222"
+  - first:
+      213: 4452252336829714524
+    second: "Hem\xE1cias Spritesheets_223"
+  - first:
+      213: -2523125666332189315
+    second: "Hem\xE1cias Spritesheets_224"
+  - first:
+      213: 7829138935889924802
+    second: "Hem\xE1cias Spritesheets_225"
+  - first:
+      213: -423148849347547181
+    second: "Hem\xE1cias Spritesheets_226"
+  - first:
+      213: 656298285560200504
+    second: "Hem\xE1cias Spritesheets_227"
+  - first:
+      213: 4200851240893395898
+    second: "Hem\xE1cias Spritesheets_228"
+  - first:
+      213: -1164158774597961029
+    second: "Hem\xE1cias Spritesheets_229"
+  - first:
+      213: 3504227156336809396
+    second: "Hem\xE1cias Spritesheets_230"
+  - first:
+      213: 5653011756798101553
+    second: "Hem\xE1cias Spritesheets_231"
+  - first:
+      213: 1195577601501776946
+    second: "Hem\xE1cias Spritesheets_232"
+  - first:
+      213: 6519759814088360179
+    second: "Hem\xE1cias Spritesheets_233"
+  - first:
+      213: -359189349244738337
+    second: "Hem\xE1cias Spritesheets_234"
+  - first:
+      213: -6006454217171165574
+    second: "Hem\xE1cias Spritesheets_235"
+  - first:
+      213: 6602975039611179332
+    second: "Hem\xE1cias Spritesheets_236"
+  - first:
+      213: 3754505990432300645
+    second: "Hem\xE1cias Spritesheets_237"
+  - first:
+      213: -3678133149525214530
+    second: "Hem\xE1cias Spritesheets_238"
+  - first:
+      213: 7638355653702675792
+    second: "Hem\xE1cias Spritesheets_239"
+  - first:
+      213: -3852504385118409163
+    second: "Hem\xE1cias Spritesheets_240"
+  - first:
+      213: -418056149899540063
+    second: "Hem\xE1cias Spritesheets_241"
+  - first:
+      213: 7528692994544851699
+    second: "Hem\xE1cias Spritesheets_242"
+  - first:
+      213: -2481687553905492305
+    second: "Hem\xE1cias Spritesheets_243"
+  - first:
+      213: -4429350512648600515
+    second: "Hem\xE1cias Spritesheets_244"
+  - first:
+      213: -7855527331404746163
+    second: "Hem\xE1cias Spritesheets_245"
+  - first:
+      213: -8791108314370546141
+    second: "Hem\xE1cias Spritesheets_246"
+  - first:
+      213: 4298058826856267842
+    second: "Hem\xE1cias Spritesheets_247"
+  - first:
+      213: -6787271960102909365
+    second: "Hem\xE1cias Spritesheets_248"
+  - first:
+      213: -586508520744165276
+    second: "Hem\xE1cias Spritesheets_249"
+  - first:
+      213: 2944259335834978447
+    second: "Hem\xE1cias Spritesheets_250"
+  - first:
+      213: -6460975462289373927
+    second: "Hem\xE1cias Spritesheets_251"
+  - first:
+      213: 8682098920848913186
+    second: "Hem\xE1cias Spritesheets_252"
+  - first:
+      213: 3333527176900917445
+    second: "Hem\xE1cias Spritesheets_253"
+  - first:
+      213: 6003073300450705353
+    second: "Hem\xE1cias Spritesheets_254"
+  - first:
+      213: -4166742123567399846
+    second: "Hem\xE1cias Spritesheets_255"
+  - first:
+      213: 7112336216836037006
+    second: "Hem\xE1cias Spritesheets_256"
+  - first:
+      213: -7023489816952929051
+    second: "Hem\xE1cias Spritesheets_257"
+  - first:
+      213: 8895331572847069794
+    second: "Hem\xE1cias Spritesheets_258"
+  - first:
+      213: -360847792873040960
+    second: "Hem\xE1cias Spritesheets_259"
+  - first:
+      213: 8312956557846364920
+    second: "Hem\xE1cias Spritesheets_260"
+  - first:
+      213: -8604558341338331644
+    second: "Hem\xE1cias Spritesheets_261"
+  - first:
+      213: 8452129771481712553
+    second: "Hem\xE1cias Spritesheets_262"
+  - first:
+      213: 2815884743363769008
+    second: "Hem\xE1cias Spritesheets_263"
+  - first:
+      213: -5809696392623444308
+    second: "Hem\xE1cias Spritesheets_264"
+  - first:
+      213: 4895287420451188045
+    second: "Hem\xE1cias Spritesheets_265"
+  - first:
+      213: 3795816269673714818
+    second: "Hem\xE1cias Spritesheets_266"
+  - first:
+      213: 47612172850478025
+    second: "Hem\xE1cias Spritesheets_267"
+  - first:
+      213: -5666338151383822063
+    second: "Hem\xE1cias Spritesheets_268"
+  - first:
+      213: -1355966660328297745
+    second: "Hem\xE1cias Spritesheets_269"
+  - first:
+      213: 4096153107064307436
+    second: "Hem\xE1cias Spritesheets_270"
+  - first:
+      213: 8952994759608696606
+    second: "Hem\xE1cias Spritesheets_271"
+  - first:
+      213: 5176584321919598073
+    second: "Hem\xE1cias Spritesheets_272"
+  - first:
+      213: -5386368453606079899
+    second: "Hem\xE1cias Spritesheets_273"
+  - first:
+      213: 5799145473445576970
+    second: "Hem\xE1cias Spritesheets_274"
+  - first:
+      213: -1928642340975264530
+    second: "Hem\xE1cias Spritesheets_275"
+  - first:
+      213: -8170004681071895038
+    second: "Hem\xE1cias Spritesheets_276"
+  - first:
+      213: -7850737957889434688
+    second: "Hem\xE1cias Spritesheets_277"
+  - first:
+      213: -2364744601473440961
+    second: "Hem\xE1cias Spritesheets_278"
+  - first:
+      213: -34147135619603661
+    second: "Hem\xE1cias Spritesheets_279"
+  - first:
+      213: -6978395106932323664
+    second: "Hem\xE1cias Spritesheets_280"
+  - first:
+      213: -5717884720024930985
+    second: "Hem\xE1cias Spritesheets_281"
+  - first:
+      213: -6207276315058589567
+    second: "Hem\xE1cias Spritesheets_282"
+  - first:
+      213: 6625855786993867303
+    second: "Hem\xE1cias Spritesheets_283"
+  - first:
+      213: 4354171941694167748
+    second: "Hem\xE1cias Spritesheets_284"
+  - first:
+      213: 8903024162557407662
+    second: "Hem\xE1cias Spritesheets_285"
+  - first:
+      213: 265976448612749705
+    second: "Hem\xE1cias Spritesheets_286"
+  - first:
+      213: -1580694843020566202
+    second: "Hem\xE1cias Spritesheets_287"
+  - first:
+      213: -4388072256610569096
+    second: "Hem\xE1cias Spritesheets_288"
+  - first:
+      213: -1340680815184060907
+    second: "Hem\xE1cias Spritesheets_289"
+  - first:
+      213: -2173806326871088860
+    second: "Hem\xE1cias Spritesheets_290"
+  - first:
+      213: -9109983315276340267
+    second: "Hem\xE1cias Spritesheets_291"
+  - first:
+      213: -2681670766989718864
+    second: "Hem\xE1cias Spritesheets_292"
+  - first:
+      213: -6376010852552820954
+    second: "Hem\xE1cias Spritesheets_293"
+  - first:
+      213: -5990497908250350387
+    second: "Hem\xE1cias Spritesheets_294"
+  - first:
+      213: -3869534443021761967
+    second: "Hem\xE1cias Spritesheets_295"
+  - first:
+      213: -8901955014972569880
+    second: "Hem\xE1cias Spritesheets_296"
+  - first:
+      213: 1251047020399802239
+    second: "Hem\xE1cias Spritesheets_297"
+  - first:
+      213: -8976389631888429475
+    second: "Hem\xE1cias Spritesheets_298"
+  - first:
+      213: -1163592353159363874
+    second: "Hem\xE1cias Spritesheets_299"
+  - first:
+      213: 3293217930542884714
+    second: "Hem\xE1cias Spritesheets_300"
+  - first:
+      213: 4427019392918355996
+    second: "Hem\xE1cias Spritesheets_301"
+  - first:
+      213: -5148539849849128558
+    second: "Hem\xE1cias Spritesheets_302"
+  - first:
+      213: -6728521404822322194
+    second: "Hem\xE1cias Spritesheets_303"
+  - first:
+      213: -4195479368405173612
+    second: "Hem\xE1cias Spritesheets_304"
+  - first:
+      213: -3863288011025047607
+    second: "Hem\xE1cias Spritesheets_305"
+  - first:
+      213: -3519575601367099600
+    second: "Hem\xE1cias Spritesheets_306"
+  - first:
+      213: 3278646606140398323
+    second: "Hem\xE1cias Spritesheets_307"
+  - first:
+      213: -1076636217771497283
+    second: "Hem\xE1cias Spritesheets_308"
+  - first:
+      213: -1393966482446136418
+    second: "Hem\xE1cias Spritesheets_309"
+  - first:
+      213: -3804760817718631923
+    second: "Hem\xE1cias Spritesheets_310"
+  - first:
+      213: -6986427202844727574
+    second: "Hem\xE1cias Spritesheets_311"
+  - first:
+      213: 7016481317555915753
+    second: "Hem\xE1cias Spritesheets_312"
+  - first:
+      213: 6249689501442003316
+    second: "Hem\xE1cias Spritesheets_313"
+  - first:
+      213: 2846806052178367409
+    second: "Hem\xE1cias Spritesheets_314"
+  - first:
+      213: -1009987596279646249
+    second: "Hem\xE1cias Spritesheets_315"
+  - first:
+      213: 175129772345700407
+    second: "Hem\xE1cias Spritesheets_316"
+  - first:
+      213: 4118476446597940427
+    second: "Hem\xE1cias Spritesheets_317"
+  - first:
+      213: -8609399250502517464
+    second: "Hem\xE1cias Spritesheets_318"
+  - first:
+      213: -4694484757912997546
+    second: "Hem\xE1cias Spritesheets_319"
+  - first:
+      213: 6007121580235211120
+    second: "Hem\xE1cias Spritesheets_320"
+  - first:
+      213: 3750686987073369341
+    second: "Hem\xE1cias Spritesheets_321"
+  - first:
+      213: -3775223846980132596
+    second: "Hem\xE1cias Spritesheets_322"
+  - first:
+      213: 5535250789760981904
+    second: "Hem\xE1cias Spritesheets_323"
+  - first:
+      213: 6638804101105315545
+    second: "Hem\xE1cias Spritesheets_324"
+  - first:
+      213: 656144638320613666
+    second: "Hem\xE1cias Spritesheets_325"
+  - first:
+      213: -7814049514354879697
+    second: "Hem\xE1cias Spritesheets_326"
+  - first:
+      213: 6505326437383831956
+    second: "Hem\xE1cias Spritesheets_327"
+  - first:
+      213: -4176189634521410933
+    second: "Hem\xE1cias Spritesheets_328"
+  - first:
+      213: -3621551335665576156
+    second: "Hem\xE1cias Spritesheets_329"
+  - first:
+      213: -7787810646881613071
+    second: "Hem\xE1cias Spritesheets_330"
+  - first:
+      213: 1924794059923146100
+    second: "Hem\xE1cias Spritesheets_331"
+  - first:
+      213: 7926134519007657733
+    second: "Hem\xE1cias Spritesheets_332"
+  - first:
+      213: -2932332112904339653
+    second: "Hem\xE1cias Spritesheets_333"
+  - first:
+      213: -6436188416134130223
+    second: "Hem\xE1cias Spritesheets_334"
+  - first:
+      213: -1524169651089790198
+    second: "Hem\xE1cias Spritesheets_335"
+  - first:
+      213: 7132843344434792231
+    second: "Hem\xE1cias Spritesheets_336"
+  - first:
+      213: 7907686282539709177
+    second: "Hem\xE1cias Spritesheets_337"
+  - first:
+      213: 6064056655769906078
+    second: "Hem\xE1cias Spritesheets_338"
+  - first:
+      213: 4711410974431917671
+    second: "Hem\xE1cias Spritesheets_339"
+  - first:
+      213: 7881870332314653971
+    second: "Hem\xE1cias Spritesheets_340"
+  - first:
+      213: 7958296475473262135
+    second: "Hem\xE1cias Spritesheets_341"
+  - first:
+      213: 8763349298305088202
+    second: "Hem\xE1cias Spritesheets_342"
+  - first:
+      213: -5014818284813168927
+    second: "Hem\xE1cias Spritesheets_343"
+  - first:
+      213: 6013059414334265097
+    second: "Hem\xE1cias Spritesheets_344"
+  - first:
+      213: 5444486363401204331
+    second: "Hem\xE1cias Spritesheets_345"
+  - first:
+      213: 5242050364923285427
+    second: "Hem\xE1cias Spritesheets_346"
+  - first:
+      213: 4296584203170300259
+    second: "Hem\xE1cias Spritesheets_347"
+  - first:
+      213: 1229253722045566671
+    second: "Hem\xE1cias Spritesheets_348"
+  - first:
+      213: 8171860869038071329
+    second: "Hem\xE1cias Spritesheets_349"
+  - first:
+      213: -1105359227481309417
+    second: "Hem\xE1cias Spritesheets_350"
+  - first:
+      213: 646666178983847718
+    second: "Hem\xE1cias Spritesheets_351"
+  - first:
+      213: -3607967456991921929
+    second: "Hem\xE1cias Spritesheets_352"
+  - first:
+      213: 7702646617555487042
+    second: "Hem\xE1cias Spritesheets_353"
+  - first:
+      213: 65189322359014823
+    second: "Hem\xE1cias Spritesheets_354"
+  - first:
+      213: -7733443987366256669
+    second: "Hem\xE1cias Spritesheets_355"
+  - first:
+      213: 932876802929245613
+    second: "Hem\xE1cias Spritesheets_356"
+  - first:
+      213: -3858897258764917260
+    second: "Hem\xE1cias Spritesheets_357"
+  - first:
+      213: 6242807423662978671
+    second: "Hem\xE1cias Spritesheets_358"
+  - first:
+      213: -5239789771678220110
+    second: "Hem\xE1cias Spritesheets_359"
+  - first:
+      213: 5215128121873717223
+    second: "Hem\xE1cias Spritesheets_360"
+  - first:
+      213: 7194175831738683793
+    second: "Hem\xE1cias Spritesheets_361"
+  - first:
+      213: 4119856223284067219
+    second: "Hem\xE1cias Spritesheets_362"
+  - first:
+      213: 850583293496061553
+    second: "Hem\xE1cias Spritesheets_363"
+  - first:
+      213: -8900889137922261467
+    second: "Hem\xE1cias Spritesheets_364"
+  - first:
+      213: -1217138998307672761
+    second: "Hem\xE1cias Spritesheets_365"
+  - first:
+      213: -6295762397365524104
+    second: "Hem\xE1cias Spritesheets_366"
+  - first:
+      213: -1647160402945123399
+    second: "Hem\xE1cias Spritesheets_367"
+  - first:
+      213: 4587426606542207045
+    second: "Hem\xE1cias Spritesheets_368"
+  - first:
+      213: -4482587407725097698
+    second: "Hem\xE1cias Spritesheets_369"
+  - first:
+      213: -1850479732622907703
+    second: "Hem\xE1cias Spritesheets_370"
+  - first:
+      213: -3307373310499184264
+    second: "Hem\xE1cias Spritesheets_371"
+  - first:
+      213: 2273340048587385867
+    second: "Hem\xE1cias Spritesheets_372"
+  - first:
+      213: -7055671924040500580
+    second: "Hem\xE1cias Spritesheets_373"
+  - first:
+      213: 1599127647110019130
+    second: "Hem\xE1cias Spritesheets_374"
+  - first:
+      213: 4920613865958355126
+    second: "Hem\xE1cias Spritesheets_375"
+  - first:
+      213: 8489529278094199850
+    second: "Hem\xE1cias Spritesheets_376"
+  - first:
+      213: -3848570584698811857
+    second: "Hem\xE1cias Spritesheets_377"
+  - first:
+      213: -7831871954289257293
+    second: "Hem\xE1cias Spritesheets_378"
+  - first:
+      213: -8593279524264338552
+    second: "Hem\xE1cias Spritesheets_379"
+  - first:
+      213: -228505117423067673
+    second: "Hem\xE1cias Spritesheets_380"
+  - first:
+      213: 6955967169959363568
+    second: "Hem\xE1cias Spritesheets_381"
+  - first:
+      213: -1194464139164955868
+    second: "Hem\xE1cias Spritesheets_382"
+  - first:
+      213: -6969164782565368452
+    second: "Hem\xE1cias Spritesheets_383"
+  - first:
+      213: -77701220357767539
+    second: "Hem\xE1cias Spritesheets_384"
+  - first:
+      213: 713248018773706946
+    second: "Hem\xE1cias Spritesheets_385"
+  - first:
+      213: 617934683493682881
+    second: "Hem\xE1cias Spritesheets_386"
+  - first:
+      213: 3484708444682080904
+    second: "Hem\xE1cias Spritesheets_387"
+  - first:
+      213: -7433134344341559569
+    second: "Hem\xE1cias Spritesheets_388"
+  - first:
+      213: 4025698718206016028
+    second: "Hem\xE1cias Spritesheets_389"
+  - first:
+      213: 8868157409245177568
+    second: "Hem\xE1cias Spritesheets_390"
+  - first:
+      213: 4086764847395736139
+    second: "Hem\xE1cias Spritesheets_391"
+  - first:
+      213: -3217486278284643361
+    second: "Hem\xE1cias Spritesheets_392"
+  - first:
+      213: -956255889997283858
+    second: "Hem\xE1cias Spritesheets_393"
+  - first:
+      213: -8849962597383895058
+    second: "Hem\xE1cias Spritesheets_394"
+  - first:
+      213: 1857917307741028997
+    second: "Hem\xE1cias Spritesheets_395"
+  - first:
+      213: 8901292303698718842
+    second: "Hem\xE1cias Spritesheets_396"
+  - first:
+      213: -6242769410582438137
+    second: "Hem\xE1cias Spritesheets_397"
+  - first:
+      213: -5030861246169363239
+    second: "Hem\xE1cias Spritesheets_398"
+  - first:
+      213: 6620234733535545438
+    second: "Hem\xE1cias Spritesheets_399"
+  - first:
+      213: 6379731432155598405
+    second: "Hem\xE1cias Spritesheets_400"
+  - first:
+      213: -4354397815471245754
+    second: "Hem\xE1cias Spritesheets_401"
+  - first:
+      213: 1348697602642720935
+    second: "Hem\xE1cias Spritesheets_402"
+  - first:
+      213: -4258895630052123567
+    second: "Hem\xE1cias Spritesheets_403"
+  - first:
+      213: -6200810643000497714
+    second: "Hem\xE1cias Spritesheets_404"
+  - first:
+      213: 6130584645256022621
+    second: "Hem\xE1cias Spritesheets_405"
+  - first:
+      213: -5167334889464377915
+    second: "Hem\xE1cias Spritesheets_406"
+  - first:
+      213: -8638673772565921124
+    second: "Hem\xE1cias Spritesheets_407"
+  - first:
+      213: -2471264507850208447
+    second: "Hem\xE1cias Spritesheets_408"
+  - first:
+      213: -6347300561081585549
+    second: "Hem\xE1cias Spritesheets_409"
+  - first:
+      213: -4318624125913816114
+    second: "Hem\xE1cias Spritesheets_410"
+  - first:
+      213: -3541208857788343174
+    second: "Hem\xE1cias Spritesheets_411"
+  - first:
+      213: 6760800045564800351
+    second: "Hem\xE1cias Spritesheets_412"
+  - first:
+      213: -4842516944205616152
+    second: "Hem\xE1cias Spritesheets_413"
+  - first:
+      213: 181736104140863099
+    second: "Hem\xE1cias Spritesheets_414"
+  - first:
+      213: 16187177804380035
+    second: "Hem\xE1cias Spritesheets_415"
+  - first:
+      213: -6346066856710530504
+    second: "Hem\xE1cias Spritesheets_416"
+  - first:
+      213: -1549607868294656783
+    second: "Hem\xE1cias Spritesheets_417"
+  - first:
+      213: -7171349340324944624
+    second: "Hem\xE1cias Spritesheets_418"
+  - first:
+      213: 2340192900722479158
+    second: "Hem\xE1cias Spritesheets_419"
+  - first:
+      213: -546433179925969284
+    second: "Hem\xE1cias Spritesheets_420"
+  - first:
+      213: -4641168874863577968
+    second: "Hem\xE1cias Spritesheets_421"
+  - first:
+      213: 4308886773189926988
+    second: "Hem\xE1cias Spritesheets_422"
+  - first:
+      213: 1218304555511121762
+    second: "Hem\xE1cias Spritesheets_423"
+  - first:
+      213: -8916395551279722860
+    second: "Hem\xE1cias Spritesheets_424"
+  - first:
+      213: -3556900294903568932
+    second: "Hem\xE1cias Spritesheets_425"
+  - first:
+      213: -316442489648479517
+    second: "Hem\xE1cias Spritesheets_426"
+  - first:
+      213: 5891861639527482888
+    second: "Hem\xE1cias Spritesheets_427"
+  - first:
+      213: -2633194971753530830
+    second: "Hem\xE1cias Spritesheets_428"
+  - first:
+      213: -3706167821273947720
+    second: "Hem\xE1cias Spritesheets_429"
+  - first:
+      213: -3108670828435019294
+    second: "Hem\xE1cias Spritesheets_430"
+  - first:
+      213: 8854015419014572709
+    second: "Hem\xE1cias Spritesheets_431"
+  - first:
+      213: 5863619871725413872
+    second: "Hem\xE1cias Spritesheets_432"
+  - first:
+      213: -4081802352962258366
+    second: "Hem\xE1cias Spritesheets_433"
+  - first:
+      213: 8175383833335891069
+    second: "Hem\xE1cias Spritesheets_434"
+  - first:
+      213: -442308886261121707
+    second: "Hem\xE1cias Spritesheets_435"
+  - first:
+      213: 2877267722970298008
+    second: "Hem\xE1cias Spritesheets_436"
+  - first:
+      213: 1069110030179261927
+    second: "Hem\xE1cias Spritesheets_437"
+  - first:
+      213: -8929285800752808157
+    second: "Hem\xE1cias Spritesheets_438"
+  - first:
+      213: -2993665418083584331
+    second: "Hem\xE1cias Spritesheets_439"
+  - first:
+      213: 6360575025272634463
+    second: "Hem\xE1cias Spritesheets_440"
+  - first:
+      213: -4373433228318261240
+    second: "Hem\xE1cias Spritesheets_441"
+  - first:
+      213: 4952285153567197089
+    second: "Hem\xE1cias Spritesheets_442"
+  - first:
+      213: 4086283043991378865
+    second: "Hem\xE1cias Spritesheets_443"
+  - first:
+      213: 2491878286028706419
+    second: "Hem\xE1cias Spritesheets_444"
+  - first:
+      213: -694765948368447873
+    second: "Hem\xE1cias Spritesheets_445"
+  - first:
+      213: 2608704187587701214
+    second: "Hem\xE1cias Spritesheets_446"
+  - first:
+      213: -7512391678140420605
+    second: "Hem\xE1cias Spritesheets_447"
+  - first:
+      213: -2028588520190589639
+    second: "Hem\xE1cias Spritesheets_448"
+  - first:
+      213: -3659059814489104498
+    second: "Hem\xE1cias Spritesheets_449"
+  - first:
+      213: -4278122462277389774
+    second: "Hem\xE1cias Spritesheets_450"
+  - first:
+      213: 4805972693988964920
+    second: "Hem\xE1cias Spritesheets_451"
+  - first:
+      213: -7180184579082136693
+    second: "Hem\xE1cias Spritesheets_452"
+  - first:
+      213: -4970866796876525830
+    second: "Hem\xE1cias Spritesheets_453"
+  - first:
+      213: 8939277480353188572
+    second: "Hem\xE1cias Spritesheets_454"
+  - first:
+      213: -9216062768366575025
+    second: "Hem\xE1cias Spritesheets_455"
+  - first:
+      213: -4174646765219488741
+    second: "Hem\xE1cias Spritesheets_456"
+  - first:
+      213: -4262398024167656550
+    second: "Hem\xE1cias Spritesheets_457"
+  - first:
+      213: -7508912813105465331
+    second: "Hem\xE1cias Spritesheets_458"
+  - first:
+      213: -8723077983292925682
+    second: "Hem\xE1cias Spritesheets_459"
+  - first:
+      213: -6975570085341970875
+    second: "Hem\xE1cias Spritesheets_460"
+  - first:
+      213: 3997399203604302974
+    second: "Hem\xE1cias Spritesheets_461"
+  - first:
+      213: 4534465202162821051
+    second: "Hem\xE1cias Spritesheets_462"
+  - first:
+      213: -1525492887501637184
+    second: "Hem\xE1cias Spritesheets_463"
+  - first:
+      213: 2570631982125654362
+    second: "Hem\xE1cias Spritesheets_464"
+  - first:
+      213: 8259301701397051262
+    second: "Hem\xE1cias Spritesheets_465"
+  - first:
+      213: 3152900968975772610
+    second: "Hem\xE1cias Spritesheets_466"
+  - first:
+      213: 5167737681815090843
+    second: "Hem\xE1cias Spritesheets_467"
+  - first:
+      213: -5073825903710651462
+    second: "Hem\xE1cias Spritesheets_468"
+  - first:
+      213: -7377232673821927871
+    second: "Hem\xE1cias Spritesheets_469"
+  - first:
+      213: 8976533927823304798
+    second: "Hem\xE1cias Spritesheets_470"
+  - first:
+      213: -4095788245977472504
+    second: "Hem\xE1cias Spritesheets_471"
+  - first:
+      213: 2737689426246674917
+    second: "Hem\xE1cias Spritesheets_472"
+  - first:
+      213: -7200546389267596752
+    second: "Hem\xE1cias Spritesheets_473"
+  - first:
+      213: 4738512634098201598
+    second: "Hem\xE1cias Spritesheets_474"
+  - first:
+      213: -7875304680213218770
+    second: "Hem\xE1cias Spritesheets_475"
+  - first:
+      213: -1470556784562971997
+    second: "Hem\xE1cias Spritesheets_476"
+  - first:
+      213: 264838406058464047
+    second: "Hem\xE1cias Spritesheets_477"
+  - first:
+      213: -7276055360784541017
+    second: "Hem\xE1cias Spritesheets_478"
+  - first:
+      213: 2419608022722371035
+    second: "Hem\xE1cias Spritesheets_479"
+  - first:
+      213: 1640157511879075771
+    second: "Hem\xE1cias Spritesheets_480"
+  - first:
+      213: -5231741081467151290
+    second: "Hem\xE1cias Spritesheets_481"
+  - first:
+      213: -4665951751752875324
+    second: "Hem\xE1cias Spritesheets_482"
+  - first:
+      213: -8095840094201771862
+    second: "Hem\xE1cias Spritesheets_483"
+  - first:
+      213: -260459694114418250
+    second: "Hem\xE1cias Spritesheets_484"
+  - first:
+      213: -1016807538357095605
+    second: "Hem\xE1cias Spritesheets_485"
+  - first:
+      213: -3204610564758857342
+    second: "Hem\xE1cias Spritesheets_486"
+  - first:
+      213: 3371175834519573245
+    second: "Hem\xE1cias Spritesheets_487"
+  - first:
+      213: -5118086638775172312
+    second: "Hem\xE1cias Spritesheets_488"
+  - first:
+      213: 1238467352134642893
+    second: "Hem\xE1cias Spritesheets_489"
+  - first:
+      213: 6563199018184557795
+    second: "Hem\xE1cias Spritesheets_490"
+  - first:
+      213: -5784348045194306579
+    second: "Hem\xE1cias Spritesheets_491"
+  - first:
+      213: -8980670451161845939
+    second: "Hem\xE1cias Spritesheets_492"
+  - first:
+      213: 8250097612490201901
+    second: "Hem\xE1cias Spritesheets_493"
+  - first:
+      213: 6068234590637444109
+    second: "Hem\xE1cias Spritesheets_494"
+  - first:
+      213: 5169696971528359102
+    second: "Hem\xE1cias Spritesheets_495"
+  - first:
+      213: -8000531564161107738
+    second: "Hem\xE1cias Spritesheets_496"
+  - first:
+      213: -4707448844414073252
+    second: "Hem\xE1cias Spritesheets_497"
+  - first:
+      213: -3361763688482114949
+    second: "Hem\xE1cias Spritesheets_498"
+  - first:
+      213: 3894303909568021823
+    second: "Hem\xE1cias Spritesheets_499"
+  - first:
+      213: -2191844846835862936
+    second: "Hem\xE1cias Spritesheets_500"
+  - first:
+      213: -2828655403256484486
+    second: "Hem\xE1cias Spritesheets_501"
+  - first:
+      213: 5046076062549222924
+    second: "Hem\xE1cias Spritesheets_502"
+  - first:
+      213: 3378099572502559890
+    second: "Hem\xE1cias Spritesheets_503"
+  - first:
+      213: -5929680759155567948
+    second: "Hem\xE1cias Spritesheets_504"
+  - first:
+      213: -9175133414576985289
+    second: "Hem\xE1cias Spritesheets_505"
+  - first:
+      213: 5865929407677357119
+    second: "Hem\xE1cias Spritesheets_506"
+  - first:
+      213: 4855666279840386026
+    second: "Hem\xE1cias Spritesheets_507"
+  - first:
+      213: -680161042725724046
+    second: "Hem\xE1cias Spritesheets_508"
+  - first:
+      213: -1445181519207827940
+    second: "Hem\xE1cias Spritesheets_509"
+  - first:
+      213: -305387686491839999
+    second: "Hem\xE1cias Spritesheets_510"
+  - first:
+      213: -4370770588575982545
+    second: "Hem\xE1cias Spritesheets_511"
+  - first:
+      213: 3919444972718358995
+    second: "Hem\xE1cias Spritesheets_512"
+  - first:
+      213: 3224878480673932708
+    second: "Hem\xE1cias Spritesheets_513"
+  - first:
+      213: -1118886986836290805
+    second: "Hem\xE1cias Spritesheets_514"
+  - first:
+      213: -3994348519408535259
+    second: "Hem\xE1cias Spritesheets_515"
+  - first:
+      213: 2907512447951062357
+    second: "Hem\xE1cias Spritesheets_516"
+  - first:
+      213: 7782099567819547815
+    second: "Hem\xE1cias Spritesheets_517"
+  - first:
+      213: -5281113805579013560
+    second: "Hem\xE1cias Spritesheets_518"
+  - first:
+      213: -8881431171158240043
+    second: "Hem\xE1cias Spritesheets_519"
+  - first:
+      213: -3837508497636853989
+    second: "Hem\xE1cias Spritesheets_520"
+  - first:
+      213: -3625448641565783669
+    second: "Hem\xE1cias Spritesheets_521"
+  - first:
+      213: -6341400247351401528
+    second: "Hem\xE1cias Spritesheets_522"
+  - first:
+      213: 126345932961327999
+    second: "Hem\xE1cias Spritesheets_523"
+  - first:
+      213: 7693791525967179697
+    second: "Hem\xE1cias Spritesheets_524"
+  - first:
+      213: 3106111806739670683
+    second: "Hem\xE1cias Spritesheets_525"
+  - first:
+      213: 805443905748980943
+    second: "Hem\xE1cias Spritesheets_526"
+  - first:
+      213: -8610550554017274884
+    second: "Hem\xE1cias Spritesheets_527"
+  - first:
+      213: -1780017296854871649
+    second: "Hem\xE1cias Spritesheets_528"
+  - first:
+      213: -8989591470136089171
+    second: "Hem\xE1cias Spritesheets_529"
+  - first:
+      213: -9081704461435401705
+    second: "Hem\xE1cias Spritesheets_530"
+  - first:
+      213: -123767875502545955
+    second: "Hem\xE1cias Spritesheets_531"
+  - first:
+      213: 5302836389444928245
+    second: "Hem\xE1cias Spritesheets_532"
+  - first:
+      213: -1436622339452206229
+    second: "Hem\xE1cias Spritesheets_533"
+  - first:
+      213: -4163334476746044819
+    second: "Hem\xE1cias Spritesheets_534"
+  - first:
+      213: 852508174351112478
+    second: "Hem\xE1cias Spritesheets_535"
+  - first:
+      213: 7811666130666500185
+    second: "Hem\xE1cias Spritesheets_536"
+  - first:
+      213: -5981023134664701999
+    second: "Hem\xE1cias Spritesheets_537"
+  - first:
+      213: 6346788928507048154
+    second: "Hem\xE1cias Spritesheets_538"
+  - first:
+      213: -5219608521169144044
+    second: "Hem\xE1cias Spritesheets_539"
+  - first:
+      213: 4141247550437953035
+    second: "Hem\xE1cias Spritesheets_540"
+  - first:
+      213: -2973528928800535914
+    second: "Hem\xE1cias Spritesheets_541"
+  - first:
+      213: 1038915226150449268
+    second: "Hem\xE1cias Spritesheets_542"
+  - first:
+      213: 3760048037923537330
+    second: "Hem\xE1cias Spritesheets_543"
+  - first:
+      213: -7943106261141173843
+    second: "Hem\xE1cias Spritesheets_544"
+  - first:
+      213: 1747869079208580872
+    second: "Hem\xE1cias Spritesheets_545"
+  - first:
+      213: 1864805404915649703
+    second: "Hem\xE1cias Spritesheets_546"
+  - first:
+      213: -8474072141155625046
+    second: "Hem\xE1cias Spritesheets_547"
+  - first:
+      213: 105287243626352204
+    second: "Hem\xE1cias Spritesheets_548"
+  - first:
+      213: 606943313040568419
+    second: "Hem\xE1cias Spritesheets_549"
+  - first:
+      213: 6108458869518569067
+    second: "Hem\xE1cias Spritesheets_550"
+  - first:
+      213: 8129880945425750026
+    second: "Hem\xE1cias Spritesheets_551"
+  - first:
+      213: 5962292835068292528
+    second: "Hem\xE1cias Spritesheets_552"
+  - first:
+      213: -4047601010913115194
+    second: "Hem\xE1cias Spritesheets_553"
+  - first:
+      213: 2775561689464244517
+    second: "Hem\xE1cias Spritesheets_554"
+  - first:
+      213: 6071076458713646911
+    second: "Hem\xE1cias Spritesheets_555"
+  - first:
+      213: -1350934611442204673
+    second: "Hem\xE1cias Spritesheets_556"
+  - first:
+      213: -3395055557596013320
+    second: "Hem\xE1cias Spritesheets_557"
+  - first:
+      213: 4269295167177638217
+    second: "Hem\xE1cias Spritesheets_558"
+  - first:
+      213: 7646894837684741255
+    second: "Hem\xE1cias Spritesheets_559"
+  - first:
+      213: -7509985951041676128
+    second: "Hem\xE1cias Spritesheets_560"
+  - first:
+      213: -8442096320692230065
+    second: "Hem\xE1cias Spritesheets_561"
+  - first:
+      213: 4790060687120446755
+    second: "Hem\xE1cias Spritesheets_562"
+  - first:
+      213: -7837574068811040413
+    second: "Hem\xE1cias Spritesheets_563"
+  - first:
+      213: -8595366197525168328
+    second: "Hem\xE1cias Spritesheets_564"
+  - first:
+      213: 1086471939317762810
+    second: "Hem\xE1cias Spritesheets_565"
+  - first:
+      213: 6831427599036595371
+    second: "Hem\xE1cias Spritesheets_566"
+  - first:
+      213: 7862649596860961549
+    second: "Hem\xE1cias Spritesheets_567"
+  - first:
+      213: 3746024416910449778
+    second: "Hem\xE1cias Spritesheets_568"
+  - first:
+      213: 6906592525397674815
+    second: "Hem\xE1cias Spritesheets_569"
+  - first:
+      213: 7265636407269742971
+    second: "Hem\xE1cias Spritesheets_570"
+  - first:
+      213: -5625939015330012760
+    second: "Hem\xE1cias Spritesheets_571"
+  - first:
+      213: -1184010348905962170
+    second: "Hem\xE1cias Spritesheets_572"
+  - first:
+      213: 5699000126935821390
+    second: "Hem\xE1cias Spritesheets_573"
+  - first:
+      213: 5021170389552104726
+    second: "Hem\xE1cias Spritesheets_574"
+  - first:
+      213: 7526080699042266834
+    second: "Hem\xE1cias Spritesheets_575"
+  - first:
+      213: 7778091474969533309
+    second: "Hem\xE1cias Spritesheets_576"
+  - first:
+      213: 3329220550271646192
+    second: "Hem\xE1cias Spritesheets_577"
+  - first:
+      213: -6976341628479613256
+    second: "Hem\xE1cias Spritesheets_578"
+  - first:
+      213: 1408985119018569887
+    second: "Hem\xE1cias Spritesheets_579"
+  - first:
+      213: -6302166103166396974
+    second: "Hem\xE1cias Spritesheets_580"
+  - first:
+      213: -265389681996826403
+    second: "Hem\xE1cias Spritesheets_581"
+  - first:
+      213: -4377169542361997860
+    second: "Hem\xE1cias Spritesheets_582"
+  - first:
+      213: 9095066153871105142
+    second: "Hem\xE1cias Spritesheets_583"
+  - first:
+      213: -2435715298831926621
+    second: "Hem\xE1cias Spritesheets_584"
+  - first:
+      213: -5761550540838232433
+    second: "Hem\xE1cias Spritesheets_585"
+  - first:
+      213: 4825223785157992777
+    second: "Hem\xE1cias Spritesheets_586"
+  - first:
+      213: -121203243022660637
+    second: "Hem\xE1cias Spritesheets_587"
+  - first:
+      213: 8733061103185961205
+    second: "Hem\xE1cias Spritesheets_588"
+  - first:
+      213: -8768236384973092985
+    second: "Hem\xE1cias Spritesheets_589"
+  - first:
+      213: 6118521128368563950
+    second: "Hem\xE1cias Spritesheets_590"
+  - first:
+      213: -9023039484336079110
+    second: "Hem\xE1cias Spritesheets_591"
+  - first:
+      213: 3202968724175763697
+    second: "Hem\xE1cias Spritesheets_592"
+  - first:
+      213: -6929132182204529713
+    second: "Hem\xE1cias Spritesheets_593"
+  - first:
+      213: -7422809810523124329
+    second: "Hem\xE1cias Spritesheets_594"
+  - first:
+      213: 1469085359858277864
+    second: "Hem\xE1cias Spritesheets_595"
+  - first:
+      213: 38878892800242088
+    second: "Hem\xE1cias Spritesheets_596"
+  - first:
+      213: -4698895613679122916
+    second: "Hem\xE1cias Spritesheets_597"
+  - first:
+      213: -8478449562466020180
+    second: "Hem\xE1cias Spritesheets_598"
+  - first:
+      213: -8370095693775080238
+    second: "Hem\xE1cias Spritesheets_599"
+  - first:
+      213: 2907777472843630254
+    second: "Hem\xE1cias Spritesheets_600"
+  - first:
+      213: -3729033346888707715
+    second: "Hem\xE1cias Spritesheets_601"
+  - first:
+      213: 8293061186877303724
+    second: "Hem\xE1cias Spritesheets_602"
+  - first:
+      213: 2625287292601898065
+    second: "Hem\xE1cias Spritesheets_603"
+  - first:
+      213: 2081111383259855922
+    second: "Hem\xE1cias Spritesheets_604"
+  - first:
+      213: 6592879163877089467
+    second: "Hem\xE1cias Spritesheets_605"
+  - first:
+      213: 7118253518267177094
+    second: "Hem\xE1cias Spritesheets_606"
+  - first:
+      213: 4117227420512757560
+    second: "Hem\xE1cias Spritesheets_607"
+  - first:
+      213: -300205945402729198
+    second: "Hem\xE1cias Spritesheets_608"
+  - first:
+      213: 7696937757426853732
+    second: "Hem\xE1cias Spritesheets_609"
+  - first:
+      213: -7821652464141555335
+    second: "Hem\xE1cias Spritesheets_610"
+  - first:
+      213: 5798625774909432867
+    second: "Hem\xE1cias Spritesheets_611"
+  - first:
+      213: 3437218652053453720
+    second: "Hem\xE1cias Spritesheets_612"
+  - first:
+      213: -644898375975228809
+    second: "Hem\xE1cias Spritesheets_613"
+  - first:
+      213: -5831755366476006351
+    second: "Hem\xE1cias Spritesheets_614"
+  - first:
+      213: -5609124566971425565
+    second: "Hem\xE1cias Spritesheets_615"
+  - first:
+      213: -5824341566679419873
+    second: "Hem\xE1cias Spritesheets_616"
+  - first:
+      213: -7891610064842697347
+    second: "Hem\xE1cias Spritesheets_617"
+  - first:
+      213: 6761627541773193873
+    second: "Hem\xE1cias Spritesheets_618"
+  - first:
+      213: -5622628972886617321
+    second: "Hem\xE1cias Spritesheets_619"
+  - first:
+      213: -1635180030425548823
+    second: "Hem\xE1cias Spritesheets_620"
+  - first:
+      213: 8664653323510613379
+    second: "Hem\xE1cias Spritesheets_621"
+  - first:
+      213: -2348828730022550836
+    second: "Hem\xE1cias Spritesheets_622"
+  - first:
+      213: 4732609113795005107
+    second: "Hem\xE1cias Spritesheets_623"
+  - first:
+      213: 2424476148277681954
+    second: "Hem\xE1cias Spritesheets_624"
+  - first:
+      213: -2145335501320683362
+    second: "Hem\xE1cias Spritesheets_625"
+  - first:
+      213: 5904795732081386949
+    second: "Hem\xE1cias Spritesheets_626"
+  - first:
+      213: 7016540026670679982
+    second: "Hem\xE1cias Spritesheets_627"
+  - first:
+      213: 6511477879897072376
+    second: "Hem\xE1cias Spritesheets_628"
+  - first:
+      213: 21484722749839068
+    second: "Hem\xE1cias Spritesheets_629"
+  - first:
+      213: 1579828911383332352
+    second: "Hem\xE1cias Spritesheets_630"
+  - first:
+      213: 1718345275731638950
+    second: "Hem\xE1cias Spritesheets_631"
+  - first:
+      213: -8055253579564281253
+    second: "Hem\xE1cias Spritesheets_632"
+  - first:
+      213: 6639705808609668415
+    second: "Hem\xE1cias Spritesheets_633"
+  - first:
+      213: -813686186017837995
+    second: "Hem\xE1cias Spritesheets_634"
+  - first:
+      213: 1609865664556043806
+    second: "Hem\xE1cias Spritesheets_635"
+  - first:
+      213: -2463943243755542549
+    second: "Hem\xE1cias Spritesheets_636"
+  - first:
+      213: 8965724013325068739
+    second: "Hem\xE1cias Spritesheets_637"
+  - first:
+      213: 7231880451600743979
+    second: "Hem\xE1cias Spritesheets_638"
+  - first:
+      213: 8325131907040446590
+    second: "Hem\xE1cias Spritesheets_639"
+  - first:
+      213: 2759287867163530449
+    second: "Hem\xE1cias Spritesheets_640"
+  - first:
+      213: -8989328002216268028
+    second: "Hem\xE1cias Spritesheets_641"
+  - first:
+      213: -984840780484707617
+    second: "Hem\xE1cias Spritesheets_642"
+  - first:
+      213: -6928317551292110217
+    second: "Hem\xE1cias Spritesheets_643"
+  - first:
+      213: 3221574388587876263
+    second: "Hem\xE1cias Spritesheets_644"
+  - first:
+      213: 6934544882079043851
+    second: "Hem\xE1cias Spritesheets_645"
+  - first:
+      213: 5137753100655652342
+    second: "Hem\xE1cias Spritesheets_646"
+  - first:
+      213: -5641302729595720805
+    second: "Hem\xE1cias Spritesheets_647"
+  - first:
+      213: 3048327320353720724
+    second: "Hem\xE1cias Spritesheets_648"
+  - first:
+      213: 18725674346895212
+    second: "Hem\xE1cias Spritesheets_649"
+  - first:
+      213: -4446357059650448073
+    second: "Hem\xE1cias Spritesheets_650"
+  - first:
+      213: -4768613875082229995
+    second: "Hem\xE1cias Spritesheets_651"
+  - first:
+      213: -8424903462504663575
+    second: "Hem\xE1cias Spritesheets_652"
+  - first:
+      213: 6896057830338669842
+    second: "Hem\xE1cias Spritesheets_653"
+  - first:
+      213: 3314740316825249091
+    second: "Hem\xE1cias Spritesheets_654"
+  - first:
+      213: 2616644156728953358
+    second: "Hem\xE1cias Spritesheets_655"
+  - first:
+      213: -3559262458128966451
+    second: "Hem\xE1cias Spritesheets_656"
+  - first:
+      213: -186536491762804261
+    second: "Hem\xE1cias Spritesheets_657"
+  - first:
+      213: 3563130016515385045
+    second: "Hem\xE1cias Spritesheets_658"
+  - first:
+      213: 6663023265670897240
+    second: "Hem\xE1cias Spritesheets_659"
+  - first:
+      213: -3518419913865925141
+    second: "Hem\xE1cias Spritesheets_660"
+  - first:
+      213: 2467280159323563556
+    second: "Hem\xE1cias Spritesheets_661"
+  - first:
+      213: -5723470188392631949
+    second: "Hem\xE1cias Spritesheets_662"
+  - first:
+      213: 7161146932850281200
+    second: "Hem\xE1cias Spritesheets_663"
+  - first:
+      213: -6331579563899328814
+    second: "Hem\xE1cias Spritesheets_664"
+  - first:
+      213: -3938168220688332140
+    second: "Hem\xE1cias Spritesheets_665"
+  - first:
+      213: -1442697469868977286
+    second: "Hem\xE1cias Spritesheets_666"
+  - first:
+      213: 3554089491329537439
+    second: "Hem\xE1cias Spritesheets_667"
+  - first:
+      213: -5290410029671004228
+    second: "Hem\xE1cias Spritesheets_668"
+  - first:
+      213: -1860804017032295535
+    second: "Hem\xE1cias Spritesheets_669"
+  - first:
+      213: -7966436212446061254
+    second: "Hem\xE1cias Spritesheets_670"
+  - first:
+      213: -9054702248771798615
+    second: "Hem\xE1cias Spritesheets_671"
+  - first:
+      213: 3431060264939691651
+    second: "Hem\xE1cias Spritesheets_672"
+  - first:
+      213: -6568269003273646068
+    second: "Hem\xE1cias Spritesheets_673"
+  - first:
+      213: -8578853837799752328
+    second: "Hem\xE1cias Spritesheets_674"
+  - first:
+      213: 3736022172219110369
+    second: "Hem\xE1cias Spritesheets_675"
+  - first:
+      213: 6695259454627427378
+    second: "Hem\xE1cias Spritesheets_676"
+  - first:
+      213: 1328627306334418959
+    second: "Hem\xE1cias Spritesheets_677"
+  - first:
+      213: -6167770776130491047
+    second: "Hem\xE1cias Spritesheets_678"
+  - first:
+      213: 1775867090268399837
+    second: "Hem\xE1cias Spritesheets_679"
+  - first:
+      213: -6419355597810795528
+    second: "Hem\xE1cias Spritesheets_680"
+  - first:
+      213: -8481091733700935844
+    second: "Hem\xE1cias Spritesheets_681"
+  - first:
+      213: -4659876006634025038
+    second: "Hem\xE1cias Spritesheets_682"
+  - first:
+      213: -2359439518309579569
+    second: "Hem\xE1cias Spritesheets_683"
+  - first:
+      213: -595325200594703637
+    second: "Hem\xE1cias Spritesheets_684"
+  - first:
+      213: -236800514791917446
+    second: "Hem\xE1cias Spritesheets_685"
+  - first:
+      213: 8677091021053558654
+    second: "Hem\xE1cias Spritesheets_686"
+  - first:
+      213: 7233309464559206130
+    second: "Hem\xE1cias Spritesheets_687"
+  - first:
+      213: -128029299350874839
+    second: "Hem\xE1cias Spritesheets_688"
+  - first:
+      213: -911311956326162128
+    second: "Hem\xE1cias Spritesheets_689"
+  - first:
+      213: 1478679927900645968
+    second: "Hem\xE1cias Spritesheets_690"
+  - first:
+      213: -1201313063278924976
+    second: "Hem\xE1cias Spritesheets_691"
+  - first:
+      213: -7213643630377418693
+    second: "Hem\xE1cias Spritesheets_692"
+  - first:
+      213: -8600137027011015302
+    second: "Hem\xE1cias Spritesheets_693"
+  - first:
+      213: -8891886631609987713
+    second: "Hem\xE1cias Spritesheets_694"
+  - first:
+      213: 5999551019354384017
+    second: "Hem\xE1cias Spritesheets_695"
+  - first:
+      213: -406931262268621671
+    second: "Hem\xE1cias Spritesheets_696"
+  - first:
+      213: 2189352325973606388
+    second: "Hem\xE1cias Spritesheets_697"
+  - first:
+      213: -729672048924938267
+    second: "Hem\xE1cias Spritesheets_698"
+  - first:
+      213: -1814759158793088568
+    second: "Hem\xE1cias Spritesheets_699"
+  - first:
+      213: 8504661073930686579
+    second: "Hem\xE1cias Spritesheets_700"
+  - first:
+      213: -4445194438856334926
+    second: "Hem\xE1cias Spritesheets_701"
+  - first:
+      213: 5285814259478072510
+    second: "Hem\xE1cias Spritesheets_702"
+  - first:
+      213: 3779108851932728142
+    second: "Hem\xE1cias Spritesheets_703"
+  - first:
+      213: -3576287851678807164
+    second: "Hem\xE1cias Spritesheets_704"
+  - first:
+      213: -1663041791828082544
+    second: "Hem\xE1cias Spritesheets_705"
+  - first:
+      213: -4096375284908465897
+    second: "Hem\xE1cias Spritesheets_706"
+  - first:
+      213: 7991451353772909063
+    second: "Hem\xE1cias Spritesheets_707"
+  - first:
+      213: -3315925899116126004
+    second: "Hem\xE1cias Spritesheets_708"
+  - first:
+      213: 4239951122549742901
+    second: "Hem\xE1cias Spritesheets_709"
+  - first:
+      213: -3869137055051410133
+    second: "Hem\xE1cias Spritesheets_710"
+  - first:
+      213: 2936009962902336056
+    second: "Hem\xE1cias Spritesheets_711"
+  - first:
+      213: 2929545080899886416
+    second: "Hem\xE1cias Spritesheets_712"
+  - first:
+      213: 2724169037166002604
+    second: "Hem\xE1cias Spritesheets_713"
+  - first:
+      213: -2923361141511999734
+    second: "Hem\xE1cias Spritesheets_714"
+  - first:
+      213: 2309287066261331632
+    second: "Hem\xE1cias Spritesheets_715"
+  - first:
+      213: 103991105524258299
+    second: "Hem\xE1cias Spritesheets_716"
+  - first:
+      213: -8471469875966590865
+    second: "Hem\xE1cias Spritesheets_717"
+  - first:
+      213: 3640652149851629636
+    second: "Hem\xE1cias Spritesheets_718"
+  - first:
+      213: 5790418693515299132
+    second: "Hem\xE1cias Spritesheets_719"
+  - first:
+      213: -2363627914031196871
+    second: "Hem\xE1cias Spritesheets_720"
+  - first:
+      213: -8232340516224903294
+    second: "Hem\xE1cias Spritesheets_721"
+  - first:
+      213: 819383458303303192
+    second: "Hem\xE1cias Spritesheets_722"
+  - first:
+      213: -4027273350378541517
+    second: "Hem\xE1cias Spritesheets_723"
+  - first:
+      213: -4232345859892708774
+    second: "Hem\xE1cias Spritesheets_724"
+  - first:
+      213: -2990342020877957379
+    second: "Hem\xE1cias Spritesheets_725"
+  - first:
+      213: -3793454203751138473
+    second: "Hem\xE1cias Spritesheets_726"
+  - first:
+      213: -1437888328694658750
+    second: "Hem\xE1cias Spritesheets_727"
+  - first:
+      213: -5661369193244268809
+    second: "Hem\xE1cias Spritesheets_728"
+  - first:
+      213: -2450017740315243686
+    second: "Hem\xE1cias Spritesheets_729"
+  - first:
+      213: -1694185771886329922
+    second: "Hem\xE1cias Spritesheets_730"
+  - first:
+      213: 4704472680312444054
+    second: "Hem\xE1cias Spritesheets_731"
+  - first:
+      213: -7990039631797274912
+    second: "Hem\xE1cias Spritesheets_732"
+  - first:
+      213: -2229412855263124973
+    second: "Hem\xE1cias Spritesheets_733"
+  - first:
+      213: -4323970719839389273
+    second: "Hem\xE1cias Spritesheets_734"
+  - first:
+      213: -5875734016176371457
+    second: "Hem\xE1cias Spritesheets_735"
+  - first:
+      213: 4808418642150178467
+    second: "Hem\xE1cias Spritesheets_736"
+  - first:
+      213: 4186703370222987466
+    second: "Hem\xE1cias Spritesheets_737"
+  - first:
+      213: 7196447360222598240
+    second: "Hem\xE1cias Spritesheets_738"
+  - first:
+      213: 7377212902244574737
+    second: "Hem\xE1cias Spritesheets_739"
+  - first:
+      213: 5191035032403446857
+    second: "Hem\xE1cias Spritesheets_740"
+  - first:
+      213: -4260822001994207335
+    second: "Hem\xE1cias Spritesheets_741"
+  - first:
+      213: -399192772057757050
+    second: "Hem\xE1cias Spritesheets_742"
+  - first:
+      213: 3646676805037766720
+    second: "Hem\xE1cias Spritesheets_743"
+  - first:
+      213: 2339973549922147702
+    second: "Hem\xE1cias Spritesheets_744"
+  - first:
+      213: 7826735834223666973
+    second: "Hem\xE1cias Spritesheets_745"
+  - first:
+      213: -3776664230367230608
+    second: "Hem\xE1cias Spritesheets_746"
+  - first:
+      213: -2772584196770603006
+    second: "Hem\xE1cias Spritesheets_747"
+  - first:
+      213: 6208696257412747515
+    second: "Hem\xE1cias Spritesheets_748"
+  - first:
+      213: -4706885039973685676
+    second: "Hem\xE1cias Spritesheets_749"
+  - first:
+      213: -1324296967458981538
+    second: "Hem\xE1cias Spritesheets_750"
+  - first:
+      213: 8400754780663590105
+    second: "Hem\xE1cias Spritesheets_751"
+  - first:
+      213: -7843738584496374876
+    second: "Hem\xE1cias Spritesheets_752"
+  - first:
+      213: -7351751752867155155
+    second: "Hem\xE1cias Spritesheets_753"
+  - first:
+      213: -845253952902205743
+    second: "Hem\xE1cias Spritesheets_754"
+  - first:
+      213: 7043992505441216908
+    second: "Hem\xE1cias Spritesheets_755"
+  - first:
+      213: -4899180477076722838
+    second: "Hem\xE1cias Spritesheets_756"
+  - first:
+      213: 5338373895403484368
+    second: "Hem\xE1cias Spritesheets_757"
+  - first:
+      213: -2607652222380584482
+    second: "Hem\xE1cias Spritesheets_758"
+  - first:
+      213: 7625788220288923548
+    second: "Hem\xE1cias Spritesheets_759"
+  - first:
+      213: -5355586251906175540
+    second: "Hem\xE1cias Spritesheets_760"
+  - first:
+      213: 1876029823817006434
+    second: "Hem\xE1cias Spritesheets_761"
+  - first:
+      213: -6898002678136796969
+    second: "Hem\xE1cias Spritesheets_762"
+  - first:
+      213: 1966180510592445964
+    second: "Hem\xE1cias Spritesheets_763"
+  - first:
+      213: 2580373738944863276
+    second: "Hem\xE1cias Spritesheets_764"
+  - first:
+      213: -1197447372692187084
+    second: "Hem\xE1cias Spritesheets_765"
+  - first:
+      213: 791859138721072408
+    second: "Hem\xE1cias Spritesheets_766"
+  - first:
+      213: -660437758226178137
+    second: "Hem\xE1cias Spritesheets_767"
+  - first:
+      213: 8435985959668739526
+    second: "Hem\xE1cias Spritesheets_768"
+  - first:
+      213: 6460182698076314549
+    second: "Hem\xE1cias Spritesheets_769"
+  - first:
+      213: 4109501283028912972
+    second: "Hem\xE1cias Spritesheets_770"
+  - first:
+      213: 6040417632040190595
+    second: "Hem\xE1cias Spritesheets_771"
+  - first:
+      213: -6499219205803755731
+    second: "Hem\xE1cias Spritesheets_772"
+  - first:
+      213: -3526042336753302405
+    second: "Hem\xE1cias Spritesheets_773"
+  - first:
+      213: -1296560815251268986
+    second: "Hem\xE1cias Spritesheets_774"
+  - first:
+      213: -3523631819922779791
+    second: "Hem\xE1cias Spritesheets_775"
+  - first:
+      213: 5570872784644880862
+    second: "Hem\xE1cias Spritesheets_776"
+  - first:
+      213: 4805593792053508768
+    second: "Hem\xE1cias Spritesheets_777"
+  - first:
+      213: 4718629558708169415
+    second: "Hem\xE1cias Spritesheets_778"
+  - first:
+      213: 1342689274258359279
+    second: "Hem\xE1cias Spritesheets_779"
+  - first:
+      213: 1202369872959295766
+    second: "Hem\xE1cias Spritesheets_780"
+  - first:
+      213: -7360808669245373695
+    second: "Hem\xE1cias Spritesheets_781"
+  - first:
+      213: 8371153283151967198
+    second: "Hem\xE1cias Spritesheets_782"
+  - first:
+      213: -1476883849465632649
+    second: "Hem\xE1cias Spritesheets_783"
+  - first:
+      213: 5644961270919528879
+    second: "Hem\xE1cias Spritesheets_784"
+  - first:
+      213: 6480563022266202973
+    second: "Hem\xE1cias Spritesheets_785"
+  - first:
+      213: -9024329315113726036
+    second: "Hem\xE1cias Spritesheets_786"
+  - first:
+      213: 7061783352370033470
+    second: "Hem\xE1cias Spritesheets_787"
+  - first:
+      213: 549506689058404747
+    second: "Hem\xE1cias Spritesheets_788"
+  - first:
+      213: -7584054388563942751
+    second: "Hem\xE1cias Spritesheets_789"
+  - first:
+      213: -7906867159176282907
+    second: "Hem\xE1cias Spritesheets_790"
+  - first:
+      213: 1763106677055966945
+    second: "Hem\xE1cias Spritesheets_791"
+  - first:
+      213: -1280463432063753973
+    second: "Hem\xE1cias Spritesheets_792"
+  - first:
+      213: 7628291161115236884
+    second: "Hem\xE1cias Spritesheets_793"
+  - first:
+      213: 701940927629776261
+    second: "Hem\xE1cias Spritesheets_794"
+  - first:
+      213: 5036974563803102203
+    second: "Hem\xE1cias Spritesheets_795"
+  - first:
+      213: 6372759307243241355
+    second: "Hem\xE1cias Spritesheets_796"
+  - first:
+      213: 9206841957030644557
+    second: "Hem\xE1cias Spritesheets_797"
+  - first:
+      213: 953100210413735813
+    second: "Hem\xE1cias Spritesheets_798"
+  - first:
+      213: -5571580702342261800
+    second: "Hem\xE1cias Spritesheets_799"
+  - first:
+      213: 872597358801860698
+    second: "Hem\xE1cias Spritesheets_800"
+  - first:
+      213: 2918508121996175968
+    second: "Hem\xE1cias Spritesheets_801"
+  - first:
+      213: 8137429976583368440
+    second: "Hem\xE1cias Spritesheets_802"
+  - first:
+      213: 1445127262254411256
+    second: "Hem\xE1cias Spritesheets_803"
+  - first:
+      213: -7216347199138181238
+    second: "Hem\xE1cias Spritesheets_804"
+  - first:
+      213: 1487861245549322264
+    second: "Hem\xE1cias Spritesheets_805"
+  - first:
+      213: 5505174933703856293
+    second: "Hem\xE1cias Spritesheets_806"
+  - first:
+      213: 7996078618741281689
+    second: "Hem\xE1cias Spritesheets_807"
+  - first:
+      213: -6095187593053388652
+    second: "Hem\xE1cias Spritesheets_808"
+  - first:
+      213: 1035187791015975532
+    second: "Hem\xE1cias Spritesheets_809"
+  - first:
+      213: 5759467730285486781
+    second: "Hem\xE1cias Spritesheets_810"
+  - first:
+      213: -6343447043584999988
+    second: "Hem\xE1cias Spritesheets_811"
+  - first:
+      213: 258418980320294027
+    second: "Hem\xE1cias Spritesheets_812"
+  - first:
+      213: 5036803326305446020
+    second: "Hem\xE1cias Spritesheets_813"
+  - first:
+      213: 1491340943355648784
+    second: "Hem\xE1cias Spritesheets_814"
+  - first:
+      213: -6045607154974945197
+    second: "Hem\xE1cias Spritesheets_815"
+  - first:
+      213: -5438108064626558467
+    second: "Hem\xE1cias Spritesheets_816"
+  - first:
+      213: 8423752374489062313
+    second: "Hem\xE1cias Spritesheets_817"
+  - first:
+      213: 2161137768373914376
+    second: "Hem\xE1cias Spritesheets_818"
+  - first:
+      213: 2153031183181322179
+    second: "Hem\xE1cias Spritesheets_819"
+  - first:
+      213: -893027937184417374
+    second: "Hem\xE1cias Spritesheets_820"
+  - first:
+      213: -4781315796055866464
+    second: "Hem\xE1cias Spritesheets_821"
+  - first:
+      213: -7728771803430034378
+    second: "Hem\xE1cias Spritesheets_822"
+  - first:
+      213: -7184004096808162581
+    second: "Hem\xE1cias Spritesheets_823"
+  - first:
+      213: -1294343520052402100
+    second: "Hem\xE1cias Spritesheets_824"
+  - first:
+      213: 503451819878548662
+    second: "Hem\xE1cias Spritesheets_825"
+  - first:
+      213: -2350838168774667403
+    second: "Hem\xE1cias Spritesheets_826"
+  - first:
+      213: -3812056567265334166
+    second: "Hem\xE1cias Spritesheets_827"
+  - first:
+      213: 3800240134188366848
+    second: "Hem\xE1cias Spritesheets_828"
+  - first:
+      213: 1374961827221306162
+    second: "Hem\xE1cias Spritesheets_829"
+  - first:
+      213: 1035634173504031064
+    second: "Hem\xE1cias Spritesheets_830"
+  - first:
+      213: -3047149393131434430
+    second: "Hem\xE1cias Spritesheets_831"
+  - first:
+      213: -8734507653262380343
+    second: "Hem\xE1cias Spritesheets_832"
+  - first:
+      213: 7149491201405023179
+    second: "Hem\xE1cias Spritesheets_833"
+  - first:
+      213: -7140175168619080768
+    second: "Hem\xE1cias Spritesheets_834"
+  - first:
+      213: -2187433859766921728
+    second: "Hem\xE1cias Spritesheets_835"
+  - first:
+      213: 3275264582951958340
+    second: "Hem\xE1cias Spritesheets_836"
+  - first:
+      213: 6726077902845745833
+    second: "Hem\xE1cias Spritesheets_837"
+  - first:
+      213: 1103989381229907883
+    second: "Hem\xE1cias Spritesheets_838"
+  - first:
+      213: 2293595211505870459
+    second: "Hem\xE1cias Spritesheets_839"
+  - first:
+      213: -903967637790776385
+    second: "Hem\xE1cias Spritesheets_840"
+  - first:
+      213: 7022178696917791085
+    second: "Hem\xE1cias Spritesheets_841"
+  - first:
+      213: -6510378174595711923
+    second: "Hem\xE1cias Spritesheets_842"
+  - first:
+      213: -7813083998299079253
+    second: "Hem\xE1cias Spritesheets_843"
+  - first:
+      213: 3295872219274452313
+    second: "Hem\xE1cias Spritesheets_844"
+  - first:
+      213: -485140808328147837
+    second: "Hem\xE1cias Spritesheets_845"
+  - first:
+      213: -7860747218388556309
+    second: "Hem\xE1cias Spritesheets_846"
+  - first:
+      213: -2534107473452900197
+    second: "Hem\xE1cias Spritesheets_847"
+  - first:
+      213: 1788450697789461604
+    second: "Hem\xE1cias Spritesheets_848"
+  - first:
+      213: -7703154467124259367
+    second: "Hem\xE1cias Spritesheets_849"
+  - first:
+      213: -5667430088462589895
+    second: "Hem\xE1cias Spritesheets_850"
+  - first:
+      213: -1531017410376286058
+    second: "Hem\xE1cias Spritesheets_851"
+  - first:
+      213: -89273580503236083
+    second: "Hem\xE1cias Spritesheets_852"
+  - first:
+      213: -4394446284271817718
+    second: "Hem\xE1cias Spritesheets_853"
+  - first:
+      213: 7898800067823312461
+    second: "Hem\xE1cias Spritesheets_854"
+  - first:
+      213: 6407518735358303443
+    second: "Hem\xE1cias Spritesheets_855"
+  - first:
+      213: -2219648527541198465
+    second: "Hem\xE1cias Spritesheets_856"
+  - first:
+      213: -6996664427434207948
+    second: "Hem\xE1cias Spritesheets_857"
+  - first:
+      213: -981832938841492211
+    second: "Hem\xE1cias Spritesheets_858"
+  - first:
+      213: -4059132741155722790
+    second: "Hem\xE1cias Spritesheets_859"
+  - first:
+      213: -6293108074966174964
+    second: "Hem\xE1cias Spritesheets_860"
+  - first:
+      213: -6255151408829434157
+    second: "Hem\xE1cias Spritesheets_861"
+  - first:
+      213: 8716344248852654125
+    second: "Hem\xE1cias Spritesheets_862"
+  - first:
+      213: 4928781982922713280
+    second: "Hem\xE1cias Spritesheets_863"
+  - first:
+      213: 5344729238643443159
+    second: "Hem\xE1cias Spritesheets_864"
+  - first:
+      213: -3549231075678122860
+    second: "Hem\xE1cias Spritesheets_865"
+  - first:
+      213: -341948134660760328
+    second: "Hem\xE1cias Spritesheets_866"
+  - first:
+      213: -1255922601199571315
+    second: "Hem\xE1cias Spritesheets_867"
+  - first:
+      213: -4685510767680818037
+    second: "Hem\xE1cias Spritesheets_868"
+  - first:
+      213: -2934047807094400655
+    second: "Hem\xE1cias Spritesheets_869"
+  - first:
+      213: -5745852791821423270
+    second: "Hem\xE1cias Spritesheets_870"
+  - first:
+      213: 4390280223716413669
+    second: "Hem\xE1cias Spritesheets_871"
+  - first:
+      213: 8366670276829995970
+    second: "Hem\xE1cias Spritesheets_872"
+  - first:
+      213: 3424366156281689854
+    second: "Hem\xE1cias Spritesheets_873"
+  - first:
+      213: 3665088665744035718
+    second: "Hem\xE1cias Spritesheets_874"
+  - first:
+      213: -4876093454809828669
+    second: "Hem\xE1cias Spritesheets_875"
+  - first:
+      213: -3830762861614214107
+    second: "Hem\xE1cias Spritesheets_876"
+  - first:
+      213: 3219320160771690095
+    second: "Hem\xE1cias Spritesheets_877"
+  - first:
+      213: -9056951923500086408
+    second: "Hem\xE1cias Spritesheets_878"
+  - first:
+      213: -6316687436452390577
+    second: "Hem\xE1cias Spritesheets_879"
+  - first:
+      213: -5944723389355232504
+    second: "Hem\xE1cias Spritesheets_880"
+  - first:
+      213: -8554752066425402317
+    second: "Hem\xE1cias Spritesheets_881"
+  - first:
+      213: -4290696501622952591
+    second: "Hem\xE1cias Spritesheets_882"
+  - first:
+      213: -9055007131950475007
+    second: "Hem\xE1cias Spritesheets_883"
+  - first:
+      213: 831396281457611142
+    second: "Hem\xE1cias Spritesheets_884"
+  - first:
+      213: 7104206946301164785
+    second: "Hem\xE1cias Spritesheets_885"
+  - first:
+      213: -3961252676738250499
+    second: "Hem\xE1cias Spritesheets_886"
+  - first:
+      213: 421865027204319874
+    second: "Hem\xE1cias Spritesheets_887"
+  - first:
+      213: -8737778112634458705
+    second: "Hem\xE1cias Spritesheets_888"
+  - first:
+      213: 1553842190055846478
+    second: "Hem\xE1cias Spritesheets_889"
+  - first:
+      213: 2984232849514947815
+    second: "Hem\xE1cias Spritesheets_890"
+  - first:
+      213: -9026578029962113409
+    second: "Hem\xE1cias Spritesheets_891"
+  - first:
+      213: 966089623078206294
+    second: "Hem\xE1cias Spritesheets_892"
+  - first:
+      213: 5904096139665123338
+    second: "Hem\xE1cias Spritesheets_893"
+  - first:
+      213: -8273458160866763646
+    second: "Hem\xE1cias Spritesheets_894"
+  - first:
+      213: -3136104124365527681
+    second: "Hem\xE1cias Spritesheets_895"
+  - first:
+      213: 4768397820889141871
+    second: "Hem\xE1cias Spritesheets_896"
+  - first:
+      213: -6712042790571227563
+    second: "Hem\xE1cias Spritesheets_897"
+  - first:
+      213: 2182958302844460162
+    second: "Hem\xE1cias Spritesheets_898"
+  - first:
+      213: -7544426271194963589
+    second: "Hem\xE1cias Spritesheets_899"
+  - first:
+      213: 884727674256122191
+    second: "Hem\xE1cias Spritesheets_900"
+  - first:
+      213: -7913706837756756881
+    second: "Hem\xE1cias Spritesheets_901"
+  - first:
+      213: -2575606885004742706
+    second: "Hem\xE1cias Spritesheets_902"
+  - first:
+      213: -2944157574997297469
+    second: "Hem\xE1cias Spritesheets_903"
+  - first:
+      213: 8192640322453653436
+    second: "Hem\xE1cias Spritesheets_904"
+  - first:
+      213: 8671446497584053588
+    second: "Hem\xE1cias Spritesheets_905"
+  - first:
+      213: -5335351499671767129
+    second: "Hem\xE1cias Spritesheets_906"
+  - first:
+      213: -2359880344513612907
+    second: "Hem\xE1cias Spritesheets_907"
+  - first:
+      213: 9101512658791388874
+    second: "Hem\xE1cias Spritesheets_908"
+  - first:
+      213: 4106745735032682966
+    second: "Hem\xE1cias Spritesheets_909"
+  - first:
+      213: 4234341799262766690
+    second: "Hem\xE1cias Spritesheets_910"
+  - first:
+      213: 5442321683043188972
+    second: "Hem\xE1cias Spritesheets_911"
+  - first:
+      213: -6938856396993071035
+    second: "Hem\xE1cias Spritesheets_912"
+  - first:
+      213: 8696513467875037582
+    second: "Hem\xE1cias Spritesheets_913"
+  - first:
+      213: -1669148852712316122
+    second: "Hem\xE1cias Spritesheets_914"
+  - first:
+      213: -6349413572741095867
+    second: "Hem\xE1cias Spritesheets_915"
+  - first:
+      213: 6606755655156975116
+    second: "Hem\xE1cias Spritesheets_916"
+  - first:
+      213: 350496347477678314
+    second: "Hem\xE1cias Spritesheets_917"
+  - first:
+      213: -2716844321852245747
+    second: "Hem\xE1cias Spritesheets_918"
+  - first:
+      213: 4897653183299795850
+    second: "Hem\xE1cias Spritesheets_919"
+  - first:
+      213: -6573564319327941547
+    second: "Hem\xE1cias Spritesheets_920"
+  - first:
+      213: 538984264968289033
+    second: "Hem\xE1cias Spritesheets_921"
+  - first:
+      213: 8894252328580207546
+    second: "Hem\xE1cias Spritesheets_922"
+  - first:
+      213: -6981911577109633358
+    second: "Hem\xE1cias Spritesheets_923"
+  - first:
+      213: 1742893837386454300
+    second: "Hem\xE1cias Spritesheets_924"
+  - first:
+      213: -5079543757256755193
+    second: "Hem\xE1cias Spritesheets_925"
+  - first:
+      213: 7930144769723776297
+    second: "Hem\xE1cias Spritesheets_926"
+  - first:
+      213: -1010879585608270227
+    second: "Hem\xE1cias Spritesheets_927"
+  - first:
+      213: -2310032304569301928
+    second: "Hem\xE1cias Spritesheets_928"
+  - first:
+      213: 4722650180062051767
+    second: "Hem\xE1cias Spritesheets_929"
+  - first:
+      213: -8851770534881125656
+    second: "Hem\xE1cias Spritesheets_930"
+  - first:
+      213: 717249228239676182
+    second: "Hem\xE1cias Spritesheets_931"
+  - first:
+      213: 5570928109707039789
+    second: "Hem\xE1cias Spritesheets_932"
+  - first:
+      213: -5827967616766557006
+    second: "Hem\xE1cias Spritesheets_933"
+  - first:
+      213: -4436385162831222374
+    second: "Hem\xE1cias Spritesheets_934"
+  - first:
+      213: -3473804561838890083
+    second: "Hem\xE1cias Spritesheets_935"
+  - first:
+      213: -8006238409250010914
+    second: "Hem\xE1cias Spritesheets_936"
+  - first:
+      213: -1359832329193186456
+    second: "Hem\xE1cias Spritesheets_937"
+  - first:
+      213: 5913150434194846961
+    second: "Hem\xE1cias Spritesheets_938"
+  - first:
+      213: 8034496916334852949
+    second: "Hem\xE1cias Spritesheets_939"
+  - first:
+      213: 48320033000288543
+    second: "Hem\xE1cias Spritesheets_940"
+  - first:
+      213: 1111253227400631420
+    second: "Hem\xE1cias Spritesheets_941"
+  - first:
+      213: 4663929720752050858
+    second: "Hem\xE1cias Spritesheets_942"
+  - first:
+      213: -3211978806166379563
+    second: "Hem\xE1cias Spritesheets_943"
+  - first:
+      213: 8774521776160558920
+    second: "Hem\xE1cias Spritesheets_944"
+  - first:
+      213: 6701870669234323695
+    second: "Hem\xE1cias Spritesheets_945"
+  - first:
+      213: -8658128093399668656
+    second: "Hem\xE1cias Spritesheets_946"
+  - first:
+      213: 6736118649100281061
+    second: "Hem\xE1cias Spritesheets_947"
+  - first:
+      213: -967825906548638145
+    second: "Hem\xE1cias Spritesheets_948"
+  - first:
+      213: -2335190221814707288
+    second: "Hem\xE1cias Spritesheets_949"
+  - first:
+      213: -8919532697068422072
+    second: "Hem\xE1cias Spritesheets_950"
+  - first:
+      213: 3114967255077166678
+    second: "Hem\xE1cias Spritesheets_951"
+  - first:
+      213: 3050131801725595416
+    second: "Hem\xE1cias Spritesheets_952"
+  - first:
+      213: -9136994456470073761
+    second: "Hem\xE1cias Spritesheets_953"
+  - first:
+      213: 6471302476177104812
+    second: "Hem\xE1cias Spritesheets_954"
+  - first:
+      213: 4870030752854652705
+    second: "Hem\xE1cias Spritesheets_955"
+  - first:
+      213: -8907489130566318995
+    second: "Hem\xE1cias Spritesheets_956"
+  - first:
+      213: -2218238380197881342
+    second: "Hem\xE1cias Spritesheets_957"
+  - first:
+      213: -3167530308169149944
+    second: "Hem\xE1cias Spritesheets_958"
+  - first:
+      213: 7347684186093429516
+    second: "Hem\xE1cias Spritesheets_959"
+  - first:
+      213: 6932892020689772334
+    second: "Hem\xE1cias Spritesheets_960"
+  - first:
+      213: 8162248690222519370
+    second: "Hem\xE1cias Spritesheets_961"
+  - first:
+      213: 7358522026079618672
+    second: "Hem\xE1cias Spritesheets_962"
+  - first:
+      213: -4639172874246374660
+    second: "Hem\xE1cias Spritesheets_963"
+  - first:
+      213: 6956030405483458391
+    second: "Hem\xE1cias Spritesheets_964"
+  - first:
+      213: 5594183431335086133
+    second: "Hem\xE1cias Spritesheets_965"
+  - first:
+      213: -3943555768286221713
+    second: "Hem\xE1cias Spritesheets_966"
+  - first:
+      213: 1081272288625703332
+    second: "Hem\xE1cias Spritesheets_967"
+  - first:
+      213: -8514805024658536116
+    second: "Hem\xE1cias Spritesheets_968"
+  - first:
+      213: 8532800927749180086
+    second: "Hem\xE1cias Spritesheets_969"
+  - first:
+      213: -7254732438965051005
+    second: "Hem\xE1cias Spritesheets_970"
+  - first:
+      213: -4453061675214478705
+    second: "Hem\xE1cias Spritesheets_971"
+  - first:
+      213: 4744704570999272740
+    second: "Hem\xE1cias Spritesheets_972"
+  - first:
+      213: -7683068568315427810
+    second: "Hem\xE1cias Spritesheets_973"
+  - first:
+      213: -585512120828571608
+    second: "Hem\xE1cias Spritesheets_974"
+  - first:
+      213: -8401729817383062985
+    second: "Hem\xE1cias Spritesheets_975"
+  - first:
+      213: -5513278912446530584
+    second: "Hem\xE1cias Spritesheets_976"
+  - first:
+      213: 1268288596959162847
+    second: "Hem\xE1cias Spritesheets_977"
+  - first:
+      213: 5974389407298556864
+    second: "Hem\xE1cias Spritesheets_978"
+  - first:
+      213: 7867166344041770648
+    second: "Hem\xE1cias Spritesheets_979"
+  - first:
+      213: -7077345204942522754
+    second: "Hem\xE1cias Spritesheets_980"
+  - first:
+      213: -1698759404528145370
+    second: "Hem\xE1cias Spritesheets_981"
+  - first:
+      213: -712676240041532004
+    second: "Hem\xE1cias Spritesheets_982"
+  - first:
+      213: -4076018975188291952
+    second: "Hem\xE1cias Spritesheets_983"
+  - first:
+      213: -7256261935537048149
+    second: "Hem\xE1cias Spritesheets_984"
+  - first:
+      213: -6501135544661746080
+    second: "Hem\xE1cias Spritesheets_985"
+  - first:
+      213: -1219938385692350154
+    second: "Hem\xE1cias Spritesheets_986"
+  - first:
+      213: 3176206109458349081
+    second: "Hem\xE1cias Spritesheets_987"
+  - first:
+      213: -1473855150709011402
+    second: "Hem\xE1cias Spritesheets_988"
+  - first:
+      213: -8550463919662734667
+    second: "Hem\xE1cias Spritesheets_989"
+  - first:
+      213: -6020849529147256192
+    second: "Hem\xE1cias Spritesheets_990"
+  - first:
+      213: 8861210162088613312
+    second: "Hem\xE1cias Spritesheets_991"
+  - first:
+      213: -9180101489712728226
+    second: "Hem\xE1cias Spritesheets_992"
+  - first:
+      213: -6169470113222417319
+    second: "Hem\xE1cias Spritesheets_993"
+  - first:
+      213: 563558880237478552
+    second: "Hem\xE1cias Spritesheets_994"
+  - first:
+      213: 6549924332298189205
+    second: "Hem\xE1cias Spritesheets_995"
+  - first:
+      213: -2988227637812489487
+    second: "Hem\xE1cias Spritesheets_996"
+  - first:
+      213: -1090607912942097959
+    second: "Hem\xE1cias Spritesheets_997"
+  - first:
+      213: 6174335658809915440
+    second: "Hem\xE1cias Spritesheets_998"
+  - first:
+      213: -4183923696359338452
+    second: "Hem\xE1cias Spritesheets_999"
+  - first:
+      213: 7760315180112376983
+    second: "Hem\xE1cias Spritesheets_1000"
+  - first:
+      213: -3650268495508794386
+    second: "Hem\xE1cias Spritesheets_1001"
+  - first:
+      213: 3525779422058436882
+    second: "Hem\xE1cias Spritesheets_1002"
+  - first:
+      213: -8432934132325360135
+    second: "Hem\xE1cias Spritesheets_1003"
+  - first:
+      213: 5467724010898495979
+    second: "Hem\xE1cias Spritesheets_1004"
+  - first:
+      213: 4849369010353166145
+    second: "Hem\xE1cias Spritesheets_1005"
+  - first:
+      213: 3559632936726117383
+    second: "Hem\xE1cias Spritesheets_1006"
+  - first:
+      213: 3249240795627276551
+    second: "Hem\xE1cias Spritesheets_1007"
+  - first:
+      213: 747489852427224769
+    second: "Hem\xE1cias Spritesheets_1008"
+  - first:
+      213: 448884748186719245
+    second: "Hem\xE1cias Spritesheets_1009"
+  - first:
+      213: 2478531511019613768
+    second: "Hem\xE1cias Spritesheets_1010"
+  - first:
+      213: 5852560998225685826
+    second: "Hem\xE1cias Spritesheets_1011"
+  - first:
+      213: -6679964914038040359
+    second: "Hem\xE1cias Spritesheets_1012"
+  - first:
+      213: -8981935724277740464
+    second: "Hem\xE1cias Spritesheets_1013"
+  - first:
+      213: 4532333640491684155
+    second: "Hem\xE1cias Spritesheets_1014"
+  - first:
+      213: -6174871157129249702
+    second: "Hem\xE1cias Spritesheets_1015"
+  - first:
+      213: -6576771315667045291
+    second: "Hem\xE1cias Spritesheets_1016"
+  - first:
+      213: -1008789328527928370
+    second: "Hem\xE1cias Spritesheets_1017"
+  - first:
+      213: 1700428803543750419
+    second: "Hem\xE1cias Spritesheets_1018"
+  - first:
+      213: -5525058767840933946
+    second: "Hem\xE1cias Spritesheets_1019"
+  - first:
+      213: 2111908080783507826
+    second: "Hem\xE1cias Spritesheets_1020"
+  - first:
+      213: -2371129233228402755
+    second: "Hem\xE1cias Spritesheets_1021"
+  - first:
+      213: 1373931748135155403
+    second: "Hem\xE1cias Spritesheets_1022"
+  - first:
+      213: 8818273447998507455
+    second: "Hem\xE1cias Spritesheets_1023"
+  - first:
+      213: -2539880470006916798
+    second: "Hem\xE1cias Spritesheets_1024"
+  - first:
+      213: 2478580746466042916
+    second: "Hem\xE1cias Spritesheets_1025"
+  - first:
+      213: 7421479724548799465
+    second: "Hem\xE1cias Spritesheets_1026"
+  - first:
+      213: 8389546824633215081
+    second: "Hem\xE1cias Spritesheets_1027"
+  - first:
+      213: 865840217845518958
+    second: "Hem\xE1cias Spritesheets_1028"
+  - first:
+      213: 6861407876360710734
+    second: "Hem\xE1cias Spritesheets_1029"
+  - first:
+      213: -1304152420398363084
+    second: "Hem\xE1cias Spritesheets_1030"
+  - first:
+      213: 5481730173928531956
+    second: "Hem\xE1cias Spritesheets_1031"
+  - first:
+      213: -2884347561338288188
+    second: "Hem\xE1cias Spritesheets_1032"
+  - first:
+      213: 9113853772820880487
+    second: "Hem\xE1cias Spritesheets_1033"
+  - first:
+      213: 7315181853911506989
+    second: "Hem\xE1cias Spritesheets_1034"
+  - first:
+      213: -1570249094929653353
+    second: "Hem\xE1cias Spritesheets_1035"
+  - first:
+      213: 3713948847329635653
+    second: "Hem\xE1cias Spritesheets_1036"
+  - first:
+      213: 391460288097353186
+    second: "Hem\xE1cias Spritesheets_1037"
+  - first:
+      213: 7479828963906710807
+    second: "Hem\xE1cias Spritesheets_1038"
+  - first:
+      213: 472371904647897100
+    second: "Hem\xE1cias Spritesheets_1039"
+  - first:
+      213: -3186612698470099158
+    second: "Hem\xE1cias Spritesheets_1040"
+  - first:
+      213: 4691476514414859392
+    second: "Hem\xE1cias Spritesheets_1041"
+  - first:
+      213: -6444505415319526687
+    second: "Hem\xE1cias Spritesheets_1042"
+  - first:
+      213: -3830347976626866666
+    second: "Hem\xE1cias Spritesheets_1043"
+  - first:
+      213: 8942162964533228004
+    second: "Hem\xE1cias Spritesheets_1044"
+  - first:
+      213: 2654879775991678618
+    second: "Hem\xE1cias Spritesheets_1045"
+  - first:
+      213: 3259873066999881234
+    second: "Hem\xE1cias Spritesheets_1046"
+  - first:
+      213: 2110770266749677105
+    second: "Hem\xE1cias Spritesheets_1047"
+  - first:
+      213: 1790068042308945027
+    second: "Hem\xE1cias Spritesheets_1048"
+  - first:
+      213: 6380337779873025027
+    second: "Hem\xE1cias Spritesheets_1049"
+  - first:
+      213: -6067631456218520642
+    second: "Hem\xE1cias Spritesheets_1050"
+  - first:
+      213: -2450644193159950914
+    second: "Hem\xE1cias Spritesheets_1051"
+  - first:
+      213: -5193627454878968552
+    second: "Hem\xE1cias Spritesheets_1052"
+  - first:
+      213: -555080044600192505
+    second: "Hem\xE1cias Spritesheets_1053"
+  - first:
+      213: -6429222054273662189
+    second: "Hem\xE1cias Spritesheets_1054"
+  - first:
+      213: 3825443903668075641
+    second: "Hem\xE1cias Spritesheets_1055"
+  - first:
+      213: -2750817139290397745
+    second: "Hem\xE1cias Spritesheets_1056"
+  - first:
+      213: 2549127039694223105
+    second: "Hem\xE1cias Spritesheets_1057"
+  - first:
+      213: -3719573885842473160
+    second: "Hem\xE1cias Spritesheets_1058"
+  - first:
+      213: -4134821820094842294
+    second: "Hem\xE1cias Spritesheets_1059"
+  - first:
+      213: 6460721551967963350
+    second: "Hem\xE1cias Spritesheets_1060"
+  - first:
+      213: 7204957389489023743
+    second: "Hem\xE1cias Spritesheets_1061"
+  - first:
+      213: -6343657839179615971
+    second: "Hem\xE1cias Spritesheets_1062"
+  - first:
+      213: 3642327696803079856
+    second: "Hem\xE1cias Spritesheets_1063"
+  - first:
+      213: 150533756651128571
+    second: "Hem\xE1cias Spritesheets_1064"
+  - first:
+      213: 6744739669536774915
+    second: "Hem\xE1cias Spritesheets_1065"
+  - first:
+      213: 5376356820520883658
+    second: "Hem\xE1cias Spritesheets_1066"
+  - first:
+      213: -8420918527992042880
+    second: "Hem\xE1cias Spritesheets_1067"
+  - first:
+      213: -287178956900759901
+    second: "Hem\xE1cias Spritesheets_1068"
+  - first:
+      213: -4383876796942103849
+    second: "Hem\xE1cias Spritesheets_1069"
+  - first:
+      213: -6651007474558159901
+    second: "Hem\xE1cias Spritesheets_1070"
+  - first:
+      213: -2818205709667211890
+    second: "Hem\xE1cias Spritesheets_1071"
+  - first:
+      213: -7813949323538182058
+    second: "Hem\xE1cias Spritesheets_1072"
+  - first:
+      213: 3104531080459527517
+    second: "Hem\xE1cias Spritesheets_1073"
+  - first:
+      213: -5846747616024666273
+    second: "Hem\xE1cias Spritesheets_1074"
+  - first:
+      213: -4216883932651588930
+    second: "Hem\xE1cias Spritesheets_1075"
+  - first:
+      213: -7570545343634719081
+    second: "Hem\xE1cias Spritesheets_1076"
+  - first:
+      213: 610743935766014052
+    second: "Hem\xE1cias Spritesheets_1077"
+  - first:
+      213: 8254713876737470296
+    second: "Hem\xE1cias Spritesheets_1078"
+  - first:
+      213: -5850897278262679438
+    second: "Hem\xE1cias Spritesheets_1079"
+  - first:
+      213: -1072013311592671446
+    second: "Hem\xE1cias Spritesheets_1080"
+  - first:
+      213: -6984285739764454124
+    second: "Hem\xE1cias Spritesheets_1081"
+  - first:
+      213: 7725313572620750283
+    second: "Hem\xE1cias Spritesheets_1082"
+  - first:
+      213: -8476448683172178490
+    second: "Hem\xE1cias Spritesheets_1083"
+  - first:
+      213: -4085488498005374581
+    second: "Hem\xE1cias Spritesheets_1084"
+  - first:
+      213: -2520750199870328131
+    second: "Hem\xE1cias Spritesheets_1085"
+  - first:
+      213: 1632589634404960903
+    second: "Hem\xE1cias Spritesheets_1086"
+  - first:
+      213: 2422826960548625737
+    second: "Hem\xE1cias Spritesheets_1087"
+  - first:
+      213: 2848409451339616871
+    second: "Hem\xE1cias Spritesheets_1088"
+  - first:
+      213: -1953679418608118542
+    second: "Hem\xE1cias Spritesheets_1089"
+  - first:
+      213: -2849830968228430787
+    second: "Hem\xE1cias Spritesheets_1090"
+  - first:
+      213: 1141882219159697029
+    second: "Hem\xE1cias Spritesheets_1091"
+  - first:
+      213: 7939792486132703287
+    second: "Hem\xE1cias Spritesheets_1092"
+  - first:
+      213: 9079365496184320255
+    second: "Hem\xE1cias Spritesheets_1093"
+  - first:
+      213: -8477980405206342470
+    second: "Hem\xE1cias Spritesheets_1094"
+  - first:
+      213: 6787279932471501928
+    second: "Hem\xE1cias Spritesheets_1095"
+  - first:
+      213: -2484755120908418993
+    second: "Hem\xE1cias Spritesheets_1096"
+  - first:
+      213: -6287895547509040907
+    second: "Hem\xE1cias Spritesheets_1097"
+  - first:
+      213: -1042663549113964145
+    second: "Hem\xE1cias Spritesheets_1098"
+  - first:
+      213: -656673012548860972
+    second: "Hem\xE1cias Spritesheets_1099"
+  - first:
+      213: 6858142086898751082
+    second: "Hem\xE1cias Spritesheets_1100"
+  - first:
+      213: 8482333890995768619
+    second: "Hem\xE1cias Spritesheets_1101"
+  - first:
+      213: -8642441719348357189
+    second: "Hem\xE1cias Spritesheets_1102"
+  - first:
+      213: -1158722790568497526
+    second: "Hem\xE1cias Spritesheets_1103"
+  - first:
+      213: 281787888921919250
+    second: "Hem\xE1cias Spritesheets_1104"
+  - first:
+      213: 5547097220149346594
+    second: "Hem\xE1cias Spritesheets_1105"
+  - first:
+      213: -6243172916021771392
+    second: "Hem\xE1cias Spritesheets_1106"
+  - first:
+      213: -3308975871610678146
+    second: "Hem\xE1cias Spritesheets_1107"
+  - first:
+      213: 3780776357809733730
+    second: "Hem\xE1cias Spritesheets_1108"
+  - first:
+      213: 3997579188993898643
+    second: "Hem\xE1cias Spritesheets_1109"
+  - first:
+      213: -1408374742340623126
+    second: "Hem\xE1cias Spritesheets_1110"
+  - first:
+      213: -2764521921488925821
+    second: "Hem\xE1cias Spritesheets_1111"
+  - first:
+      213: -1268423049737203126
+    second: "Hem\xE1cias Spritesheets_1112"
+  - first:
+      213: 1830964201977351853
+    second: "Hem\xE1cias Spritesheets_1113"
+  - first:
+      213: -1920993093909856369
+    second: "Hem\xE1cias Spritesheets_1114"
+  - first:
+      213: 4456371638868137516
+    second: "Hem\xE1cias Spritesheets_1115"
+  - first:
+      213: 1259012945862557941
+    second: "Hem\xE1cias Spritesheets_1116"
+  - first:
+      213: -7999749292026839182
+    second: "Hem\xE1cias Spritesheets_1117"
+  - first:
+      213: 4865057292073025218
+    second: "Hem\xE1cias Spritesheets_1118"
+  - first:
+      213: -1093628634698623130
+    second: "Hem\xE1cias Spritesheets_1119"
+  - first:
+      213: -7576093576800913085
+    second: "Hem\xE1cias Spritesheets_1120"
+  - first:
+      213: -2643127953529605531
+    second: "Hem\xE1cias Spritesheets_1121"
+  - first:
+      213: 8515098178181104322
+    second: "Hem\xE1cias Spritesheets_1122"
+  - first:
+      213: -7921177274491482506
+    second: "Hem\xE1cias Spritesheets_1123"
+  - first:
+      213: 5427594865524557827
+    second: "Hem\xE1cias Spritesheets_1124"
+  - first:
+      213: -4437401464094945259
+    second: "Hem\xE1cias Spritesheets_1125"
+  - first:
+      213: -6446357743081421232
+    second: "Hem\xE1cias Spritesheets_1126"
+  - first:
+      213: -3756690638185177987
+    second: "Hem\xE1cias Spritesheets_1127"
+  - first:
+      213: -7773331323611973211
+    second: "Hem\xE1cias Spritesheets_1128"
+  - first:
+      213: 7868048528817092710
+    second: "Hem\xE1cias Spritesheets_1129"
+  - first:
+      213: -4511211237227269459
+    second: "Hem\xE1cias Spritesheets_1130"
+  - first:
+      213: -2907593956185473547
+    second: "Hem\xE1cias Spritesheets_1131"
+  - first:
+      213: 204585080488567460
+    second: "Hem\xE1cias Spritesheets_1132"
+  - first:
+      213: -7956638266153640108
+    second: "Hem\xE1cias Spritesheets_1133"
+  - first:
+      213: -1960542783038670972
+    second: "Hem\xE1cias Spritesheets_1134"
+  - first:
+      213: -4444386985642597955
+    second: "Hem\xE1cias Spritesheets_1135"
+  - first:
+      213: 2716792086796507854
+    second: "Hem\xE1cias Spritesheets_1136"
+  - first:
+      213: 210609715836340054
+    second: "Hem\xE1cias Spritesheets_1137"
+  - first:
+      213: 4164608832933904681
+    second: "Hem\xE1cias Spritesheets_1138"
+  - first:
+      213: 8243265312813622836
+    second: "Hem\xE1cias Spritesheets_1139"
+  - first:
+      213: 6732866161104758872
+    second: "Hem\xE1cias Spritesheets_1140"
+  - first:
+      213: -6133095171334218698
+    second: "Hem\xE1cias Spritesheets_1141"
+  - first:
+      213: 6382043117028669633
+    second: "Hem\xE1cias Spritesheets_1142"
+  - first:
+      213: 8332022726769895304
+    second: "Hem\xE1cias Spritesheets_1143"
+  - first:
+      213: -1386002095178227313
+    second: "Hem\xE1cias Spritesheets_1144"
+  - first:
+      213: -729809692493568653
+    second: "Hem\xE1cias Spritesheets_1145"
+  - first:
+      213: -7302665521504171378
+    second: "Hem\xE1cias Spritesheets_1146"
+  - first:
+      213: -1468110036243343381
+    second: "Hem\xE1cias Spritesheets_1147"
+  - first:
+      213: -713448899756446430
+    second: "Hem\xE1cias Spritesheets_1148"
+  - first:
+      213: 8110873984856819349
+    second: "Hem\xE1cias Spritesheets_1149"
+  - first:
+      213: 1879958344823868870
+    second: "Hem\xE1cias Spritesheets_1150"
+  - first:
+      213: -1721020448334894553
+    second: "Hem\xE1cias Spritesheets_1151"
+  - first:
+      213: -6393115976556992403
+    second: "Hem\xE1cias Spritesheets_1152"
+  - first:
+      213: -7136147486751360367
+    second: "Hem\xE1cias Spritesheets_1153"
+  - first:
+      213: 6221041285067706441
+    second: "Hem\xE1cias Spritesheets_1154"
+  - first:
+      213: 4914312869463861414
+    second: "Hem\xE1cias Spritesheets_1155"
+  - first:
+      213: -1584327401767488630
+    second: "Hem\xE1cias Spritesheets_1156"
+  - first:
+      213: 3614773142312144415
+    second: "Hem\xE1cias Spritesheets_1157"
+  - first:
+      213: 3491314784124624532
+    second: "Hem\xE1cias Spritesheets_1158"
+  - first:
+      213: -4219928152819026917
+    second: "Hem\xE1cias Spritesheets_1159"
+  - first:
+      213: -5744136723909499164
+    second: "Hem\xE1cias Spritesheets_1160"
+  - first:
+      213: 4845181264284988307
+    second: "Hem\xE1cias Spritesheets_1161"
+  - first:
+      213: 2019271254143453945
+    second: "Hem\xE1cias Spritesheets_1162"
+  - first:
+      213: -9042912128690273350
+    second: "Hem\xE1cias Spritesheets_1163"
+  - first:
+      213: -6881472511030589069
+    second: "Hem\xE1cias Spritesheets_1164"
+  - first:
+      213: 3562363886626765882
+    second: "Hem\xE1cias Spritesheets_1165"
+  - first:
+      213: -3232605099801210694
+    second: "Hem\xE1cias Spritesheets_1166"
+  - first:
+      213: -3892156913905874007
+    second: "Hem\xE1cias Spritesheets_1167"
+  - first:
+      213: 8432681352762145858
+    second: "Hem\xE1cias Spritesheets_1168"
+  - first:
+      213: 6688675767737826014
+    second: "Hem\xE1cias Spritesheets_1169"
+  - first:
+      213: 1400194354531720395
+    second: "Hem\xE1cias Spritesheets_1170"
+  - first:
+      213: -8861032961870604727
+    second: "Hem\xE1cias Spritesheets_1171"
+  - first:
+      213: -2532163390803442302
+    second: "Hem\xE1cias Spritesheets_1172"
+  - first:
+      213: 546494033006174854
+    second: "Hem\xE1cias Spritesheets_1173"
+  - first:
+      213: 7014650955243893506
+    second: "Hem\xE1cias Spritesheets_1174"
+  - first:
+      213: -4238991184143365601
+    second: "Hem\xE1cias Spritesheets_1175"
+  - first:
+      213: 7205276350260412726
+    second: "Hem\xE1cias Spritesheets_1176"
+  - first:
+      213: 190789608535207755
+    second: "Hem\xE1cias Spritesheets_1177"
+  - first:
+      213: -4173170680170999078
+    second: "Hem\xE1cias Spritesheets_1178"
+  - first:
+      213: 3676186941593617664
+    second: "Hem\xE1cias Spritesheets_1179"
+  - first:
+      213: -4347232519144012210
+    second: "Hem\xE1cias Spritesheets_1180"
+  - first:
+      213: -1508813804598962357
+    second: "Hem\xE1cias Spritesheets_1181"
+  - first:
+      213: -5079961278124628632
+    second: "Hem\xE1cias Spritesheets_1182"
+  - first:
+      213: 7595275860507699141
+    second: "Hem\xE1cias Spritesheets_1183"
+  - first:
+      213: -4044947630900341866
+    second: "Hem\xE1cias Spritesheets_1184"
+  - first:
+      213: 1068706113554073947
+    second: "Hem\xE1cias Spritesheets_1185"
+  - first:
+      213: -1489664976154747925
+    second: "Hem\xE1cias Spritesheets_1186"
+  - first:
+      213: -6853348279759001162
+    second: "Hem\xE1cias Spritesheets_1187"
+  - first:
+      213: -1187861022772148404
+    second: "Hem\xE1cias Spritesheets_1188"
+  - first:
+      213: 7114258952177634782
+    second: "Hem\xE1cias Spritesheets_1189"
+  - first:
+      213: 5170244738043641329
+    second: "Hem\xE1cias Spritesheets_1190"
+  - first:
+      213: 7939215773603546076
+    second: "Hem\xE1cias Spritesheets_1191"
+  - first:
+      213: 4620542075465716141
+    second: "Hem\xE1cias Spritesheets_1192"
+  - first:
+      213: 2424790594233326430
+    second: "Hem\xE1cias Spritesheets_1193"
+  - first:
+      213: -5121197350299758750
+    second: "Hem\xE1cias Spritesheets_1194"
+  - first:
+      213: 3181252153241095007
+    second: "Hem\xE1cias Spritesheets_1195"
+  - first:
+      213: 2601095486917389468
+    second: "Hem\xE1cias Spritesheets_1196"
+  - first:
+      213: 1629737171629565753
+    second: "Hem\xE1cias Spritesheets_1197"
+  - first:
+      213: -415542103168662762
+    second: "Hem\xE1cias Spritesheets_1198"
+  - first:
+      213: 9138959622827946806
+    second: "Hem\xE1cias Spritesheets_1199"
+  - first:
+      213: -9197037667683195378
+    second: "Hem\xE1cias Spritesheets_1200"
+  - first:
+      213: 2222886097394108461
+    second: "Hem\xE1cias Spritesheets_1201"
+  - first:
+      213: 3991609844791311669
+    second: "Hem\xE1cias Spritesheets_1202"
+  - first:
+      213: 2517891128313456565
+    second: "Hem\xE1cias Spritesheets_1203"
+  - first:
+      213: 3374526340684967671
+    second: "Hem\xE1cias Spritesheets_1204"
+  - first:
+      213: -6070803129494132606
+    second: "Hem\xE1cias Spritesheets_1205"
+  - first:
+      213: -3724057001863837881
+    second: "Hem\xE1cias Spritesheets_1206"
+  - first:
+      213: -7360473037269738927
+    second: "Hem\xE1cias Spritesheets_1207"
+  - first:
+      213: -6596671751597668127
+    second: "Hem\xE1cias Spritesheets_1208"
+  - first:
+      213: -3656925666569796950
+    second: "Hem\xE1cias Spritesheets_1209"
+  - first:
+      213: -1563541285298741507
+    second: "Hem\xE1cias Spritesheets_1210"
+  - first:
+      213: -8721054312085367832
+    second: "Hem\xE1cias Spritesheets_1211"
+  - first:
+      213: 4417406541978091246
+    second: "Hem\xE1cias Spritesheets_1212"
+  - first:
+      213: -7296554811786399655
+    second: "Hem\xE1cias Spritesheets_1213"
+  - first:
+      213: 5887065964263772005
+    second: "Hem\xE1cias Spritesheets_1214"
+  - first:
+      213: 6219860491342495486
+    second: "Hem\xE1cias Spritesheets_1215"
+  - first:
+      213: 1380740922460728766
+    second: "Hem\xE1cias Spritesheets_1216"
+  - first:
+      213: -2283729732617403611
+    second: "Hem\xE1cias Spritesheets_1217"
+  - first:
+      213: 7019772371774300002
+    second: "Hem\xE1cias Spritesheets_1218"
+  - first:
+      213: -2026420395556508513
+    second: "Hem\xE1cias Spritesheets_1219"
+  - first:
+      213: -1443829816271868476
+    second: "Hem\xE1cias Spritesheets_1220"
+  - first:
+      213: -7416935418872513040
+    second: "Hem\xE1cias Spritesheets_1221"
+  - first:
+      213: 488176840799175797
+    second: "Hem\xE1cias Spritesheets_1222"
+  - first:
+      213: 2956545082950220989
+    second: "Hem\xE1cias Spritesheets_1223"
+  - first:
+      213: -3844578111765375337
+    second: "Hem\xE1cias Spritesheets_1224"
+  - first:
+      213: -2816831010867244166
+    second: "Hem\xE1cias Spritesheets_1225"
+  - first:
+      213: -1601260876851753525
+    second: "Hem\xE1cias Spritesheets_1226"
+  - first:
+      213: -3809308554959800290
+    second: "Hem\xE1cias Spritesheets_1227"
+  - first:
+      213: 8231577072308055908
+    second: "Hem\xE1cias Spritesheets_1228"
+  - first:
+      213: -6354679255458391809
+    second: "Hem\xE1cias Spritesheets_1229"
+  - first:
+      213: -310937357922847394
+    second: "Hem\xE1cias Spritesheets_1230"
+  - first:
+      213: 8471363846245913514
+    second: "Hem\xE1cias Spritesheets_1231"
+  - first:
+      213: -6284647589994960657
+    second: "Hem\xE1cias Spritesheets_1232"
+  - first:
+      213: 2030360636328031034
+    second: "Hem\xE1cias Spritesheets_1233"
+  - first:
+      213: -646157596890932565
+    second: "Hem\xE1cias Spritesheets_1234"
+  - first:
+      213: -854947189329736512
+    second: "Hem\xE1cias Spritesheets_1235"
+  - first:
+      213: 1234371157704209392
+    second: "Hem\xE1cias Spritesheets_1236"
+  - first:
+      213: 4441152327705783294
+    second: "Hem\xE1cias Spritesheets_1237"
+  - first:
+      213: 3195229137817579826
+    second: "Hem\xE1cias Spritesheets_1238"
+  - first:
+      213: 9021338316149412470
+    second: "Hem\xE1cias Spritesheets_1239"
+  - first:
+      213: -6695665118478866621
+    second: "Hem\xE1cias Spritesheets_1240"
+  - first:
+      213: -2717056583003193426
+    second: "Hem\xE1cias Spritesheets_1241"
+  - first:
+      213: -4428221561315190290
+    second: "Hem\xE1cias Spritesheets_1242"
+  - first:
+      213: -5628387219692318860
+    second: "Hem\xE1cias Spritesheets_1243"
+  - first:
+      213: 6608936325189068653
+    second: "Hem\xE1cias Spritesheets_1244"
+  - first:
+      213: 7378656229269543393
+    second: "Hem\xE1cias Spritesheets_1245"
+  - first:
+      213: -4494949128557872292
+    second: "Hem\xE1cias Spritesheets_1246"
+  - first:
+      213: -4430998630000495530
+    second: "Hem\xE1cias Spritesheets_1247"
+  - first:
+      213: 5804929699256133328
+    second: "Hem\xE1cias Spritesheets_1248"
+  - first:
+      213: -5502670014775301710
+    second: "Hem\xE1cias Spritesheets_1249"
+  - first:
+      213: 2337695277631231024
+    second: "Hem\xE1cias Spritesheets_1250"
+  - first:
+      213: 112237191053016908
+    second: "Hem\xE1cias Spritesheets_1251"
+  - first:
+      213: 6958061342823639726
+    second: "Hem\xE1cias Spritesheets_1252"
+  - first:
+      213: -7218283197663839129
+    second: "Hem\xE1cias Spritesheets_1253"
+  - first:
+      213: 1152737642718131063
+    second: "Hem\xE1cias Spritesheets_1254"
+  - first:
+      213: -8883735715663506362
+    second: "Hem\xE1cias Spritesheets_1255"
+  - first:
+      213: 5044726472411183103
+    second: "Hem\xE1cias Spritesheets_1256"
+  - first:
+      213: 2407756485862474187
+    second: "Hem\xE1cias Spritesheets_1257"
+  - first:
+      213: 3207189964660944335
+    second: "Hem\xE1cias Spritesheets_1258"
+  - first:
+      213: 4677081119281417663
+    second: "Hem\xE1cias Spritesheets_1259"
+  - first:
+      213: -1814704888806014469
+    second: "Hem\xE1cias Spritesheets_1260"
+  - first:
+      213: 6982275553357918901
+    second: "Hem\xE1cias Spritesheets_1261"
+  - first:
+      213: 8145754054096157570
+    second: "Hem\xE1cias Spritesheets_1262"
+  - first:
+      213: 5961102187295324222
+    second: "Hem\xE1cias Spritesheets_1263"
+  - first:
+      213: 3541765598327032662
+    second: "Hem\xE1cias Spritesheets_1264"
+  - first:
+      213: -4643005996369887799
+    second: "Hem\xE1cias Spritesheets_1265"
+  - first:
+      213: -294352240123848583
+    second: "Hem\xE1cias Spritesheets_1266"
+  - first:
+      213: -1455130860621532483
+    second: "Hem\xE1cias Spritesheets_1267"
+  - first:
+      213: -6193343620296804635
+    second: "Hem\xE1cias Spritesheets_1268"
+  - first:
+      213: 8734483062292873663
+    second: "Hem\xE1cias Spritesheets_1269"
+  - first:
+      213: -508222542263626234
+    second: "Hem\xE1cias Spritesheets_1270"
+  - first:
+      213: 7329564846933218536
+    second: "Hem\xE1cias Spritesheets_1271"
+  - first:
+      213: -273315837941402704
+    second: "Hem\xE1cias Spritesheets_1272"
+  - first:
+      213: -2126585030898013982
+    second: "Hem\xE1cias Spritesheets_1273"
+  - first:
+      213: 635446862938186050
+    second: "Hem\xE1cias Spritesheets_1274"
+  - first:
+      213: 4799055697684937946
+    second: "Hem\xE1cias Spritesheets_1275"
+  - first:
+      213: -3169002705440193553
+    second: "Hem\xE1cias Spritesheets_1276"
+  - first:
+      213: 6887725260678096868
+    second: "Hem\xE1cias Spritesheets_1277"
+  - first:
+      213: -7159118574148893891
+    second: "Hem\xE1cias Spritesheets_1278"
+  - first:
+      213: 2455227743443630104
+    second: "Hem\xE1cias Spritesheets_1279"
+  - first:
+      213: -3081369324533117158
+    second: "Hem\xE1cias Spritesheets_1280"
+  - first:
+      213: -7928603116528196341
+    second: "Hem\xE1cias Spritesheets_1281"
+  - first:
+      213: 2969155289197160835
+    second: "Hem\xE1cias Spritesheets_1282"
+  - first:
+      213: 2800306813554206436
+    second: "Hem\xE1cias Spritesheets_1283"
+  - first:
+      213: 1109309939756408925
+    second: "Hem\xE1cias Spritesheets_1284"
+  - first:
+      213: -1994551308288160284
+    second: "Hem\xE1cias Spritesheets_1285"
+  - first:
+      213: 4313741869913857626
+    second: "Hem\xE1cias Spritesheets_1286"
+  - first:
+      213: -3389196016535046412
+    second: "Hem\xE1cias Spritesheets_1287"
+  - first:
+      213: -5835622481191694153
+    second: "Hem\xE1cias Spritesheets_1288"
+  - first:
+      213: -5918128881781667181
+    second: "Hem\xE1cias Spritesheets_1289"
+  - first:
+      213: -83124028502528422
+    second: "Hem\xE1cias Spritesheets_1290"
+  - first:
+      213: -3683873416999807159
+    second: "Hem\xE1cias Spritesheets_1291"
+  - first:
+      213: 6630947444638490868
+    second: "Hem\xE1cias Spritesheets_1292"
+  - first:
+      213: -3091641245635509251
+    second: "Hem\xE1cias Spritesheets_1293"
+  - first:
+      213: 6399589740829477967
+    second: "Hem\xE1cias Spritesheets_1294"
+  - first:
+      213: 7918241108082954396
+    second: "Hem\xE1cias Spritesheets_1295"
+  - first:
+      213: -2885823303932117408
+    second: "Hem\xE1cias Spritesheets_1296"
+  - first:
+      213: -8001683007934937786
+    second: "Hem\xE1cias Spritesheets_1297"
+  - first:
+      213: 7040042595987457136
+    second: "Hem\xE1cias Spritesheets_1298"
+  - first:
+      213: 6183915844599833636
+    second: "Hem\xE1cias Spritesheets_1299"
+  - first:
+      213: -7069965422743354947
+    second: "Hem\xE1cias Spritesheets_1300"
+  - first:
+      213: 6939128025828774607
+    second: "Hem\xE1cias Spritesheets_1301"
+  - first:
+      213: 4828465815011896982
+    second: "Hem\xE1cias Spritesheets_1302"
+  - first:
+      213: 7446212552752393184
+    second: "Hem\xE1cias Spritesheets_1303"
+  - first:
+      213: -3764371106083663194
+    second: "Hem\xE1cias Spritesheets_1304"
+  - first:
+      213: 3087042895636453781
+    second: "Hem\xE1cias Spritesheets_1305"
+  - first:
+      213: 3686505110160850627
+    second: "Hem\xE1cias Spritesheets_1306"
+  - first:
+      213: -5359852660350823385
+    second: "Hem\xE1cias Spritesheets_1307"
+  - first:
+      213: -6042984513698406240
+    second: "Hem\xE1cias Spritesheets_1308"
+  - first:
+      213: -4199892007600418066
+    second: "Hem\xE1cias Spritesheets_1309"
+  - first:
+      213: 4622299914332518948
+    second: "Hem\xE1cias Spritesheets_1310"
+  - first:
+      213: -8615133763647562521
+    second: "Hem\xE1cias Spritesheets_1311"
+  - first:
+      213: -6534171711916633553
+    second: "Hem\xE1cias Spritesheets_1312"
+  - first:
+      213: 8043086732157288568
+    second: "Hem\xE1cias Spritesheets_1313"
+  - first:
+      213: 1425515115937865677
+    second: "Hem\xE1cias Spritesheets_1314"
+  - first:
+      213: 6066836130925372326
+    second: "Hem\xE1cias Spritesheets_1315"
+  - first:
+      213: 8472181228464102362
+    second: "Hem\xE1cias Spritesheets_1316"
+  - first:
+      213: -2713737386377954248
+    second: "Hem\xE1cias Spritesheets_1317"
+  - first:
+      213: 4124301687130926735
+    second: "Hem\xE1cias Spritesheets_1318"
+  - first:
+      213: 3795318772506237119
+    second: "Hem\xE1cias Spritesheets_1319"
+  - first:
+      213: -3492212728974887666
+    second: "Hem\xE1cias Spritesheets_1320"
+  - first:
+      213: -26722748752417004
+    second: "Hem\xE1cias Spritesheets_1321"
+  - first:
+      213: 1697721174980863716
+    second: "Hem\xE1cias Spritesheets_1322"
+  - first:
+      213: -7028095809451240775
+    second: "Hem\xE1cias Spritesheets_1323"
+  - first:
+      213: 8001454078055163615
+    second: "Hem\xE1cias Spritesheets_1324"
+  - first:
+      213: 2201426796225082415
+    second: "Hem\xE1cias Spritesheets_1325"
+  - first:
+      213: -8402214195961440446
+    second: "Hem\xE1cias Spritesheets_1326"
+  - first:
+      213: 1123971690019552928
+    second: "Hem\xE1cias Spritesheets_1327"
+  - first:
+      213: -1678948420727028768
+    second: "Hem\xE1cias Spritesheets_1328"
+  - first:
+      213: -2557273658655621984
+    second: "Hem\xE1cias Spritesheets_1329"
+  - first:
+      213: -5518674670636700233
+    second: "Hem\xE1cias Spritesheets_1330"
+  - first:
+      213: 4596358477475984119
+    second: "Hem\xE1cias Spritesheets_1331"
+  - first:
+      213: 5793742553411286995
+    second: "Hem\xE1cias Spritesheets_1332"
+  - first:
+      213: 7102611692021499960
+    second: "Hem\xE1cias Spritesheets_1333"
+  - first:
+      213: -2257629956220354950
+    second: "Hem\xE1cias Spritesheets_1334"
+  - first:
+      213: 8456623786791694447
+    second: "Hem\xE1cias Spritesheets_1335"
+  - first:
+      213: -8224821333527885467
+    second: "Hem\xE1cias Spritesheets_1336"
+  - first:
+      213: 5481494923925629123
+    second: "Hem\xE1cias Spritesheets_1337"
+  - first:
+      213: 8771800968001619347
+    second: "Hem\xE1cias Spritesheets_1338"
+  - first:
+      213: -2878188165798968999
+    second: "Hem\xE1cias Spritesheets_1339"
+  - first:
+      213: -4381338043723584741
+    second: "Hem\xE1cias Spritesheets_1340"
+  - first:
+      213: -5114920124010194847
+    second: "Hem\xE1cias Spritesheets_1341"
+  - first:
+      213: -3608693134976202891
+    second: "Hem\xE1cias Spritesheets_1342"
+  - first:
+      213: -127047925401288765
+    second: "Hem\xE1cias Spritesheets_1343"
+  - first:
+      213: 6837420738484923014
+    second: "Hem\xE1cias Spritesheets_1344"
+  - first:
+      213: -4946595968214816319
+    second: "Hem\xE1cias Spritesheets_1345"
+  - first:
+      213: 7733295428839360018
+    second: "Hem\xE1cias Spritesheets_1346"
+  - first:
+      213: -6051817492335642004
+    second: "Hem\xE1cias Spritesheets_1347"
+  - first:
+      213: -728752792943000845
+    second: "Hem\xE1cias Spritesheets_1348"
+  - first:
+      213: -2486482136703996662
+    second: "Hem\xE1cias Spritesheets_1349"
+  - first:
+      213: -8044494730512450566
+    second: "Hem\xE1cias Spritesheets_1350"
+  - first:
+      213: 5735844493385304780
+    second: "Hem\xE1cias Spritesheets_1351"
+  - first:
+      213: 4958323069939628454
+    second: "Hem\xE1cias Spritesheets_1352"
+  - first:
+      213: 9118610097781183035
+    second: "Hem\xE1cias Spritesheets_1353"
+  - first:
+      213: -8275614009898966260
+    second: "Hem\xE1cias Spritesheets_1354"
+  - first:
+      213: 7555823811075639429
+    second: "Hem\xE1cias Spritesheets_1355"
+  - first:
+      213: 7086554260998765139
+    second: "Hem\xE1cias Spritesheets_1356"
+  - first:
+      213: -3644744980265864924
+    second: "Hem\xE1cias Spritesheets_1357"
+  - first:
+      213: 7423133054712160367
+    second: "Hem\xE1cias Spritesheets_1358"
+  - first:
+      213: -3086686618881728607
+    second: "Hem\xE1cias Spritesheets_1359"
+  - first:
+      213: -3041093187277595659
+    second: "Hem\xE1cias Spritesheets_1360"
+  - first:
+      213: 7582098064553639970
+    second: "Hem\xE1cias Spritesheets_1361"
+  - first:
+      213: 1902268246411901034
+    second: "Hem\xE1cias Spritesheets_1362"
+  - first:
+      213: -4602788730638201099
+    second: "Hem\xE1cias Spritesheets_1363"
+  - first:
+      213: 5962189599548292195
+    second: "Hem\xE1cias Spritesheets_1364"
+  - first:
+      213: -5278126549269657902
+    second: "Hem\xE1cias Spritesheets_1365"
+  - first:
+      213: 268005209361079485
+    second: "Hem\xE1cias Spritesheets_1366"
+  - first:
+      213: -1908137955413685224
+    second: "Hem\xE1cias Spritesheets_1367"
+  - first:
+      213: -2842632774592607341
+    second: "Hem\xE1cias Spritesheets_1368"
+  - first:
+      213: 3450187445563418265
+    second: "Hem\xE1cias Spritesheets_1369"
+  - first:
+      213: -3980229584835748235
+    second: "Hem\xE1cias Spritesheets_1370"
+  - first:
+      213: 4159704116172068791
+    second: "Hem\xE1cias Spritesheets_1371"
+  - first:
+      213: -1642652063099678991
+    second: "Hem\xE1cias Spritesheets_1372"
+  - first:
+      213: 3002711086454406962
+    second: "Hem\xE1cias Spritesheets_1373"
+  - first:
+      213: -3939298453700252277
+    second: "Hem\xE1cias Spritesheets_1374"
+  - first:
+      213: 3917391371529784517
+    second: "Hem\xE1cias Spritesheets_1375"
+  - first:
+      213: -1668887734736949136
+    second: "Hem\xE1cias Spritesheets_1376"
+  - first:
+      213: 3396364124073879284
+    second: "Hem\xE1cias Spritesheets_1377"
+  - first:
+      213: 4540584655963289311
+    second: "Hem\xE1cias Spritesheets_1378"
+  - first:
+      213: 3853236724575790311
+    second: "Hem\xE1cias Spritesheets_1379"
+  - first:
+      213: -6734814631875490344
+    second: "Hem\xE1cias Spritesheets_1380"
+  - first:
+      213: 3448354350928944172
+    second: "Hem\xE1cias Spritesheets_1381"
+  - first:
+      213: 3935699233264841283
+    second: "Hem\xE1cias Spritesheets_1382"
+  - first:
+      213: 969390908912202547
+    second: "Hem\xE1cias Spritesheets_1383"
+  - first:
+      213: -120646868372585825
+    second: "Hem\xE1cias Spritesheets_1384"
+  - first:
+      213: -296186854560347463
+    second: "Hem\xE1cias Spritesheets_1385"
+  - first:
+      213: -831424732645509770
+    second: "Hem\xE1cias Spritesheets_1386"
+  - first:
+      213: 8973773602010689695
+    second: "Hem\xE1cias Spritesheets_1387"
+  - first:
+      213: -2371267247390846358
+    second: "Hem\xE1cias Spritesheets_1388"
+  - first:
+      213: -294960464797789100
+    second: "Hem\xE1cias Spritesheets_1389"
+  - first:
+      213: -1805926163123836270
+    second: "Hem\xE1cias Spritesheets_1390"
+  - first:
+      213: 6310513752243068030
+    second: "Hem\xE1cias Spritesheets_1391"
+  - first:
+      213: 280992533057758576
+    second: "Hem\xE1cias Spritesheets_1392"
+  - first:
+      213: 6867316287125356477
+    second: "Hem\xE1cias Spritesheets_1393"
+  - first:
+      213: 6971614738822187248
+    second: "Hem\xE1cias Spritesheets_1394"
+  - first:
+      213: -2433386654914237429
+    second: "Hem\xE1cias Spritesheets_1395"
+  - first:
+      213: 7631338149581360500
+    second: "Hem\xE1cias Spritesheets_1396"
+  - first:
+      213: 4845875258490226285
+    second: "Hem\xE1cias Spritesheets_1397"
+  - first:
+      213: 6566153564906636121
+    second: "Hem\xE1cias Spritesheets_1398"
+  - first:
+      213: 353765423484803594
+    second: "Hem\xE1cias Spritesheets_1399"
+  - first:
+      213: -6704017586786398048
+    second: "Hem\xE1cias Spritesheets_1400"
+  - first:
+      213: 1915910153394897355
+    second: "Hem\xE1cias Spritesheets_1401"
+  - first:
+      213: 3922913323728754708
+    second: "Hem\xE1cias Spritesheets_1402"
+  - first:
+      213: -7959354971936243437
+    second: "Hem\xE1cias Spritesheets_1403"
+  - first:
+      213: -596823920890699908
+    second: "Hem\xE1cias Spritesheets_1404"
+  - first:
+      213: 5884915918291480332
+    second: "Hem\xE1cias Spritesheets_1405"
+  - first:
+      213: -1530814425746257145
+    second: "Hem\xE1cias Spritesheets_1406"
+  - first:
+      213: -5836034080610359052
+    second: "Hem\xE1cias Spritesheets_1407"
+  - first:
+      213: 5300263457013853022
+    second: "Hem\xE1cias Spritesheets_1408"
+  - first:
+      213: 3814780928784049358
+    second: "Hem\xE1cias Spritesheets_1409"
+  - first:
+      213: 7027266806581136380
+    second: "Hem\xE1cias Spritesheets_1410"
+  - first:
+      213: 5799888831195277073
+    second: "Hem\xE1cias Spritesheets_1411"
+  - first:
+      213: -4157720318082323644
+    second: "Hem\xE1cias Spritesheets_1412"
+  - first:
+      213: -8867136805163612173
+    second: "Hem\xE1cias Spritesheets_1413"
+  - first:
+      213: 3128664392858259674
+    second: "Hem\xE1cias Spritesheets_1414"
+  - first:
+      213: 7080970032802948991
+    second: "Hem\xE1cias Spritesheets_1415"
+  - first:
+      213: -4084424898250957675
+    second: "Hem\xE1cias Spritesheets_1416"
+  - first:
+      213: -5708805681927376144
+    second: "Hem\xE1cias Spritesheets_1417"
+  - first:
+      213: 5489100130367707854
+    second: "Hem\xE1cias Spritesheets_1418"
+  - first:
+      213: 4414214442695075941
+    second: "Hem\xE1cias Spritesheets_1419"
+  - first:
+      213: -5415830400450722068
+    second: "Hem\xE1cias Spritesheets_1420"
+  - first:
+      213: -7948134774410925674
+    second: "Hem\xE1cias Spritesheets_1421"
+  - first:
+      213: -7160493834331162358
+    second: "Hem\xE1cias Spritesheets_1422"
+  - first:
+      213: -7190926531587526344
+    second: "Hem\xE1cias Spritesheets_1423"
+  - first:
+      213: -3902035792341427782
+    second: "Hem\xE1cias Spritesheets_1424"
+  - first:
+      213: 772315865851318236
+    second: "Hem\xE1cias Spritesheets_1425"
+  - first:
+      213: -1059413290478130438
+    second: "Hem\xE1cias Spritesheets_1426"
+  - first:
+      213: -8676395121554392178
+    second: "Hem\xE1cias Spritesheets_1427"
+  - first:
+      213: -6013077230746749673
+    second: "Hem\xE1cias Spritesheets_1428"
+  - first:
+      213: -3035775641934754197
+    second: "Hem\xE1cias Spritesheets_1429"
+  - first:
+      213: 7190446450483524990
+    second: "Hem\xE1cias Spritesheets_1430"
+  - first:
+      213: 6820730047948873401
+    second: "Hem\xE1cias Spritesheets_1431"
+  - first:
+      213: -5401457143394651418
+    second: "Hem\xE1cias Spritesheets_1432"
+  - first:
+      213: 8996341899894376679
+    second: "Hem\xE1cias Spritesheets_1433"
+  - first:
+      213: -5429764835972955771
+    second: "Hem\xE1cias Spritesheets_1434"
+  - first:
+      213: -8425040874649419054
+    second: "Hem\xE1cias Spritesheets_1435"
+  - first:
+      213: 1144911944211543559
+    second: "Hem\xE1cias Spritesheets_1436"
+  - first:
+      213: -3503832676571939101
+    second: "Hem\xE1cias Spritesheets_1437"
+  - first:
+      213: -3288544909828388638
+    second: "Hem\xE1cias Spritesheets_1438"
+  - first:
+      213: 5277029024237902341
+    second: "Hem\xE1cias Spritesheets_1439"
+  - first:
+      213: -6579280295142635680
+    second: "Hem\xE1cias Spritesheets_1440"
+  - first:
+      213: -109542559800665662
+    second: "Hem\xE1cias Spritesheets_1441"
+  - first:
+      213: -4875754394971746930
+    second: "Hem\xE1cias Spritesheets_1442"
+  - first:
+      213: 1402539743250364885
+    second: "Hem\xE1cias Spritesheets_1443"
+  - first:
+      213: -8284543536151465582
+    second: "Hem\xE1cias Spritesheets_1444"
+  - first:
+      213: 2247466021982553392
+    second: "Hem\xE1cias Spritesheets_1445"
+  - first:
+      213: 2012508746926683745
+    second: "Hem\xE1cias Spritesheets_1446"
+  - first:
+      213: -2677430776717159070
+    second: "Hem\xE1cias Spritesheets_1447"
+  - first:
+      213: 3892302121224354344
+    second: "Hem\xE1cias Spritesheets_1448"
+  - first:
+      213: -993151425351511992
+    second: "Hem\xE1cias Spritesheets_1449"
+  - first:
+      213: 240021476899284560
+    second: "Hem\xE1cias Spritesheets_1450"
+  - first:
+      213: 3866448461834696316
+    second: "Hem\xE1cias Spritesheets_1451"
+  - first:
+      213: -4176414420794695190
+    second: "Hem\xE1cias Spritesheets_1452"
+  - first:
+      213: -4954376726721371379
+    second: "Hem\xE1cias Spritesheets_1453"
+  - first:
+      213: 9032917755416594186
+    second: "Hem\xE1cias Spritesheets_1454"
+  - first:
+      213: -465935850483206404
+    second: "Hem\xE1cias Spritesheets_1455"
+  - first:
+      213: 1045641286636134966
+    second: "Hem\xE1cias Spritesheets_1456"
+  - first:
+      213: 235904429400005350
+    second: "Hem\xE1cias Spritesheets_1457"
+  - first:
+      213: 8354861768542601746
+    second: "Hem\xE1cias Spritesheets_1458"
+  - first:
+      213: 3484239345374078804
+    second: "Hem\xE1cias Spritesheets_1459"
+  - first:
+      213: -7698621865657291602
+    second: "Hem\xE1cias Spritesheets_1460"
+  - first:
+      213: 5026996866359498548
+    second: "Hem\xE1cias Spritesheets_1461"
+  - first:
+      213: 1475381064061165600
+    second: "Hem\xE1cias Spritesheets_1462"
+  - first:
+      213: -1913966253179784642
+    second: "Hem\xE1cias Spritesheets_1463"
+  - first:
+      213: -851632487589745591
+    second: "Hem\xE1cias Spritesheets_1464"
+  - first:
+      213: -9190518066297149586
+    second: "Hem\xE1cias Spritesheets_1465"
+  - first:
+      213: 1995933291918845000
+    second: "Hem\xE1cias Spritesheets_1466"
+  - first:
+      213: 2035611349524696068
+    second: "Hem\xE1cias Spritesheets_1467"
+  - first:
+      213: -7477951003759755784
+    second: "Hem\xE1cias Spritesheets_1468"
+  - first:
+      213: -1858083424432064217
+    second: "Hem\xE1cias Spritesheets_1469"
+  - first:
+      213: -2788779155836376957
+    second: "Hem\xE1cias Spritesheets_1470"
+  - first:
+      213: 2688471024731751546
+    second: "Hem\xE1cias Spritesheets_1471"
+  - first:
+      213: 3456509081078731354
+    second: "Hem\xE1cias Spritesheets_1472"
+  - first:
+      213: 3986203058550026358
+    second: "Hem\xE1cias Spritesheets_1473"
+  - first:
+      213: 7438889415177527092
+    second: "Hem\xE1cias Spritesheets_1474"
+  - first:
+      213: -5186408754771687125
+    second: "Hem\xE1cias Spritesheets_1475"
+  - first:
+      213: -1298875856984459674
+    second: "Hem\xE1cias Spritesheets_1476"
+  - first:
+      213: -8351540286697470947
+    second: "Hem\xE1cias Spritesheets_1477"
+  - first:
+      213: 5018445824776871252
+    second: "Hem\xE1cias Spritesheets_1478"
+  - first:
+      213: -8892567638273977440
+    second: "Hem\xE1cias Spritesheets_1479"
+  - first:
+      213: -2641943217321795864
+    second: "Hem\xE1cias Spritesheets_1480"
+  - first:
+      213: 7332291840656821131
+    second: "Hem\xE1cias Spritesheets_1481"
+  - first:
+      213: -4183441334885401461
+    second: "Hem\xE1cias Spritesheets_1482"
+  - first:
+      213: -959983583919836835
+    second: "Hem\xE1cias Spritesheets_1483"
+  - first:
+      213: 819641682333152298
+    second: "Hem\xE1cias Spritesheets_1484"
+  - first:
+      213: 2699551808362475704
+    second: "Hem\xE1cias Spritesheets_1485"
+  - first:
+      213: -5774534116892930230
+    second: "Hem\xE1cias Spritesheets_1486"
+  - first:
+      213: -3594154748449373895
+    second: "Hem\xE1cias Spritesheets_1487"
+  - first:
+      213: -307888594731641961
+    second: "Hem\xE1cias Spritesheets_1488"
+  - first:
+      213: 7074621113227940820
+    second: "Hem\xE1cias Spritesheets_1489"
+  - first:
+      213: -1187970737024965235
+    second: "Hem\xE1cias Spritesheets_1490"
+  - first:
+      213: -6507177396336968530
+    second: "Hem\xE1cias Spritesheets_1491"
+  - first:
+      213: 5299044418293514698
+    second: "Hem\xE1cias Spritesheets_1492"
+  - first:
+      213: -4654092000319278593
+    second: "Hem\xE1cias Spritesheets_1493"
+  - first:
+      213: 2332180753387297253
+    second: "Hem\xE1cias Spritesheets_1494"
+  - first:
+      213: 3519242914617851090
+    second: "Hem\xE1cias Spritesheets_1495"
+  - first:
+      213: 7757532205045115578
+    second: "Hem\xE1cias Spritesheets_1496"
+  - first:
+      213: 6578386135112405647
+    second: "Hem\xE1cias Spritesheets_1497"
+  - first:
+      213: -8896920318587892739
+    second: "Hem\xE1cias Spritesheets_1498"
+  - first:
+      213: -7946452109890928486
+    second: "Hem\xE1cias Spritesheets_1499"
+  - first:
+      213: -4855092674414377761
+    second: "Hem\xE1cias Spritesheets_1500"
+  - first:
+      213: -399074746203281885
+    second: "Hem\xE1cias Spritesheets_1501"
+  - first:
+      213: 1455315723119522096
+    second: "Hem\xE1cias Spritesheets_1502"
+  - first:
+      213: -9155540303797692627
+    second: "Hem\xE1cias Spritesheets_1503"
+  - first:
+      213: -1131425602855740352
+    second: "Hem\xE1cias Spritesheets_1504"
+  - first:
+      213: 1668674206382441106
+    second: "Hem\xE1cias Spritesheets_1505"
+  - first:
+      213: 2438809475881013161
+    second: "Hem\xE1cias Spritesheets_1506"
+  - first:
+      213: -6857200382256499550
+    second: "Hem\xE1cias Spritesheets_1507"
+  - first:
+      213: 8116120630136149969
+    second: "Hem\xE1cias Spritesheets_1508"
+  - first:
+      213: 5865511310706380969
+    second: "Hem\xE1cias Spritesheets_1509"
+  - first:
+      213: 2721594345660016594
+    second: "Hem\xE1cias Spritesheets_1510"
+  - first:
+      213: -7528048890750540629
+    second: "Hem\xE1cias Spritesheets_1511"
+  - first:
+      213: -630667815928822027
+    second: "Hem\xE1cias Spritesheets_1512"
+  - first:
+      213: -6424591870941488686
+    second: "Hem\xE1cias Spritesheets_1513"
+  - first:
+      213: -5940200884436899485
+    second: "Hem\xE1cias Spritesheets_1514"
+  - first:
+      213: 8377413027041494453
+    second: "Hem\xE1cias Spritesheets_1515"
+  - first:
+      213: 2973333117915951635
+    second: "Hem\xE1cias Spritesheets_1516"
+  - first:
+      213: -9152123900266590387
+    second: "Hem\xE1cias Spritesheets_1517"
+  - first:
+      213: 5032765554295532977
+    second: "Hem\xE1cias Spritesheets_1518"
+  - first:
+      213: 4961052134730201740
+    second: "Hem\xE1cias Spritesheets_1519"
+  - first:
+      213: 4040769710595736362
+    second: "Hem\xE1cias Spritesheets_1520"
+  - first:
+      213: -3982349622294717376
+    second: "Hem\xE1cias Spritesheets_1521"
+  - first:
+      213: -8819255369825856104
+    second: "Hem\xE1cias Spritesheets_1522"
+  - first:
+      213: 8322808697119804085
+    second: "Hem\xE1cias Spritesheets_1523"
+  - first:
+      213: -3538723640374036840
+    second: "Hem\xE1cias Spritesheets_1524"
+  - first:
+      213: -3252419419242657900
+    second: "Hem\xE1cias Spritesheets_1525"
+  - first:
+      213: -2724612142246766805
+    second: "Hem\xE1cias Spritesheets_1526"
+  - first:
+      213: -257792110925567420
+    second: "Hem\xE1cias Spritesheets_1527"
+  - first:
+      213: 35977755765113403
+    second: "Hem\xE1cias Spritesheets_1528"
+  - first:
+      213: 1999104076428512711
+    second: "Hem\xE1cias Spritesheets_1529"
+  - first:
+      213: 9025599325078506946
+    second: "Hem\xE1cias Spritesheets_1530"
+  - first:
+      213: -2565663190407992171
+    second: "Hem\xE1cias Spritesheets_1531"
+  - first:
+      213: 4565982529815507277
+    second: "Hem\xE1cias Spritesheets_1532"
+  - first:
+      213: 4105512464731568078
+    second: "Hem\xE1cias Spritesheets_1533"
+  - first:
+      213: 7696522339664971596
+    second: "Hem\xE1cias Spritesheets_1534"
+  - first:
+      213: -8030679395386572509
+    second: "Hem\xE1cias Spritesheets_1535"
+  - first:
+      213: 7367502045626281574
+    second: "Hem\xE1cias Spritesheets_1536"
+  - first:
+      213: -2108421644912954929
+    second: "Hem\xE1cias Spritesheets_1537"
+  - first:
+      213: 1767542523283327053
+    second: "Hem\xE1cias Spritesheets_1538"
+  - first:
+      213: -5665816377566455377
+    second: "Hem\xE1cias Spritesheets_1539"
+  - first:
+      213: 7604363634773701008
+    second: "Hem\xE1cias Spritesheets_1540"
+  - first:
+      213: -7592013173972569521
+    second: "Hem\xE1cias Spritesheets_1541"
+  - first:
+      213: -218803006788461790
+    second: "Hem\xE1cias Spritesheets_1542"
+  - first:
+      213: 2892737198500799200
+    second: "Hem\xE1cias Spritesheets_1543"
+  - first:
+      213: -8714588551050686729
+    second: "Hem\xE1cias Spritesheets_1544"
+  - first:
+      213: 1542342215507508783
+    second: "Hem\xE1cias Spritesheets_1545"
+  - first:
+      213: 3838073316140383540
+    second: "Hem\xE1cias Spritesheets_1546"
+  - first:
+      213: 8542659818852135952
+    second: "Hem\xE1cias Spritesheets_1547"
+  - first:
+      213: 1088817537981077346
+    second: "Hem\xE1cias Spritesheets_1548"
+  - first:
+      213: 2682809860389314206
+    second: "Hem\xE1cias Spritesheets_1549"
+  - first:
+      213: -8995172797425430227
+    second: "Hem\xE1cias Spritesheets_1550"
+  - first:
+      213: 3509263527564477457
+    second: "Hem\xE1cias Spritesheets_1551"
+  - first:
+      213: -1220514091967007095
+    second: "Hem\xE1cias Spritesheets_1552"
+  - first:
+      213: 8040628954536170399
+    second: "Hem\xE1cias Spritesheets_1553"
+  - first:
+      213: -5498105490416105855
+    second: "Hem\xE1cias Spritesheets_1554"
+  - first:
+      213: -7953965186646246164
+    second: "Hem\xE1cias Spritesheets_1555"
+  - first:
+      213: -189072955240937420
+    second: "Hem\xE1cias Spritesheets_1556"
+  - first:
+      213: -7685860233011368420
+    second: "Hem\xE1cias Spritesheets_1557"
+  - first:
+      213: -959069634787364739
+    second: "Hem\xE1cias Spritesheets_1558"
+  - first:
+      213: 2477635343031301514
+    second: "Hem\xE1cias Spritesheets_1559"
+  - first:
+      213: -1110883960769983038
+    second: "Hem\xE1cias Spritesheets_1560"
+  - first:
+      213: -886881016199468501
+    second: "Hem\xE1cias Spritesheets_1561"
+  - first:
+      213: 5670186840467535557
+    second: "Hem\xE1cias Spritesheets_1562"
+  - first:
+      213: 4674473483225685441
+    second: "Hem\xE1cias Spritesheets_1563"
+  - first:
+      213: -8086428523811490989
+    second: "Hem\xE1cias Spritesheets_1564"
+  - first:
+      213: -5321078429188949905
+    second: "Hem\xE1cias Spritesheets_1565"
+  - first:
+      213: -4681256760379293887
+    second: "Hem\xE1cias Spritesheets_1566"
+  - first:
+      213: 6517172021396183143
+    second: "Hem\xE1cias Spritesheets_1567"
+  - first:
+      213: 5734825309988262468
+    second: "Hem\xE1cias Spritesheets_1568"
+  - first:
+      213: -8926876486012677187
+    second: "Hem\xE1cias Spritesheets_1569"
+  - first:
+      213: 1204008345581813636
+    second: "Hem\xE1cias Spritesheets_1570"
+  - first:
+      213: 9140163095771802228
+    second: "Hem\xE1cias Spritesheets_1571"
+  - first:
+      213: 2509329830047948061
+    second: "Hem\xE1cias Spritesheets_1572"
+  - first:
+      213: 4989340165926988517
+    second: "Hem\xE1cias Spritesheets_1573"
+  - first:
+      213: -6717977065679506196
+    second: "Hem\xE1cias Spritesheets_1574"
+  - first:
+      213: -6500654042798131065
+    second: "Hem\xE1cias Spritesheets_1575"
+  - first:
+      213: 243614322439547376
+    second: "Hem\xE1cias Spritesheets_1576"
+  - first:
+      213: -7187175964402345949
+    second: "Hem\xE1cias Spritesheets_1577"
+  - first:
+      213: -622986584750433018
+    second: "Hem\xE1cias Spritesheets_1578"
+  - first:
+      213: 8534014469302417021
+    second: "Hem\xE1cias Spritesheets_1579"
+  - first:
+      213: 1615139934162598851
+    second: "Hem\xE1cias Spritesheets_1580"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_0"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 812
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77be38a8e8c4f90800000000000000
+      internalID: -6968037797879121939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_1"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 816
+        width: 508
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97e9b8b3c3df800800000000000000
+      internalID: 647740147854375347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_2"
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 816
+        width: 505
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee14b2c9b71f7e0800000000000000
+      internalID: -1733468470890074508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_3"
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 820
+        width: 505
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17227c4c309f986d0800000000000000
+      internalID: -2987583083202010511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_4"
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 820
+        width: 504
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1826925d72b0ae9c0800000000000000
+      internalID: -3897290261827853695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_5"
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 824
+        width: 501
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde1d48209593d0f0800000000000000
+      internalID: -1093365838136926499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_6"
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 824
+        width: 500
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaedd744e8522300800000000000000
+      internalID: 225840668803459823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_7"
+      rect:
+        serializedVersion: 2
+        x: 5092
+        y: 824
+        width: 500
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8092967fb3a420800000000000000
+      internalID: 2640164322555235005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_8"
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 820
+        width: 501
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726fac92bda009230800000000000000
+      internalID: 3643424034958013991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_9"
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 816
+        width: 505
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b62246dd8ee7b0800000000000000
+      internalID: -5193057368939252333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_10"
+      rect:
+        serializedVersion: 2
+        x: 7220
+        y: 816
+        width: 508
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51cd25dadae9370800000000000000
+      internalID: 8331287320613098989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_11"
+      rect:
+        serializedVersion: 2
+        x: 7933
+        y: 816
+        width: 509
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e493bc8ae8a770800000000000000
+      internalID: 8622399376630015569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_12"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 173
+        width: 509
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f96b523e313d44c0800000000000000
+      internalID: -4301727925866370569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_13"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 173
+        width: 508
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1cf89c6a24aec60800000000000000
+      internalID: 7848158584760156602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_14"
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 177
+        width: 505
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c55d476152955d0800000000000000
+      internalID: -3073384492324004818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_15"
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 177
+        width: 505
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a155b466240f181b0800000000000000
+      internalID: -5655975489025911526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_16"
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 177
+        width: 504
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d63a2be7c43cf4a0800000000000000
+      internalID: -6558308924109736231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_17"
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 182
+        width: 501
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4e1deac7f0bc4d0800000000000000
+      internalID: -3113377689213213528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_18"
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 182
+        width: 500
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b9c2e7f13b52d0800000000000000
+      internalID: -3288980162132462467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_19"
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 178
+        width: 502
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74601092a56fa60800000000000000
+      internalID: 7707446944448530346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_20"
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 177
+        width: 501
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af84e53a8e61d3410800000000000000
+      internalID: 1458347042766997754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_21"
+      rect:
+        serializedVersion: 2
+        x: 6510
+        y: 177
+        width: 505
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b365211385a3c2f90800000000000000
+      internalID: -6977137572248922565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_22"
+      rect:
+        serializedVersion: 2
+        x: 7220
+        y: 173
+        width: 508
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20123f282a665d90800000000000000
+      internalID: -7109378240934703060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hem\xE1cias Spritesheets_23"
+      rect:
+        serializedVersion: 2
+        x: 7933
+        y: 173
+        width: 509
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a88c0b5cc6a90f0800000000000000
+      internalID: -1109454761863116210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

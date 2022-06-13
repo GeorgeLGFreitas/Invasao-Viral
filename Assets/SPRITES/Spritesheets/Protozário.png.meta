@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: c97f7c2f23894a049874428b8341bfdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6070831659333908279
+    second: "Protoz\xE1rio_0"
+  - first:
+      213: 316580600852671381
+    second: "Protoz\xE1rio_1"
+  - first:
+      213: -3554904752126355119
+    second: "Protoz\xE1rio_2"
+  - first:
+      213: -663758923428942005
+    second: "Protoz\xE1rio_3"
+  - first:
+      213: 754009854834182447
+    second: "Protoz\xE1rio_4"
+  - first:
+      213: 1327264947588847920
+    second: "Protoz\xE1rio_5"
+  - first:
+      213: 4671430800279017753
+    second: "Protoz\xE1rio_6"
+  - first:
+      213: 8327354213329929501
+    second: "Protoz\xE1rio_7"
+  - first:
+      213: -4866275910966465621
+    second: "Protoz\xE1rio_8"
+  - first:
+      213: 4215750609326148307
+    second: "Protoz\xE1rio_9"
+  - first:
+      213: -8285044939299639761
+    second: "Protoz\xE1rio_10"
+  - first:
+      213: 1804142274151830003
+    second: "Protoz\xE1rio_11"
+  - first:
+      213: 2104685092035530364
+    second: "Protoz\xE1rio_0"
+  - first:
+      213: -1318213253295137696
+    second: "Protoz\xE1rio_1"
+  - first:
+      213: -967956684257652839
+    second: "Protoz\xE1rio_4"
+  - first:
+      213: -8917400258351953924
+    second: "Protoz\xE1rio_5"
+  - first:
+      213: 6824175308500074304
+    second: "Protoz\xE1rio_8"
+  - first:
+      213: -3912666091116617918
+    second: "Protoz\xE1rio_9"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_0"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3317
+        width: 1706
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8053e35c210cba0800000000000000
+      internalID: -6070831659333908279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_1"
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 3321
+        width: 1703
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6a901168b46400800000000000000
+      internalID: 316580600852671381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_2"
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 3317
+        width: 1694
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159192f66f07aaec0800000000000000
+      internalID: -3554904752126355119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_3"
+      rect:
+        serializedVersion: 2
+        x: 6193
+        y: 3296
+        width: 1688
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fa580a6cad9c6f0800000000000000
+      internalID: -663758923428942005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_4"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1974
+        width: 1686
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f290982d7f7c67a00800000000000000
+      internalID: 754009854834182447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_5"
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1978
+        width: 1673
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395cdb00746b6210800000000000000
+      internalID: 1327264947588847920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_6"
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 1982
+        width: 1661
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9191373009144d040800000000000000
+      internalID: 4671430800279017753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_7"
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 1957
+        width: 1641
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15026c6984b09370800000000000000
+      internalID: 8327354213329929501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_8"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 643
+        width: 1620
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babadc377d3877cb0800000000000000
+      internalID: -4866275910966465621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_9"
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 623
+        width: 1596
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da858ad7da518a30800000000000000
+      internalID: 4215750609326148307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_10"
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 660
+        width: 1652
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ea5e4168b950d80800000000000000
+      internalID: -8285044939299639761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Protoz\xE1rio_11"
+      rect:
+        serializedVersion: 2
+        x: 6167
+        y: 700
+        width: 1686
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1d51fe6d9990910800000000000000
+      internalID: 1804142274151830003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

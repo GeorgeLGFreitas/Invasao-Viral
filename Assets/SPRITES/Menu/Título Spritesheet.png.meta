@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: c68896c4b0c88904fb6c862053a8fc32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4562530282016301210
+    second: "T\xEDtulo Spritesheet_0"
+  - first:
+      213: -6892266537788634133
+    second: "T\xEDtulo Spritesheet_1"
+  - first:
+      213: 5602308747223419652
+    second: "T\xEDtulo Spritesheet_2"
+  - first:
+      213: -1974486224846951297
+    second: "T\xEDtulo Spritesheet_3"
+  - first:
+      213: 7138969709992658569
+    second: "T\xEDtulo Spritesheet_4"
+  - first:
+      213: -5396925735231281662
+    second: "T\xEDtulo Spritesheet_5"
+  - first:
+      213: -8646821743917117857
+    second: "T\xEDtulo Spritesheet_6"
+  - first:
+      213: 3243246270650923909
+    second: "T\xEDtulo Spritesheet_7"
+  - first:
+      213: 418721458714372855
+    second: "T\xEDtulo Spritesheet_8"
+  - first:
+      213: -6100557745186508603
+    second: "T\xEDtulo Spritesheet_9"
+  - first:
+      213: 3850859567466777164
+    second: "T\xEDtulo Spritesheet_10"
+  - first:
+      213: -7802274629408748932
+    second: "T\xEDtulo Spritesheet_11"
+  - first:
+      213: -4499460666682281240
+    second: "T\xEDtulo Spritesheet_12"
+  - first:
+      213: -488039790183406841
+    second: "T\xEDtulo Spritesheet_13"
+  - first:
+      213: 7645083966067046411
+    second: "T\xEDtulo Spritesheet_14"
+  - first:
+      213: 7977996439121970568
+    second: "T\xEDtulo Spritesheet_15"
+  - first:
+      213: 3610032410475751198
+    second: "T\xEDtulo Spritesheet_16"
+  - first:
+      213: -8142946831120630036
+    second: "T\xEDtulo Spritesheet_17"
+  - first:
+      213: -6117269317717960250
+    second: "T\xEDtulo Spritesheet_18"
+  - first:
+      213: -3118390111566789889
+    second: "T\xEDtulo Spritesheet_19"
+  - first:
+      213: 1858691061275404025
+    second: "T\xEDtulo Spritesheet_20"
+  - first:
+      213: -6284137074423321852
+    second: "T\xEDtulo Spritesheet_21"
+  - first:
+      213: -7860859610193753738
+    second: "T\xEDtulo Spritesheet_22"
+  - first:
+      213: 4852440838829833218
+    second: "T\xEDtulo Spritesheet_23"
+  - first:
+      213: -5192008077334712027
+    second: "T\xEDtulo Spritesheet_24"
+  - first:
+      213: -7214069608919896415
+    second: "T\xEDtulo Spritesheet_25"
+  - first:
+      213: 4743312104819793576
+    second: "T\xEDtulo Spritesheet_26"
+  - first:
+      213: 230699945407068258
+    second: "T\xEDtulo Spritesheet_27"
+  - first:
+      213: 857629046607670400
+    second: "T\xEDtulo Spritesheet_28"
+  - first:
+      213: 4664848300199854952
+    second: "T\xEDtulo Spritesheet_29"
+  - first:
+      213: -8546982731679514047
+    second: "T\xEDtulo Spritesheet_30"
+  - first:
+      213: 5162884618296239836
+    second: "T\xEDtulo Spritesheet_31"
+  - first:
+      213: 3248003345146874368
+    second: "T\xEDtulo Spritesheet_32"
+  - first:
+      213: -3545249521734842747
+    second: "T\xEDtulo Spritesheet_33"
+  - first:
+      213: 3279454695266329514
+    second: "T\xEDtulo Spritesheet_34"
+  - first:
+      213: 8884426785094085500
+    second: "T\xEDtulo Spritesheet_35"
+  - first:
+      213: -8402202749022482226
+    second: "T\xEDtulo Spritesheet_36"
+  - first:
+      213: -6082870315986747359
+    second: "T\xEDtulo Spritesheet_37"
+  - first:
+      213: -5982019883607445659
+    second: "T\xEDtulo Spritesheet_38"
+  - first:
+      213: -6187159678763276661
+    second: "T\xEDtulo Spritesheet_39"
+  - first:
+      213: -8829879712399712706
+    second: "T\xEDtulo Spritesheet_40"
+  - first:
+      213: 6671571162060474794
+    second: "T\xEDtulo Spritesheet_41"
+  - first:
+      213: 4413598956379443198
+    second: "T\xEDtulo Spritesheet_42"
+  - first:
+      213: -4008862458730668735
+    second: "T\xEDtulo Spritesheet_43"
+  - first:
+      213: -3754850364801368442
+    second: "T\xEDtulo Spritesheet_44"
+  - first:
+      213: -6363574298772331866
+    second: "T\xEDtulo Spritesheet_45"
+  - first:
+      213: 1961358005106852232
+    second: "T\xEDtulo Spritesheet_46"
+  - first:
+      213: 3255833417803192381
+    second: "T\xEDtulo Spritesheet_47"
+  - first:
+      213: -795573405943242355
+    second: "T\xEDtulo Spritesheet_48"
+  - first:
+      213: 3720565329394428405
+    second: "T\xEDtulo Spritesheet_49"
+  - first:
+      213: 9020245386794571340
+    second: "T\xEDtulo Spritesheet_50"
+  - first:
+      213: -3127437250350285533
+    second: "T\xEDtulo Spritesheet_51"
+  - first:
+      213: -2462645717031136350
+    second: "T\xEDtulo Spritesheet_52"
+  - first:
+      213: 7658708515343421961
+    second: "T\xEDtulo Spritesheet_53"
+  - first:
+      213: 565283896704006586
+    second: "T\xEDtulo Spritesheet_54"
+  - first:
+      213: -4823258596917288
+    second: "T\xEDtulo Spritesheet_55"
+  - first:
+      213: -4448339871148661558
+    second: "T\xEDtulo Spritesheet_56"
+  - first:
+      213: 1371025603821757268
+    second: "T\xEDtulo Spritesheet_57"
+  - first:
+      213: 1702709732913134033
+    second: "T\xEDtulo Spritesheet_58"
+  - first:
+      213: 327230521446763629
+    second: "T\xEDtulo Spritesheet_59"
+  - first:
+      213: 1742628295759987755
+    second: "T\xEDtulo Spritesheet_60"
+  - first:
+      213: 2368812095519421479
+    second: "T\xEDtulo Spritesheet_61"
+  - first:
+      213: -5353264434137512638
+    second: "T\xEDtulo Spritesheet_62"
+  - first:
+      213: 911475214699157850
+    second: "T\xEDtulo Spritesheet_63"
+  - first:
+      213: -485889437281859267
+    second: "T\xEDtulo Spritesheet_64"
+  - first:
+      213: 1641744092168300594
+    second: "T\xEDtulo Spritesheet_65"
+  - first:
+      213: 4950926966985997882
+    second: "T\xEDtulo Spritesheet_66"
+  - first:
+      213: 3390836551060948979
+    second: "T\xEDtulo Spritesheet_67"
+  - first:
+      213: 1385903380722586216
+    second: "T\xEDtulo Spritesheet_68"
+  - first:
+      213: -3824772583831426984
+    second: "T\xEDtulo Spritesheet_69"
+  - first:
+      213: 4934887584459220685
+    second: "T\xEDtulo Spritesheet_70"
+  - first:
+      213: -4670974050954206016
+    second: "T\xEDtulo Spritesheet_71"
+  - first:
+      213: -4885972641154076916
+    second: "T\xEDtulo Spritesheet_72"
+  - first:
+      213: -1405147314426176877
+    second: "T\xEDtulo Spritesheet_73"
+  - first:
+      213: -2489477581348707170
+    second: "T\xEDtulo Spritesheet_74"
+  - first:
+      213: -5110557228321329638
+    second: "T\xEDtulo Spritesheet_75"
+  - first:
+      213: -8956742224839352414
+    second: "T\xEDtulo Spritesheet_76"
+  - first:
+      213: -589916977966251307
+    second: "T\xEDtulo Spritesheet_77"
+  - first:
+      213: -4634101977253678178
+    second: "T\xEDtulo Spritesheet_78"
+  - first:
+      213: 6957761348982791666
+    second: "T\xEDtulo Spritesheet_79"
+  - first:
+      213: -4186718722227262214
+    second: "T\xEDtulo Spritesheet_80"
+  - first:
+      213: 524816654718122083
+    second: "T\xEDtulo Spritesheet_81"
+  - first:
+      213: -5017904883327832149
+    second: "T\xEDtulo Spritesheet_82"
+  - first:
+      213: -4678701211924750315
+    second: "T\xEDtulo Spritesheet_83"
+  - first:
+      213: 3935961021574169007
+    second: "T\xEDtulo Spritesheet_84"
+  - first:
+      213: -1099780225725550386
+    second: "T\xEDtulo Spritesheet_85"
+  - first:
+      213: 4604176797896042464
+    second: "T\xEDtulo Spritesheet_86"
+  - first:
+      213: 3894099904411444783
+    second: "T\xEDtulo Spritesheet_87"
+  - first:
+      213: 1960301852218565020
+    second: "T\xEDtulo Spritesheet_88"
+  - first:
+      213: 2910722046949156373
+    second: "T\xEDtulo Spritesheet_89"
+  - first:
+      213: 1181518872062683329
+    second: "T\xEDtulo Spritesheet_90"
+  - first:
+      213: 8180111440657558093
+    second: "T\xEDtulo Spritesheet_91"
+  - first:
+      213: -7728375924837661815
+    second: "T\xEDtulo Spritesheet_92"
+  - first:
+      213: -7579642553287797654
+    second: "T\xEDtulo Spritesheet_93"
+  - first:
+      213: -8419277271897089179
+    second: "T\xEDtulo Spritesheet_94"
+  - first:
+      213: 7389823194232647910
+    second: "T\xEDtulo Spritesheet_95"
+  - first:
+      213: 8512288577260645613
+    second: "T\xEDtulo Spritesheet_96"
+  - first:
+      213: 8816586479973186605
+    second: "T\xEDtulo Spritesheet_97"
+  - first:
+      213: 9208992079073968797
+    second: "T\xEDtulo Spritesheet_98"
+  - first:
+      213: 4375575345160345766
+    second: "T\xEDtulo Spritesheet_99"
+  - first:
+      213: -4228571392308412670
+    second: "T\xEDtulo Spritesheet_100"
+  - first:
+      213: -5869632933024966946
+    second: "T\xEDtulo Spritesheet_101"
+  - first:
+      213: -9059899780117670620
+    second: "T\xEDtulo Spritesheet_102"
+  - first:
+      213: -298320316610111861
+    second: "T\xEDtulo Spritesheet_103"
+  - first:
+      213: -725509878824649275
+    second: "T\xEDtulo Spritesheet_104"
+  - first:
+      213: 4163323470721069103
+    second: "T\xEDtulo Spritesheet_105"
+  - first:
+      213: -4566259162882058960
+    second: "T\xEDtulo Spritesheet_106"
+  - first:
+      213: 8734267256983862626
+    second: "T\xEDtulo Spritesheet_107"
+  - first:
+      213: 2091966366302741297
+    second: "T\xEDtulo Spritesheet_108"
+  - first:
+      213: 5971179222053382501
+    second: "T\xEDtulo Spritesheet_109"
+  - first:
+      213: -1987757368514910006
+    second: "T\xEDtulo Spritesheet_0"
+  - first:
+      213: 134334618206664263
+    second: "T\xEDtulo Spritesheet_1"
+  - first:
+      213: 7432718341697034065
+    second: "T\xEDtulo Spritesheet_2"
+  - first:
+      213: -7782597600364395138
+    second: "T\xEDtulo Spritesheet_3"
+  - first:
+      213: 8044765877012319174
+    second: "T\xEDtulo Spritesheet_4"
+  - first:
+      213: -8649843950612821259
+    second: "T\xEDtulo Spritesheet_5"
+  - first:
+      213: -7832894703601725758
+    second: "T\xEDtulo Spritesheet_6"
+  - first:
+      213: -8721162982550553501
+    second: "T\xEDtulo Spritesheet_7"
+  - first:
+      213: 4612529756837777495
+    second: "T\xEDtulo Spritesheet_8"
+  - first:
+      213: -8350348238220867180
+    second: "T\xEDtulo Spritesheet_9"
+  - first:
+      213: 2135701014320908226
+    second: "T\xEDtulo Spritesheet_10"
+  - first:
+      213: -3648946471888982522
+    second: "T\xEDtulo Spritesheet_11"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2058.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.34678578, y: 0.30498493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e00674311a64e0800000000000000
+      internalID: -1987757368514910006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_1"
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2058.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3234707, y: 0.30498493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746fe3f9f904dd100800000000000000
+      internalID: 134334618206664263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_2"
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 2058.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3001557, y: 0.30498493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d16893f1562760800000000000000
+      internalID: 7432718341697034065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.34678578, y: 0.37649044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75097867b8aef390800000000000000
+      internalID: -7782597600364395138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_4"
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1372.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3268015, y: 0.38949156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc08031ffb4af60800000000000000
+      internalID: 8044765877012319174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_5"
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1372.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3001557, y: 0.37649044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa492971c495f780800000000000000
+      internalID: -8649843950612821259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.35011652, y: 0.45449662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec7cc74c7fb4390800000000000000
+      internalID: -7832894703601725758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_7"
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 686.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3234707, y: 0.44799608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb9cc597438f680800000000000000
+      internalID: -8721162982550553501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_8"
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 686.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3034864, y: 0.44799608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501c38206ff20040800000000000000
+      internalID: 4612529756837777495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.35011652, y: 0.53250265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4994906f48a9d1c80800000000000000
+      internalID: -8350348238220867180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_10"
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 0.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3234707, y: 0.5260021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70a01d1c883ad10800000000000000
+      internalID: 2135701014320908226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "T\xEDtulo Spritesheet_11"
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 0.75
+        width: 1339.3334
+        height: 686.25
+      alignment: 9
+      pivot: {x: 0.3001557, y: 0.5260021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e64aa44865c5dc0800000000000000
+      internalID: -3648946471888982522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
